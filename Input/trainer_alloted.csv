@@ -1,0 +1,631 @@
+Batch No,Trainer,Expertise
+1,Prashanth,NLP
+1,Mohan,Power BI
+1,Vinod,Excel
+1,Tushit,Deep Learning
+1,Munmun,Machine Learning
+1,Suresh,SQL
+1,Vasudev,Statistics
+1,Anagha,AWS
+1,Sukruth,Python
+2,Prashanth,Power BI
+2,Mohan,Excel
+2,Vinod,Deep Learning
+2,Tushit,Machine Learning
+2,Munmun,SQL
+2,Suresh,Statistics
+2,Vasudev,AWS
+2,Anagha,NLP
+2,Sukruth,Python
+3,Prashanth,NLP
+3,Mohan,Power BI
+3,Vinod,Excel
+3,Tushit,Deep Learning
+3,Munmun,Machine Learning
+3,Suresh,SQL
+3,Vasudev,Statistics
+3,Anagha,AWS
+3,Sukruth,Python
+4,Prashanth,NLP
+4,Mohan,Power BI
+4,Vinod,Excel
+4,Tushit,Deep Learning
+4,Munmun,Machine Learning
+4,Suresh,SQL
+4,Vasudev,Statistics
+4,Anagha,AWS
+4,Sukruth,Python
+5,Murthy,NLP
+5,Sandeep,Power BI
+5,Akshita,Excel
+5,Srihari,Deep Learning
+5,Advaith,Machine Learning
+5,Ananya,SQL
+5,Rajat,Statistics
+5,Santosh,AWS
+5,Sukruth,Python
+6,Murthy,NLP
+6,Sandeep,Power BI
+6,Akshita,Excel
+6,Srihari,Deep Learning
+6,Advaith,Machine Learning
+6,Ananya,SQL
+6,Rajat,Statistics
+6,Santosh,AWS
+6,Sukruth,Python
+7,Murthy,NLP
+7,Sandeep,Power BI
+7,Sandeep,Excel
+7,Akshita,Deep Learning
+7,Srihari,Machine Learning
+7,Advaith,SQL
+7,Ananya,Statistics
+7,Rajat,AWS
+7,Sukruth,Python
+8,Santosh,NLP
+8,Sukruth,Power BI
+8,Sandeep,Excel
+8,Akshita,Deep Learning
+8,Srihari,Machine Learning
+8,Advaith,SQL
+8,Ananya,Statistics
+8,Rajat,AWS
+8,Sukruth,Python
+9,Santosh,NLP
+9,Sukruth,Power BI
+9,Sandeep,Excel
+9,Akshita,Deep Learning
+9,Srihari,Machine Learning
+9,Advaith,SQL
+9,Ananya,Statistics
+9,Rajat,AWS
+9,Sukruth,Python
+10,Santosh,NLP
+10,Sukruth,Power BI
+10,Prashanth,Excel
+10,Mohan,Deep Learning
+10,Vinod,Machine Learning
+10,Tushit,SQL
+10,Munmun,Statistics
+10,Suresh,AWS
+10,Sukruth,Python
+11,Vasudev,NLP
+11,Anagha,Power BI
+11,Prashanth,Excel
+11,Mohan,Deep Learning
+11,Vinod,Machine Learning
+11,Tushit,SQL
+11,Munmun,Statistics
+11,Suresh,AWS
+11,Sukruth,Python
+12,Vasudev,NLP
+12,Anagha,Power BI
+12,Murthy,Excel
+12,Sandeep,Deep Learning
+12,Akshita,Machine Learning
+12,Srihari,SQL
+12,Advaith,Statistics
+12,Ananya,AWS
+12,Sukruth,Python
+13,Rajat,NLP
+13,Santosh,Power BI
+13,Murthy,Excel
+13,Sandeep,Deep Learning
+13,Akshita,Machine Learning
+13,Srihari,SQL
+13,Advaith,Statistics
+13,Ananya,AWS
+13,Sukruth,Python
+14,Rajat,NLP
+14,Santosh,Power BI
+14,Murthy,Excel
+14,Sandeep,Deep Learning
+14,Akshita,Machine Learning
+14,Srihari,SQL
+14,Advaith,Statistics
+14,Ananya,AWS
+14,Sukruth,Python
+15,Rajat,NLP
+15,Santosh,Power BI
+15,Murthy,Excel
+15,Sandeep,Deep Learning
+15,Akshita,Machine Learning
+15,Srihari,SQL
+15,Advaith,Statistics
+15,Ananya,AWS
+15,Sukruth,Python
+16,Rajat,NLP
+16,Santosh,Power BI
+16,Murthy,Excel
+16,Sandeep,Deep Learning
+16,Akshita,Machine Learning
+16,Srihari,SQL
+16,Advaith,Statistics
+16,Ananya,AWS
+16,Sukruth,Python
+17,Rajat,NLP
+17,Santosh,Power BI
+17,Murthy,Excel
+17,Sandeep,Deep Learning
+17,Akshita,Machine Learning
+17,Srihari,SQL
+17,Advaith,Statistics
+17,Ananya,AWS
+17,Sukruth,Python
+18,Rajat,NLP
+18,Santosh,Power BI
+18,Murthy,Excel
+18,Sandeep,Deep Learning
+18,Akshita,Machine Learning
+18,Srihari,SQL
+18,Advaith,Statistics
+18,Ananya,AWS
+18,Sukruth,Python
+19,Rajat,NLP
+19,Santosh,Power BI
+19,Sukruth,Excel
+19,Santosh,Deep Learning
+19,Sandeep,Machine Learning
+19,Akshita,SQL
+19,Srihari,Statistics
+19,Advaith,AWS
+19,Sukruth,Python
+20,Ananya,NLP
+20,Rajat,Power BI
+20,Santosh,Excel
+20,Sukruth,Deep Learning
+20,Sandeep,Machine Learning
+20,Akshita,SQL
+20,Srihari,Statistics
+20,Advaith,AWS
+20,Sukruth,Python
+21,Ananya,NLP
+21,Rajat,Power BI
+21,Santosh,Excel
+21,Sukruth,Deep Learning
+21,Sandeep,Machine Learning
+21,Akshita,SQL
+21,Srihari,Statistics
+21,Advaith,AWS
+21,Sukruth,Python
+22,Ananya,NLP
+22,Rajat,Power BI
+22,Santosh,Excel
+22,Sukruth,Deep Learning
+22,Sandeep,Machine Learning
+22,Akshita,SQL
+22,Srihari,Statistics
+22,Advaith,AWS
+22,Sukruth,Python
+23,Ananya,NLP
+23,Rajat,Power BI
+23,Santosh,Excel
+23,Sukruth,Deep Learning
+23,Sandeep,Machine Learning
+23,Akshita,SQL
+23,Srihari,Statistics
+23,Advaith,AWS
+23,Sukruth,Python
+24,Ananya,NLP
+24,Rajat,Power BI
+24,Santosh,Excel
+24,Sukruth,Deep Learning
+24,Sandeep,Machine Learning
+24,Akshita,SQL
+24,Srihari,Statistics
+24,Advaith,AWS
+24,Sukruth,Python
+25,Ananya,NLP
+25,Rajat,Power BI
+25,Santosh,Excel
+25,Sukruth,Deep Learning
+25,Sandeep,Machine Learning
+25,Akshita,SQL
+25,Srihari,Statistics
+25,Advaith,AWS
+25,Sukruth,Python
+26,Ananya,NLP
+26,Rajat,Power BI
+26,Santosh,Excel
+26,Sukruth,Deep Learning
+26,Sandeep,Machine Learning
+26,Akshita,SQL
+26,Srihari,Statistics
+26,Advaith,AWS
+26,Sukruth,Python
+27,Ananya,NLP
+27,Rajat,Power BI
+27,Santosh,Excel
+27,Sukruth,Deep Learning
+27,Mohan,Machine Learning
+27,Vinod,SQL
+27,Tushit,Statistics
+27,Munmun,AWS
+27,Sukruth,Python
+28,Suresh,NLP
+28,Vasudev,Power BI
+28,Anagha,Excel
+28,Murthy,Deep Learning
+28,Mohan,Machine Learning
+28,Vinod,SQL
+28,Tushit,Statistics
+28,Munmun,AWS
+28,Sukruth,Python
+29,Suresh,NLP
+29,Vasudev,Power BI
+29,Anagha,Excel
+29,Murthy,Deep Learning
+29,Mohan,Machine Learning
+29,Vinod,SQL
+29,Tushit,Statistics
+29,Munmun,AWS
+29,Sukruth,Python
+30,Suresh,NLP
+30,Vasudev,Power BI
+30,Anagha,Excel
+30,Murthy,Deep Learning
+30,Mohan,Machine Learning
+30,Vinod,SQL
+30,Tushit,Statistics
+30,Munmun,AWS
+30,Sukruth,Python
+31,Suresh,NLP
+31,Vasudev,Power BI
+31,Anagha,Excel
+31,Murthy,Deep Learning
+31,Vasudev,Machine Learning
+31,Anagha,SQL
+31,Murthy,Statistics
+31,Sandeep,AWS
+31,Sukruth,Python
+32,Akshita,NLP
+32,Srihari,Power BI
+32,Advaith,Excel
+32,Ananya,Deep Learning
+32,Vasudev,Machine Learning
+32,Anagha,SQL
+32,Murthy,Statistics
+32,Sandeep,AWS
+32,Sukruth,Python
+33,Akshita,NLP
+33,Srihari,Power BI
+33,Advaith,Excel
+33,Ananya,Deep Learning
+33,Vasudev,Machine Learning
+33,Anagha,SQL
+33,Murthy,Statistics
+33,Sandeep,AWS
+33,Sukruth,Python
+34,Akshita,NLP
+34,Srihari,Power BI
+34,Advaith,Excel
+34,Ananya,Deep Learning
+34,Vasudev,Machine Learning
+34,Anagha,SQL
+34,Murthy,Statistics
+34,Sandeep,AWS
+34,Sukruth,Python
+35,Akshita,NLP
+35,Srihari,Power BI
+35,Advaith,Excel
+35,Ananya,Deep Learning
+35,Vasudev,Machine Learning
+35,Anagha,SQL
+35,Murthy,Statistics
+35,Sandeep,AWS
+35,Sukruth,Python
+36,Akshita,NLP
+36,Srihari,Power BI
+36,Advaith,Excel
+36,Ananya,Deep Learning
+36,Vasudev,Machine Learning
+36,Anagha,SQL
+36,Murthy,Statistics
+36,Sandeep,AWS
+36,Sukruth,Python
+37,Akshita,NLP
+37,Srihari,Power BI
+37,Advaith,Excel
+37,Ananya,Deep Learning
+37,Vasudev,Machine Learning
+37,Anagha,SQL
+37,Murthy,Statistics
+37,Sandeep,AWS
+37,Sukruth,Python
+38,Akshita,NLP
+38,Srihari,Power BI
+38,Advaith,Excel
+38,Ananya,Deep Learning
+38,Sandeep,Machine Learning
+38,Akshita,SQL
+38,Srihari,Statistics
+38,Advaith,AWS
+38,Sukruth,Python
+39,Ananya,NLP
+39,Rajat,Power BI
+39,Santosh,Excel
+39,Sukruth,Deep Learning
+39,Sandeep,Machine Learning
+39,Akshita,SQL
+39,Srihari,Statistics
+39,Advaith,AWS
+39,Sukruth,Python
+40,Ananya,NLP
+40,Rajat,Power BI
+40,Santosh,Excel
+40,Sukruth,Deep Learning
+40,Sandeep,Machine Learning
+40,Akshita,SQL
+40,Srihari,Statistics
+40,Advaith,AWS
+40,Sukruth,Python
+41,Ananya,NLP
+41,Rajat,Power BI
+41,Santosh,Excel
+41,Sukruth,Deep Learning
+41,Sandeep,Machine Learning
+41,Akshita,SQL
+41,Srihari,Statistics
+41,Advaith,AWS
+41,Sukruth,Python
+42,Ananya,NLP
+42,Rajat,Power BI
+42,Santosh,Excel
+42,Sukruth,Deep Learning
+42,Sandeep,Machine Learning
+42,Akshita,SQL
+42,Srihari,Statistics
+42,Advaith,AWS
+42,Sukruth,Python
+43,Ananya,NLP
+43,Rajat,Power BI
+43,Santosh,Excel
+43,Sukruth,Deep Learning
+43,Sandeep,Machine Learning
+43,Akshita,SQL
+43,Srihari,Statistics
+43,Advaith,AWS
+43,Sukruth,Python
+44,Ananya,NLP
+44,Rajat,Power BI
+44,Santosh,Excel
+44,Sukruth,Deep Learning
+44,Prashanth,Machine Learning
+44,Mohan,SQL
+44,Vinod,Statistics
+44,Tushit,AWS
+44,Sukruth,Python
+45,Munmun,NLP
+45,Suresh,Power BI
+45,Vasudev,Excel
+45,Anagha,Deep Learning
+45,Prashanth,Machine Learning
+45,Mohan,SQL
+45,Vinod,Statistics
+45,Tushit,AWS
+45,Sukruth,Python
+46,Munmun,NLP
+46,Suresh,Power BI
+46,Vasudev,Excel
+46,Anagha,Deep Learning
+46,Prashanth,Machine Learning
+46,Mohan,SQL
+46,Vinod,Statistics
+46,Tushit,AWS
+46,Sukruth,Python
+47,Munmun,NLP
+47,Suresh,Power BI
+47,Vasudev,Excel
+47,Anagha,Deep Learning
+47,Prashanth,Machine Learning
+47,Mohan,SQL
+47,Vinod,Statistics
+47,Tushit,AWS
+47,Sukruth,Python
+48,Munmun,NLP
+48,Suresh,Power BI
+48,Vasudev,Excel
+48,Anagha,Deep Learning
+48,Prashanth,Machine Learning
+48,Mohan,SQL
+48,Vinod,Statistics
+48,Tushit,AWS
+48,Sukruth,Python
+49,Munmun,NLP
+49,Suresh,Power BI
+49,Vasudev,Excel
+49,Anagha,Deep Learning
+49,Vinod,Machine Learning
+49,Tushit,SQL
+49,Munmun,Statistics
+49,Suresh,AWS
+49,Sukruth,Python
+50,Vasudev,NLP
+50,Anagha,Power BI
+50,Murthy,Excel
+50,Sandeep,Deep Learning
+50,Vinod,Machine Learning
+50,Tushit,SQL
+50,Munmun,Statistics
+50,Suresh,AWS
+50,Sukruth,Python
+51,Vasudev,NLP
+51,Anagha,Power BI
+51,Murthy,Excel
+51,Sandeep,Deep Learning
+51,Vinod,Machine Learning
+51,Tushit,SQL
+51,Munmun,Statistics
+51,Suresh,AWS
+51,Sukruth,Python
+52,Vasudev,NLP
+52,Anagha,Power BI
+52,Murthy,Excel
+52,Sandeep,Deep Learning
+52,Vinod,Machine Learning
+52,Tushit,SQL
+52,Munmun,Statistics
+52,Suresh,AWS
+52,Sukruth,Python
+53,Vasudev,NLP
+53,Anagha,Power BI
+53,Murthy,Excel
+53,Sandeep,Deep Learning
+53,Vinod,Machine Learning
+53,Tushit,SQL
+53,Munmun,Statistics
+53,Suresh,AWS
+53,Sukruth,Python
+54,Vasudev,NLP
+54,Anagha,Power BI
+54,Murthy,Excel
+54,Sandeep,Deep Learning
+54,Sandeep,Machine Learning
+54,Akshita,SQL
+54,Srihari,Statistics
+54,Advaith,AWS
+54,Sukruth,Python
+55,Ananya,NLP
+55,Rajat,Power BI
+55,Santosh,Excel
+55,Sukruth,Deep Learning
+55,Sandeep,Machine Learning
+55,Akshita,SQL
+55,Srihari,Statistics
+55,Advaith,AWS
+55,Sukruth,Python
+56,Ananya,NLP
+56,Rajat,Power BI
+56,Santosh,Excel
+56,Sukruth,Deep Learning
+56,Sandeep,Machine Learning
+56,Akshita,SQL
+56,Srihari,Statistics
+56,Advaith,AWS
+56,Sukruth,Python
+57,Ananya,NLP
+57,Rajat,Power BI
+57,Santosh,Excel
+57,Sukruth,Deep Learning
+57,Sandeep,Machine Learning
+57,Akshita,SQL
+57,Srihari,Statistics
+57,Advaith,AWS
+57,Sukruth,Python
+58,Ananya,NLP
+58,Rajat,Power BI
+58,Santosh,Excel
+58,Sukruth,Deep Learning
+58,Sandeep,Machine Learning
+58,Akshita,SQL
+58,Srihari,Statistics
+58,Advaith,AWS
+58,Sukruth,Python
+59,Ananya,NLP
+59,Rajat,Power BI
+59,Santosh,Excel
+59,Sukruth,Deep Learning
+59,Sandeep,Machine Learning
+59,Akshita,SQL
+59,Srihari,Statistics
+59,Advaith,AWS
+59,Sukruth,Python
+60,Ananya,NLP
+60,Rajat,Power BI
+60,Santosh,Excel
+60,Sukruth,Deep Learning
+60,Sandeep,Machine Learning
+60,Akshita,SQL
+60,Srihari,Statistics
+60,Advaith,AWS
+60,Sukruth,Python
+61,Ananya,NLP
+61,Rajat,Power BI
+61,Santosh,Excel
+61,Sukruth,Deep Learning
+61,Munmun,Machine Learning
+61,Suresh,SQL
+61,Vasudev,Statistics
+61,Anagha,AWS
+61,Sukruth,Python
+62,Murthy,NLP
+62,Sandeep,Power BI
+62,Akshita,Excel
+62,Srihari,Deep Learning
+62,Munmun,Machine Learning
+62,Suresh,SQL
+62,Vasudev,Statistics
+62,Anagha,AWS
+62,Sukruth,Python
+63,Murthy,NLP
+63,Sandeep,Power BI
+63,Akshita,Excel
+63,Srihari,Deep Learning
+63,Munmun,Machine Learning
+63,Suresh,SQL
+63,Vasudev,Statistics
+63,Anagha,AWS
+63,Sukruth,Python
+64,Murthy,NLP
+64,Sandeep,Power BI
+64,Akshita,Excel
+64,Srihari,Deep Learning
+64,Munmun,Machine Learning
+64,Suresh,SQL
+64,Vasudev,Statistics
+64,Anagha,AWS
+64,Sukruth,Python
+65,Murthy,NLP
+65,Sandeep,Power BI
+65,Akshita,Excel
+65,Srihari,Deep Learning
+65,Munmun,Machine Learning
+65,Suresh,SQL
+65,Vasudev,Statistics
+65,Anagha,AWS
+65,Sukruth,Python
+66,Murthy,NLP
+66,Sandeep,Power BI
+66,Akshita,Excel
+66,Srihari,Deep Learning
+66,Munmun,Machine Learning
+66,Suresh,SQL
+66,Vasudev,Statistics
+66,Anagha,AWS
+66,Sukruth,Python
+67,Murthy,NLP
+67,Sandeep,Power BI
+67,Akshita,Excel
+67,Srihari,Deep Learning
+67,Munmun,Machine Learning
+67,Suresh,SQL
+67,Vasudev,Statistics
+67,Anagha,AWS
+67,Sukruth,Python
+68,Murthy,NLP
+68,Sandeep,Power BI
+68,Akshita,Excel
+68,Srihari,Deep Learning
+68,Munmun,Machine Learning
+68,Suresh,SQL
+68,Vasudev,Statistics
+68,Anagha,AWS
+68,Sukruth,Python
+69,Murthy,NLP
+69,Sandeep,Power BI
+69,Akshita,Excel
+69,Srihari,Deep Learning
+69,Munmun,Machine Learning
+69,Suresh,SQL
+69,Vasudev,Statistics
+69,Anagha,AWS
+69,Sukruth,Python
+70,Murthy,NLP
+70,Sandeep,Power BI
+70,Akshita,Excel
+70,Srihari,Deep Learning
+70,Munmun,Machine Learning
+70,Suresh,SQL
+70,Vasudev,Statistics
+70,Anagha,AWS
+70,Sukruth,Python

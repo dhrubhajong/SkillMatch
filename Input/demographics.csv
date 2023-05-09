@@ -1,0 +1,1876 @@
+SEN No.,Name,Education,Batch No,Gender,Location,Age,Passed out Year,Marital Status,Dependents,Years of Exp,Domain
+GL082020000,Ritesh Sinha,Mca Computer Applications,1,M,Bangalore,37,2020,Single,No,2,Manufacturing
+GL082020001,Jahnavi,Mba,1,M,Chennai,40,2009,Married,No,10,Digital Marketing
+GL122020003,Vamsi Krishna,B.Tech.,1,M,Kolkata,37,2013,Married,Yes,6,HR
+GL122020004,Sudheer Kranthi,Btech (Biotechnology),1,M,Mumbai,24,2013,Married,No,10,Operations
+GL012021006,Purnendu,Mba- Hr,1,M,Kolkata,43,2014,Single,Yes,7,HR
+GL0120211881,Basawaraj,B.E,1,M,Bangalore,27,2017,Single,Yes,5,Healthcare
+GL012021007,Chetan sonar,Bca,1,M,Ahmedabad,35,2016,Single,No,6,Operations
+GL012021008,Teena Prithviraj Jain,Be,1,M,Ahmedabad,43,2014,Married,No,8,Retail
+GL022021011,Piyush Mani,B. Tech Electrical And Electronics,2,M,Ahmedabad,26,2017,Married,Yes,2,Logistics
+GL022021012,Noopur Mohta,BE Mechanical,2,M,Chennai,34,2015,Single,No,8,Finance
+GL022021013,Pradeep,B. E Ece,2,M,Kolkata,26,2014,Married,No,6,IT
+GL022021014,Paritosh Agarwal,B.E.,2,M,Ahmedabad,41,2018,Single,Yes,2,IT
+GL022021014,Chaitra R Gowda,Bachelors Of Business Management,2,M,Chennai,38,2015,Single,Yes,6,IT
+GL022021016,DARAPENENI CHAITHANYA KUMAR,Btech Mechanical,2,M,Ahmedabad,40,2015,Single,Yes,8,Retail
+GL022021017,Harshini T,B.Tech,2,M,Bangalore,38,2014,Married,No,5,Manufacturing
+GL032021018,RAJAT KUMAR YADAV,Master Of Computer Application (Mca),2,M,Ahmedabad,24,2009,Married,Yes,10,Retail
+GL032021019,Satyajit Paul,B.Sc & N.C.V.T.(Instrumentation),2,M,Delhi,38,2017,Married,Yes,4,Healthcare
+GL032021024,MALLAIAH NAGARAJ,Mba,3,M,Hyderabad,44,2013,Single,Yes,9,Sales
+GL032021026,NELAPATI ABRAHAM POUL,Bachlers In Electrical & Electronics Engineer From Jtntu K University 2018,3,M,Ahmedabad,27,2018,Married,No,3,Operations
+GL042021034,Vandanapu Suresh,Ms In Csc,3,M,Kolkata,31,2018,Married,Yes,3,Healthcare
+GL012021009,Thirunavkkarasu,Bsc Computer Science,3,M,Chennai,44,2019,Single,Yes,3,IT
+GL012021010,Sachith S,B.E Computer Science,4,M,Delhi,36,2014,Married,No,7,Finance
+GL052021037,VINOD KUMAR PARIHAR,Be /B-Tech Computer Science,4,M,Chennai,36,2018,Single,Yes,2,Sales
+GL042021028,SANA SOOPHIA,Mba,4,M,Chennai,32,2016,Single,No,6,Manufacturing
+GL042021032,Sanjeev Aggarwal,Diploma Mechanical Engg.,4,M,Kolkata,33,2016,Single,Yes,4,Healthcare
+GL052021043,MASTHANVALLI VANTHIRIPALLI,Bsc.Bio-Chemistry,4,M,Delhi,37,2017,Married,No,5,Logistics
+GL032021023,Mohd areeb warsi,B. Tech,4,M,Kolkata,38,2014,Single,Yes,6,Digital Marketing
+GL042021030,Vandana,Mba It,4,M,Hyderabad,34,2019,Married,Yes,4,Retail
+GL042021033,BHAVESH DEVRA,Ph.D,4,M,Ahmedabad,36,2021,Married,No,2,Finance
+GL032021022,KATTURI NARESH,B.Tech(Eee),4,M,Bangalore,33,2017,Single,Yes,4,Manufacturing
+NA,Mohd Urooj,B.Tech (Me),4,M,Delhi,33,2012,Single,Yes,10,IT
+NA,Anuj Kumar,Diploma In Engineering,4,M,Kolkata,36,2017,Married,No,2,Healthcare
+GL042021031,Pooja Shekar,B. Com,4,M,Ahmedabad,30,2013,Married,No,8,Logistics
+GL032021020,VINAY HARAMOHAN RAO YELLAMALLI,B.Tech,4,M,Kolkata,43,2014,Single,No,7,HR
+GL042021035,Shivam Singh,Bachelor Of Commerce With Computer Application,4,M,Bangalore,27,2018,Married,Yes,3,HR
+GL042021035,Ayushi Agarwal,Persuing Graduation (Bsc Nutrition And Dietetics Honours),5,M,Mumbai,41,2013,Married,No,8,HR
+GL052021039,AYUB ALIM SHAIKH,B.E. Civil Engineering,5,M,Bangalore,45,2016,Married,Yes,5,Manufacturing
+GL052021040,PRASHANT BHOYAR,B Com,5,M,Ahmedabad,31,2015,Married,Yes,5,Manufacturing
+GL052021044,Saisarvanan Karunamurthy,B.E (Ece),5,M,Bangalore,41,2012,Single,Yes,9,Finance
+GL052021041,AYUSH SHARMA,B.Tech,5,M,Hyderabad,34,2013,Single,No,6,Operations
+GL052021046,Abdul Khader,B.Tech,5,M,Ahmedabad,30,2018,Single,No,2,Sales
+GL052021045,ChinnuShree P,Mba In Hr And Finance,5,M,Hyderabad,41,2018,Married,Yes,2,Finance
+GL052021042,BHARGAV NISHANTH PALEPU,B.Tech And Mba,5,M,Hyderabad,41,2016,Single,Yes,3,Digital Marketing
+GL032021027,Rajasekhar Kallada,B. Tech,5,M,Bangalore,42,2011,Married,No,8,Operations
+GL062021058,SANJAY SINGH BHANDARI,Btech Mechanical Engineering,6,M,Bangalore,32,2015,Single,Yes,6,Sales
+NA,Rohit KUMAR,B.Tech Computer Science And Engineering,6,M,Delhi,38,2014,Single,Yes,9,Sales
+GL062021055,Harini,B.Tech (Bachelor Of Technology),6,M,Bangalore,45,2012,Married,Yes,9,Sales
+GL052021049,Rahul kumar,B.E,6,M,Mumbai,26,2016,Single,No,6,IT
+NA,Shaik Atheeq Ahmed,Btech It,6,M,Mumbai,38,2013,Single,No,10,Digital Marketing
+NA,Divya,M.Tech In Computer Science,6,M,Hyderabad,36,2021,Married,Yes,2,IT
+NA,SWAPNIL SHANKAR GAINGADE,M.Sc In Applied Geology,6,F,Mumbai,24,2016,Married,Yes,6,Logistics
+GL062021060,DANISH CHISHTY,B.Tech,6,F,Chennai,34,2011,Single,No,9,IT
+GL062021056,SONALI NISHIKANT GAIKWAD,Bms,6,F,Delhi,27,2015,Single,No,8,Operations
+GL062021052,KRUSHNA MADHAV BHALKE,Bachelor Of Engineering,6,F,Delhi,31,2013,Married,Yes,7,Logistics
+GL052021050,Naveena MP,M.Tech (Structural Engineering),6,F,Delhi,34,2020,Single,No,2,Healthcare
+GL072021072,Bhoopesh Ramakrishnan,Master Of Business Administration,7,F,Delhi,45,2013,Single,Yes,9,Logistics
+GL062021061,KESHAVAYYA GONDHIMALLENAHALLI KIRAN,M. Tech,7,F,Hyderabad,41,2019,Married,Yes,4,Healthcare
+NA,Abhirami,Msc Mathematics,7,F,Mumbai,40,2015,Married,Yes,8,IT
+GL072021074,Basava Ramakrishna Reddy,Mba (Mkt And Hr),7,F,Ahmedabad,42,2012,Single,No,10,IT
+GL082021066,NITIN KALRA,Graduate,7,F,Delhi,45,2017,Single,No,2,Digital Marketing
+NA,Manasa,B.E.,7,F,Mumbai,26,2011,Single,No,9,Sales
+GL052021038,MOHAMMED AATHIR LAEEQUE,Bachelor'S Of Engineering,7,F,Hyderabad,29,2017,Married,No,4,Logistics
+GL062021063,ASHOK JAYAM,BE Mechanical,7,F,Mumbai,42,2013,Married,Yes,7,Operations
+GL072021077,Sudarsanam Mukundhan,Bsc Hotel Management,8,F,Chennai,39,2017,Married,No,3,Finance
+NA,Swati Kumari,Ba. Pass,8,F,Bangalore,38,2017,Single,Yes,3,Healthcare
+GL062021062,Mahadev Kadam,B.E. Computer Science And Engineering,8,F,Hyderabad,45,2011,Married,Yes,10,Digital Marketing
+GL072021075,Vikas kollu,B.Tech,8,F,Hyderabad,42,2015,Single,Yes,5,IT
+GL072021084,Nishad Sunil Gite,Bachelor Of Engineering,8,F,Bangalore,38,2015,Married,Yes,7,Retail
+GL072021082,Amol Shamrao Lanjekar,Mca,8,F,Hyderabad,45,2012,Married,No,9,Sales
+GL062021057,KATTIMANE SHARANA BASAVA,B.E,8,F,Mumbai,34,2019,Single,Yes,3,Logistics
+GL072021083,Deepak Sangamlal Pandey,Bachelor Of Engineering,8,F,Bangalore,33,2015,Married,Yes,7,HR
+GL082021087,kireethi sagar uppara,Integrated Msc Economics,8,F,Delhi,42,2016,Married,Yes,5,Finance
+GL072021078,Vikas Ashok Pagare,Bsc Computer Science,8,F,Mumbai,36,2012,Married,No,10,Operations
+GL072021067,Yogesh M R,Mtech,8,F,Bangalore,34,2018,Single,Yes,3,Manufacturing
+NA,Geeta ponaraj,"B.Tech (It), Mba (Project Management - In Distance Education)",8,F,Mumbai,42,2011,Single,No,8,Manufacturing
+GL072021079,Sathishkumar pulipatti,B.E (Electronics And Telecommunication),8,F,Kolkata,25,2013,Married,No,9,Digital Marketing
+NA,Swapnil Pravin Gaikwad,M. Sc.(Statistics),8,F,Kolkata,36,2013,Married,No,7,Digital Marketing
+GL082021089,Ragadala Rajesh,Btech,9,F,Kolkata,25,2017,Single,No,2,Operations
+GL082021098,Jagdish Janardhan Annaldas,B.E. In Instrumentation,9,F,Hyderabad,24,2016,Single,Yes,4,Manufacturing
+GL072021081,DHANAPALAN,B.E.(Ece),9,F,Kolkata,34,2020,Married,No,2,Retail
+GL082021092,KOMBAN JEEVAN,Be Electronics And Communication Engineering,9,F,Bangalore,42,2013,Single,No,6,IT
+NA,Bharath,M Tech (Mechanical),9,F,Mumbai,43,2011,Married,Yes,9,IT
+GL072021068,Preetham RK,Be (Electronics And Communication) And Mba (Hr & Marketing),9,F,Bangalore,34,2016,Single,No,6,Finance
+GL072021086,Vaibhav kurkure,Be - Mechanical,9,F,Delhi,29,2019,Single,No,3,Finance
+GL082021088,KAUSHIS MUKHERJEE,B.Tech,9,F,Ahmedabad,24,2017,Single,No,4,Healthcare
+GL082021096,MADHUSIRI KRISHNAMURTHY NANDINI,Bachelor Of Engineering,9,F,Delhi,39,2019,Single,No,2,Retail
+GL082021090,DEBOJYOTI DAS,B.Tech,9,F,Kolkata,36,2017,Single,Yes,5,Logistics
+GL082021095,SOMRAJ GHOSH,B-Tech,9,F,Kolkata,28,2011,Married,Yes,8,Sales
+GL082021099,Vikram Kulkarni,Design Engineering,9,F,Mumbai,34,2018,Single,No,3,Retail
+GL062021054,DEEPAK EDUKULA,Mba,9,F,Chennai,32,2013,Married,No,7,Digital Marketing
+GL082021112,BABY BARNABAS,Btech (Eee),10,F,Hyderabad,24,2016,Married,Yes,6,IT
+GL082021094,RAHUL MOTHE,BE Mechanical,10,F,Mumbai,30,2017,Married,Yes,3,Healthcare
+GL082021093,VARASA SHANTHI KUMAR,Btech( Mech),10,F,Mumbai,25,2016,Married,Yes,6,Logistics
+NA,SHREEKANTH SUBRAMANYA MORAJE,Bsc Mathematics,10,F,Hyderabad,30,2012,Married,Yes,10,Logistics
+GL092021123,Vishak,"B.Tech(Applied Electronics And Instrumentation) And M.Sc-Mathematics And Statistics, Iit Tirupati",10,F,Delhi,36,2011,Married,Yes,9,Logistics
+GL092021126,ABINASHA PATRA,Pgdbs,10,F,Delhi,31,2014,Single,Yes,5,Operations
+NA,Rohan Belhe, MBA,10,F,Chennai,34,2013,Single,No,6,Retail
+GL092021121,Shashwat,Mba,11,F,Kolkata,33,2015,Single,No,7,Healthcare
+GL082021106,AMIT PRAKASH TIWARI,Mba - Marketing,11,F,Chennai,34,2013,Single,Yes,9,IT
+GL102021162,SHRUTI TRIPATHI,B.Tech(Electronics And Communication Engineering),11,F,Mumbai,37,2016,Single,No,6,Manufacturing
+GL082021085,Naga venkata Krishna Abhiram Appana,B.Tech,11,F,Hyderabad,42,2018,Married,No,4,Digital Marketing
+NA,KUSHI N,Bca,11,F,Delhi,36,2010,Single,No,9,HR
+GL102021164,SURIYANARAYANAN S,"B.Tech, Mba(X) - Business Analytics",11,F,Ahmedabad,32,2014,Single,No,9,Digital Marketing
+GL112021177,RUBEENA BEGUM,B Tech,11,F,Ahmedabad,41,2019,Single,No,2,Retail
+GL112021178,MOHAMMAD ASHIQ PASHA,Bcom,11,F,Bangalore,34,2020,Married,No,2,Operations
+GL112021183,AMIT RAMESH DAGWAR,Pgdbm(Post Graduation Diploma In Business Management),11,F,Chennai,45,2010,Married,Yes,10,HR
+GL102021167,HIMANSHU BAHUGUNA,B.Tech,11,F,Delhi,38,2017,Married,Yes,3,HR
+GL112021184,SATISH KUMAR DUGGI,"M Tech, Mba",11,F,Hyderabad,35,2018,Single,No,3,IT
+GL102021147,ABHILESH SUBHASH JAWANJAL,B.E.,11,F,Bangalore,30,2017,Single,Yes,2,Logistics
+GL112021190,ASHWATH PRASAD,B.Com,11,F,Hyderabad,34,2014,Single,No,8,Finance
+GL112021191,Harshith S,B Com,11,F,Bangalore,34,2016,Married,Yes,3,IT
+GL082021103,DIVAS RAUT,B.Tech,11,F,Mumbai,40,2011,Single,No,9,Logistics
+GL112021182,ROOPA PRAKASH KAMMAR,Diploma In Computer Science,11,F,Hyderabad,45,2016,Single,No,6,Manufacturing
+GL062021051,JAICHANDRA SUMANTH KUMAR,B.E In Computer Science,11,F,Mumbai,30,2016,Single,No,4,Finance
+GL112021188,UMA SHANKAR PATI,Btech In Electronic And Communication Engineering,11,F,Hyderabad,40,2019,Single,No,2,Digital Marketing
+GL082021105,KAPIL NARAYAN MORE,Be Computer Science And Engg And Mba,11,F,Mumbai,25,2015,Married,No,7,Logistics
+GL092021118,KIRAN KONDALU VOBBILIBOINA,B.Tech,11,F,Kolkata,28,2016,Single,No,6,Logistics
+GL082021102,RAMACHANDRAN GURUARAVINTH,Mba - Finance And Analytics,11,F,Mumbai,44,2017,Single,Yes,5,Retail
+GL082021110,HARSHAL PRABHAKAR PATIL,B. E. Computer Science,12,F,Ahmedabad,28,2013,Married,Yes,7,Digital Marketing
+GL092021122,SUNIL KUMAR VERMA,B.E Mechanical,12,F,Delhi,36,2020,Married,Yes,3,Digital Marketing
+GL092021117,ANINDYA BHOWMICK,M.Tech,12,F,Chennai,30,2010,Married,Yes,9,HR
+GL092021137,RAJESH KUMAR MISHRA,Mba,12,F,Kolkata,25,2016,Single,No,6,Logistics
+GL082021116,PRASAD SHIRISH NITYANAND,B.E. Mechanical,12,F,Kolkata,31,2014,Single,No,8,HR
+GL082021115,HANUMANTHAPPA KUBERAPPA AMULYA,Bachelor Of Engineering,12,F,Delhi,29,2011,Married,Yes,9,Operations
+GL092021136,RUCHA ABHAY KUMTHEKAR,B. Com,12,F,Delhi,30,2017,Single,No,2,Sales
+GL092021124,DURGESH NANDAN MISHRA,Bachelor Of Commerce,12,F,Delhi,26,2012,Single,Yes,7,Logistics
+GL092021131,BHUPENDRA CHAVAN,Master Of Commerce,13,F,Mumbai,32,2013,Single,No,8,IT
+GL092021140,VIRAJITH VISHWANATH MALIYE,Be (Electronics And Communications),13,F,Kolkata,34,2016,Single,No,7,Logistics
+GL102021141,KETAN NILKANTHRAO DEKATE,Mba (Marketing),13,F,Hyderabad,38,2013,Married,No,8,HR
+GL092021135,SIDDHARTH MATHUR,Post Grad Diploma In Banking Services,13,F,Hyderabad,37,2016,Single,No,3,IT
+GL082021097,ISHAQ MOHAMMED,Bachelor Of Technology (B.Tech),13,F,Hyderabad,29,2019,Single,No,2,Operations
+NA,Ismail,Pharm.D,13,F,Bangalore,30,2019,Single,No,3,Manufacturing
+GL082021109,KODIHALLI BASAVARAJU SHREEDEVI,B. Sc,13,F,Bangalore,31,2009,Single,No,10,Digital Marketing
+GL092021129,AAMIR AZIZ,Mba,13,F,Ahmedabad,24,2015,Single,No,7,Finance
+GL082021107,HEMANT KUMAR SRIVASTAVA,Pgdm,13,F,Mumbai,36,2012,Single,Yes,10,Healthcare
+GL092021131,HEERA SINGH KUSHWAH,Mca,13,F,Ahmedabad,44,2013,Married,No,8,Sales
+GL052021047,Abhijeet Anil Lokhande,Bachelors In Mass Media,13,F,Delhi,28,2016,Single,Yes,6,Logistics
+GL092021139,Kapil Tripathi,M.Tech,13,F,Mumbai,38,2016,Married,Yes,4,Retail
+GL092021138,MADHUSHREE OMPRAKASH WARKHADE+1,B Tech ,13,F,Mumbai,31,2014,Single,No,6,Logistics
+NA,Abhijith Nair,B Tech ,13,F,Kolkata,37,2011,Single,Yes,10,Manufacturing
+NA,Shreya Singh,B Com,13,F,Chennai,39,2011,Single,Yes,8,Operations
+GL082021101,THANGARAJ DINESHKUMAR,Diploma Mechanical Engg,14,F,Mumbai,28,2015,Married,No,5,HR
+GL102021142,Sri krupa,Mechanical Engineering,14,F,Delhi,34,2013,Single,Yes,10,HR
+GL092021119,ELANGO ARUN,"B.E, M.Tech",14,F,Hyderabad,38,2014,Single,Yes,8,Manufacturing
+GL102021172,Sukruth,B.E,14,M,Ahmedabad,35,2016,Single,No,5,HR
+GL092021130,VISHAL MODI,M.Sc (Physics),14,M,Chennai,31,2011,Single,Yes,9,IT
+GL092021132,Amitesh,M. Tech ( Mechanical Engineering),14,M,Delhi,33,2018,Single,No,5,Logistics
+GL092021138,MADHUSHREE OMPRAKASH WARKHADE,Be,14,M,Hyderabad,41,2014,Married,No,7,Logistics
+GL092021120,Karthick,B Tech ,14,M,Bangalore,28,2017,Single,No,3,IT
+GL102021146,MOHAMMED MUQADUM,Bca,15,M,Delhi,29,2012,Married,Yes,8,Operations
+NA,Prakash Kinthadi,B.Tech,15,M,Mumbai,24,2019,Single,No,2,Operations
+GL102021158,MANDEEP SINGH,Mba (Finance & It),15,M,Kolkata,37,2018,Married,No,3,Logistics
+GL102021144,TUHIN KUMAR BARUI,M. Tech. In Renewable Energy Science And Technology,15,M,Hyderabad,30,2012,Married,Yes,10,Sales
+GL102021170,MAKHMUR TOHID YAZDANI,BE Mechanical,15,M,Chennai,42,2014,Single,Yes,5,Operations
+GL102021151,VIKAS PRAKASH JOSHI,B.E - Mechanical,15,M,Bangalore,34,2018,Married,No,3,Operations
+GL112021173,DARAKSHAN M,Msw ( Master In Social Work ),15,M,Mumbai,31,2017,Single,Yes,3,HR
+GL112021217,ASLAM DAFEDAR, MBA,15,M,Delhi,44,2013,Married,No,6,Manufacturing
+GL072021071,Arshad Shaikh,B Com,15,M,Hyderabad,39,2019,Single,Yes,3,Healthcare
+GL112021201,ANSHUL SINGH,B Com,15,M,Kolkata,43,2016,Married,No,7,IT
+GL112021194,RAJESH KUMAR PALLEM,B.Sc,15,M,Bangalore,36,2014,Single,Yes,8,IT
+GL112021192,MOTTE SUDHARSHAN,B Tech ,15,M,Mumbai,24,2013,Single,Yes,9,IT
+GL122021227,ASHOK SINGH KUSHWAHA, MBA,15,M,Ahmedabad,45,2014,Single,No,6,Operations
+GL102021143,HIMANGSHU KASHYAP,BE Mechanical,15,M,Chennai,30,2011,Single,No,10,Finance
+GL112021212,Karthik Murali,B Tech ,15,M,Mumbai,28,2015,Married,Yes,7,Manufacturing
+GL122021221,RAVI SANTHOSH KARROTHU,B Com,15,M,Kolkata,44,2010,Married,No,9,Sales
+GL112021219,Nirajkumar Lalmohan Mistri,B Tech ,15,M,Chennai,30,2016,Single,No,6,Manufacturing
+GL102021155,ANKIT SHENDE, MBA,16,M,Delhi,34,2019,Married,No,3,Logistics
+GL102021149,VIJAY K,BE Mechanical,16,M,Hyderabad,27,2016,Single,No,4,Healthcare
+GL102021165,Sheela Priyadharshini,B.Sc,16,M,Chennai,24,2017,Single,Yes,4,Operations
+GL102021156,SACHIN NAGWAN,B.Sc,16,M,Hyderabad,27,2017,Single,No,6,Manufacturing
+GL102021150,MUKESH BHATT PREET, MBA,16,M,Chennai,25,2014,Married,No,6,Finance
+GL102021169,PRATYUSH ANAND,BE Mechanical,16,M,Kolkata,39,2015,Married,No,8,Sales
+GL102021154,KAUSAR KHALID,B Com,16,M,Mumbai,40,2015,Married,Yes,7,Logistics
+GL102021159,Sacchi Sharma,B.Sc,16,M,Kolkata,26,2014,Single,No,6,Healthcare
+GL102021174,SUSHANTH KONDLE,B Tech ,16,M,Bangalore,41,2021,Single,Yes,2,IT
+GL102021152,REENA GYANIRAM SIRSAT,B Com,16,F,Hyderabad,29,2013,Single,No,9,IT
+GL102021163,VISHAL KUMAR,BE Mechanical,16,F,Chennai,24,2018,Single,No,2,HR
+GL102021145,SANDESH BALAJI MADLE, MBA,16,M,Hyderabad,24,2019,Married,Yes,2,Sales
+NA,Tarun,B Com,16,M,Ahmedabad,38,2021,Married,Yes,2,Operations
+GL102021146,MOHAMMED MUQADUM,B Com,16,M,Chennai,30,2015,Married,Yes,5,HR
+NA,Prakash Kinthadi,B Com,16,M,Chennai,45,2012,Single,No,10,Retail
+GL102021158,MANDEEP SINGH,B Com,16,M,Hyderabad,45,2016,Single,Yes,3,Finance
+GL102021144,TUHIN KUMAR BARUI, MBA,16,M,Bangalore,27,2018,Married,Yes,3,HR
+GL102021170,MAKHMUR TOHID YAZDANI,B Com,16,M,Delhi,33,2014,Married,No,7,Manufacturing
+GL102021151,VIKAS PRAKASH JOSHI,B Tech ,16,M,Delhi,34,2018,Married,No,2,Finance
+GL112021173,DARAKSHAN M,B Tech ,16,M,Mumbai,24,2013,Single,No,9,Logistics
+GL112021217,ASLAM DAFEDAR,BE Mechanical,16,F,Delhi,40,2015,Married,No,5,Digital Marketing
+GL072021071,Arshad Shaikh,B Com,16,M,Mumbai,42,2018,Married,Yes,4,Retail
+GL112021201,ANSHUL SINGH,B Com,16,M,Delhi,41,2017,Single,No,6,HR
+GL112021194,RAJESH KUMAR PALLEM,BE Mechanical,16,M,Ahmedabad,39,2013,Single,Yes,10,Finance
+GL112021192,MOTTE SUDHARSHAN,B.Sc,16,M,Hyderabad,26,2014,Single,No,9,HR
+GL122021227,ASHOK SINGH KUSHWAHA,B Com,16,F,Delhi,27,2017,Married,Yes,5,Sales
+GL102021143,HIMANGSHU KASHYAP, MBA,16,M,Bangalore,42,2016,Single,No,6,Sales
+GL112021212,Karthik Murali,BE Mechanical,16,M,Chennai,39,2014,Single,Yes,6,Sales
+GL122021221,RAVI SANTHOSH KARROTHU,B Tech ,16,M,Delhi,24,2015,Single,No,6,Digital Marketing
+GL092021127,ABHILASH VOLLIBOINA,B.Tech,17,M,Hyderabad,24,2017,Married,Yes,3,Manufacturing
+GL092021128,RADHA KRISHNA TIWARI,B.E. Computer Science,17,M,Kolkata,42,2012,Married,No,9,HR
+GL072021064,AKBAR ALI MOHAMMED YOUSUF,B.Com Graduate,17,M,Chennai,35,2015,Single,Yes,4,Operations
+NA,Syed,Btech,17,M,Bangalore,30,2011,Single,Yes,10,Operations
+GL112021196,ARYA PADMAKUMAR,B.Sc,18,M,Bangalore,33,2014,Married,Yes,6,IT
+GL102021197,Sachin Sharma,B Tech ,18,M,Bangalore,25,2015,Married,Yes,8,Healthcare
+GL112021215,LUCY GARLAPATI,BE Mechanical,18,M,Chennai,36,2012,Single,Yes,8,Operations
+GL112021219,Nirajkumar Lalmohan Mistri,B.Sc,18,M,Hyderabad,44,2015,Married,Yes,6,Logistics
+GL112021214,Vijendra Singh,B Tech ,18,F,Kolkata,31,2011,Single,No,10,Sales
+GL112021200,RAJENDRAN SANTHOSHKUMAR,B.Sc,18,M,Kolkata,42,2014,Single,No,7,HR
+GL122021221,RAVI SANTHOSH KARROTHU, MBA,18,M,Delhi,34,2017,Single,No,5,Logistics
+GL122021223,Jagadish Patil,B Com,18,M,Chennai,42,2016,Single,Yes,5,Manufacturing
+G122021218,GAURAV KUMAR,B Com,18,M,Hyderabad,39,2011,Single,No,10,Retail
+GL122021230,NANDAVARAM SATHISHKUMAR REDDY,BE Mechanical,18,M,Chennai,28,2012,Single,No,9,HR
+GL122021231,SADAYANDI VIGNESH (Divya),B.Sc,18,M,Ahmedabad,36,2017,Single,Yes,5,Manufacturing
+NA,CHANIKYA GAIRBONI,BE Mechanical,18,M,Ahmedabad,24,2018,Married,No,2,Digital Marketing
+GL122021253,MIDHUN S,BE Mechanical,18,M,Chennai,29,2013,Single,Yes,9,Healthcare
+GL122021259,BELAKATTER SREEKANTH SACHIN GOWDA,B Tech ,18,Male,Ahmedabad,42,2014,Married,Yes,6,Healthcare
+GL072021070,KANAKALAPATI SANDEEP KUMAR,BE Mechanical,18,Male,Ahmedabad,27,2011,Married,Yes,9,Operations
+GL092021133,NAGARJUNA NALLURI,B Com,18,Female,Mumbai,45,2012,Single,Yes,9,Finance
+GL092021134,SUBIRAMANIYAN HARISHRAJ/ Dinesh,B Tech ,18,Male,Mumbai,32,2012,Married,No,8,HR
+GL012022300,Tejasvi M, MBA,18,Female,Kolkata,32,2014,Single,Yes,6,Operations
+NA,Vaishnavi C,B.Sc,18,Male,Ahmedabad,35,2017,Single,No,5,Logistics
+GL012022295,PRAVEEN MOHAN,B Com,18,Male,Hyderabad,24,2014,Single,Yes,7,Finance
+GL112021186,DHANABAL SURIYA KUMAR,B Tech ,19,Male,Kolkata,36,2015,Single,Yes,5,IT
+GL112021187,KARTHIKEYAN,B Tech ,19,Male,Kolkata,36,2019,Single,No,2,Sales
+GL112021179,ROHIT KUMAR SEN, MBA,19,Female,Delhi,44,2017,Single,Yes,4,Operations
+GL112021202,PATABALLA RAJA VAMSI KRISHNA,BE Mechanical,19,Male,Chennai,45,2016,Single,Yes,4,Finance
+GL112021203,BHAGI THIPPESWAMY VANI,B Tech ,19,Male,Mumbai,32,2017,Married,No,6,Sales
+GL112021204,ABDUL HADHIL ABDUL RAHIM,B.Sc,19,Male,Ahmedabad,45,2011,Married,Yes,9,Finance
+GL112021207,BRIJESH RAGHAVAN NANBIAR,B Tech ,19,Male,Chennai,37,2009,Single,No,10,Operations
+GL112021206,TIRTHANKAR GHOSH,BE Mechanical,19,Male,Hyderabad,36,2012,Married,Yes,10,Finance
+GL112021209,KIRAN MYAGERI,B Tech ,19,Female,Chennai,37,2016,Married,No,5,Sales
+GL112021211,AJIT TUKARAM LOLE,B Com,19,Male,Hyderabad,36,2012,Married,No,10,Operations
+GL122021234,ASHISH GUPTA,B.Sc,19,Female,Delhi,27,2012,Single,No,10,Sales
+GL112021189,YOOSUF BILAL,B Com,19,Male,Delhi,30,2017,Single,No,4,Manufacturing
+GL122021258,Rohit Zombade,B Com,19,Male,Bangalore,37,2020,Single,Yes,2,Logistics
+GL112021196,ARYA PADMAKUMAR,B Tech ,19,Male,Bangalore,45,2014,Single,Yes,7,Manufacturing
+GL102021197,Sachin Sharma,B Com,19,Male,Chennai,37,2010,Married,No,9,Finance
+GL112021215,LUCY GARLAPATI,B.Sc,19,Female,Mumbai,43,2015,Single,Yes,7,Operations
+GL112021200,RAJENDRAN SANTHOSHKUMAR,BE Mechanical,19,Male,Chennai,41,2013,Married,No,7,Sales
+GL122021223,Jagadish Patil,B Tech ,19,Female,Mumbai,42,2017,Married,No,5,HR
+GL122021230,NANDAVARAM SATHISHKUMAR REDDY,B Com,19,Male,Ahmedabad,33,2017,Married,Yes,3,Sales
+GL122021231,SADAYANDI VIGNESH (Divya),B Tech ,19,Female,Bangalore,39,2011,Married,No,8,Healthcare
+NA,CHANIKYA GAIRBONI,B.Sc,19,Male,Chennai,31,2020,Single,No,2,Finance
+GL122021253,MIDHUN S,B Com,19,Male,Chennai,43,2014,Single,Yes,7,Digital Marketing
+GL122021259,BELAKATTER SREEKANTH SACHIN GOWDA, MBA,19,Male,Kolkata,27,2013,Married,Yes,6,Finance
+GL072021070,KANAKALAPATI SANDEEP KUMAR,BE Mechanical,19,Male,Delhi,27,2016,Married,No,5,Finance
+GL092021133,NAGARJUNA NALLURI,B.Sc,19,Male,Kolkata,34,2014,Married,No,7,Healthcare
+GL092021134,SUBIRAMANIYAN HARISHRAJ/ Dinesh, MBA,19,Male,Delhi,24,2014,Married,Yes,8,Digital Marketing
+GL012022300,Tejasvi M,B Tech ,19,Male,Delhi,33,2010,Single,Yes,10,Finance
+NA,Vaishnavi C,B Com,19,Female,Bangalore,26,2016,Married,No,6,HR
+GL012022295,PRAVEEN MOHAN,B.Sc,19,Male,Kolkata,30,2015,Married,No,5,Digital Marketing
+GL102021160,Vijaya Baskaran, MBA,19,Male,Delhi,41,2017,Single,Yes,3,Logistics
+GL112021195,VIVEK DHANAPAL SAPATE,B Tech ,20,Male,Ahmedabad,30,2019,Married,No,2,Retail
+GL112021205,MOHAMMED AKBAR,B.Sc,20,Male,Kolkata,41,2017,Single,Yes,5,IT
+GL112021210,SHAHBAZ SHAKEEL,B Tech ,20,Male,Mumbai,38,2019,Single,No,3,IT
+GL112021210,SMRITI TRIPATHI,BE Mechanical,20,Female,Bangalore,32,2016,Married,Yes,4,Logistics
+GL122021220,RANJITH KUMAR BUGIDE,B Tech ,20,Male,Hyderabad,32,2012,Married,Yes,9,Retail
+GL122021222,SHAILENDRA GHANSHYAM GUPTA,B Tech ,20,Male,Bangalore,30,2011,Married,No,8,Healthcare
+GL122021229,Aman Patel,BE Mechanical,20,Male,Mumbai,45,2012,Single,Yes,9,Finance
+GL122021228,HARISH NARASIPURA THIMMEGOWDA,B Com,20,Male,Chennai,25,2018,Single,No,4,Finance
+GL122021237,RAVISHANKAR SUBODH CHOUDHARY,B Com,20,Male,Ahmedabad,26,2015,Married,Yes,7,Retail
+GL122021256,ANURAG OJHA, MBA,21,Male,Mumbai,34,2017,Single,Yes,5,HR
+GL012022289,ARUNKUMAR BASANAGOUDA PATIL, MBA,21,Female,Ahmedabad,44,2018,Single,No,3,Digital Marketing
+GL012022291,BHARTI PANWAR,B Com,21,Male,Hyderabad,43,2010,Married,Yes,10,IT
+GL012022284,BIDARE MAHALINGAPPA GOUTHAM,B.Sc,21,Male,Hyderabad,31,2014,Single,No,5,IT
+GL012022281,ARVAPALLY JAGDISH KUMAR, MBA,21,Male,Bangalore,42,2019,Single,No,4,Healthcare
+GL022022328,Krupa, MBA,21,Male,Ahmedabad,34,2015,Single,Yes,8,Operations
+GL032021025,KUMAR SANU,B Com,21,Male,Ahmedabad,26,2017,Single,Yes,2,IT
+GL122021226,DEVENDRAPPA MEGHANA,B Tech ,21,Male,Delhi,41,2017,Single,Yes,6,HR
+GL122021224,NANDESH CHAKRAVARTI SALI,BE Mechanical,21,Male,Delhi,34,2020,Married,Yes,3,Sales
+GL012022283,Nilesh Borse,BE Mechanical,21,Male,Hyderabad,37,2016,Single,Yes,6,Sales
+GL012022294,SHAMIM RASHID KHAN,B Com,21,Male,Mumbai,27,2014,Single,Yes,7,Retail
+GL122021255,RAVICHANDRA TEJAS,B.Sc,21,Male,Chennai,32,2015,Single,Yes,7,IT
+GL112021185,ROHAN SAI NALLURI, MBA,21,Female,Kolkata,41,2014,Single,No,5,Retail
+GL012022277,Tushar Tarun Satapathy,B.Sc,21,Male,Mumbai,27,2014,Single,No,8,Finance
+GL122021257,SUDHANSHU SHEKHAR, MBA,21,Male,Ahmedabad,30,2013,Single,No,9,Manufacturing
+GL122021240,VINAYAK ARVIND SALVI,B Com,21,Male,Mumbai,31,2014,Married,Yes,6,Retail
+GL012022301,YOGESH THAKARAM DHAWALE,B.Sc,21,Female,Mumbai,45,2015,Single,Yes,6,Logistics
+GL012022300,Thejasvi M,B Com,21,Male,Hyderabad,39,2016,Single,No,4,Sales
+GL012022275,AKHILESH RAI,B Tech ,22,Male,Bangalore,39,2017,Single,Yes,5,Logistics
+GL012022270,Ankita shetty,B Tech ,22,Male,Kolkata,38,2015,Married,Yes,8,Logistics
+GL122021254,ANSHUMAN SINGH,B Com,22,Male,Ahmedabad,37,2014,Married,Yes,7,Healthcare
+GL012022273,Chaitesh Lekurwale, MBA,22,Male,Hyderabad,32,2012,Married,No,9,Logistics
+GL122021247,HAPREET SINGH,B Com,22,Male,Hyderabad,31,2018,Single,Yes,3,HR
+GL012022272,Harshitha S,BE Mechanical,22,Male,Delhi,39,2013,Single,No,8,IT
+GL012022278,JEETENDRA KUMAR PANDEY, MBA,22,Male,Chennai,33,2016,Single,Yes,3,Operations
+GL122021242,MAHESH MARISETTI,B Tech ,22,Male,Hyderabad,42,2009,Married,No,10,HR
+GL122021243,MUPPALAN MUPPAL,B.Sc,22,Female,Hyderabad,44,2011,Married,No,10,IT
+GL012022276,PRAKASH BABU KONO,B.Sc,22,Male,Ahmedabad,33,2019,Married,Yes,2,Healthcare
+GL122021248,SAMIYA MADARKHAN,B Com,22,Male,Hyderabad,32,2014,Single,Yes,6,Finance
+GL012022280,JYOTI DEVIDAS DANGE,B Tech ,22,Male,Kolkata,33,2014,Married,No,9,Operations
+NA,Shwetha,B Tech ,22,Male,Chennai,44,2016,Married,No,4,Operations
+GL122021252,Adarsh Kumbar,B.Com,23,Male,Ahmedabad,40,2011,Single,No,8,Logistics
+GL122021268,Amit kumar Ayodhyaprasad singh,Mms,23,Male,Chennai,29,2011,Single,No,8,HR
+GL012022287,Amita kumari, MBA,23,Female,Ahmedabad,32,2014,Single,No,8,Finance
+GL012022279,Ankur Tyagi,Graduate,23,Female,Delhi,36,2013,Single,Yes,6,Healthcare
+GL012022282,GAGAN ADITYANARAYAN UPADHYAY,B.Sc,23,Male,Ahmedabad,27,2013,Married,Yes,7,Healthcare
+GL122021249,HADLY BASAVARAJU PAVANKUMAR,Be Civil Engineering,23,Male,Hyderabad,31,2020,Single,No,2,Manufacturing
+GL122021264,KRISHNAMOORTHY PRAKASH,B. Tech - Mechanical Engineering,23,Female,Delhi,44,2016,Married,No,3,Finance
+GL122021246,GANGARAJU MANOHAR,Bachelor Of Engineering,23,Male,Bangalore,30,2016,Married,Yes,4,HR
+GL012022298,Priyank Gupta,B Tech,23,Male,Hyderabad,38,2013,Single,Yes,10,Operations
+GL122021267,SANKET SANTOSH NARVEKAR,Post Graduation,23,Male,Bangalore,38,2013,Single,No,8,Operations
+GL112021213,SOHIL PAKALI,Bca,23,Male,Ahmedabad,24,2019,Married,No,4,Retail
+GL102021168,SUSHANT KUMAR KESHRI,Post Graduate Diploma Banking And Services,23,Male,Delhi,27,2013,Married,No,10,Manufacturing
+GL012022290,AMOL PANDHARINATH BHONE,"M.Sc Organic Chemistry,B.Ed",23,Male,Bangalore,41,2014,Single,Yes,6,IT
+GL012022271,BEGOORU VENKATARAJU VINOD RAJ,B Com,23,Male,Hyderabad,27,2013,Single,No,7,Manufacturing
+GL042022453,Priyaranjan Indrakant Jha, MBA,23,Male,Kolkata,36,2015,Married,Yes,5,IT
+NA,SAMANA KADRI,Btech ( 2Nd Year 4Th Semester),23,Male,Ahmedabad,27,2016,Married,Yes,3,Manufacturing
+GL012022285,GURVINDER SINGH SETHI,Mca,23,Male,Hyderabad,24,2021,Single,Yes,2,Manufacturing
+GL122021236,ANUGRAH KUMAR SINGH,Mca - Full Time,23,Male,Ahmedabad,25,2018,Married,No,2,HR
+GL092021114,ULFATH SUMAIYA, MBA,23,Male,Bangalore,31,2015,Single,Yes,5,Retail
+GL122021238,SPARSH VARSHNEY,B.Sc,23,Male,Mumbai,34,2011,Single,No,10,Sales
+GL012022296,SANJAY SOMAN,B.Sc,24,Female,Delhi,40,2021,Married,No,2,Logistics
+GL012022303,THUMMEDRA SHESHAGIRI NAIDU LEELAVARSHINI,B.Sc,24,Male,Ahmedabad,24,2016,Married,No,4,Finance
+NA,PASUPULATI RAGHAVENDRA, MBA,24,Male,Ahmedabad,40,2013,Married,No,8,Retail
+GL022022304,MUSHTQ AHAMMED MOHAMMED, MBA,24,Male,Bangalore,33,2011,Married,Yes,9,IT
+GL022022305,NILOFAR MEERA HASAN SHAIKH/Meera Shaik,BE Mechanical,24,Male,Kolkata,45,2015,Single,No,5,Healthcare
+GL022022313,Shubham,B Tech ,24,Male,Mumbai,36,2012,Married,No,10,Operations
+GL022022316,SHILPA SHARMA,B Com,24,Male,Delhi,45,2019,Married,No,3,Finance
+GL022022317,Nitesh Pathak, MBA,24,Male,Delhi,35,2014,Married,No,5,Retail
+GL022022318,SUGANENDRA RAGHAVENDRA KARKUN, MBA,24,Male,Chennai,36,2015,Married,Yes,5,Manufacturing
+GL022022321,Pawan kumar yadav,B Tech ,24,Female,Delhi,43,2021,Single,Yes,2,Operations
+NA,Ilolu Anil Kumar,B.Sc,24,Male,Chennai,32,2014,Married,No,8,Digital Marketing
+GL022022335,Mohd Ejazuddin,B Tech ,24,Male,Mumbai,31,2013,Single,Yes,9,Healthcare
+GL022022337,Santosh Amar Tomar,B Com,24,Male,Hyderabad,45,2016,Married,Yes,6,IT
+GL022022336,Satendra Amarsingh Tomar, MBA,24,Male,Bangalore,31,2010,Married,No,10,Operations
+GL022022345,Senthilramajayam, MBA,24,Male,Bangalore,36,2011,Married,Yes,9,Sales
+GL022022342,Suraj Anup maji,BE Mechanical,24,Male,Delhi,43,2016,Married,Yes,3,Retail
+GL032022343,Ashish Rambachan Gupta,B.Sc,24,Male,Kolkata,43,2013,Married,No,9,Sales
+GL032022425,Soni Kumari,B Com,24,Male,Delhi,31,2020,Married,No,2,IT
+GL022022340,NITESH KUMAR,BE Mechanical,24,Male,Kolkata,34,2017,Single,Yes,3,Digital Marketing
+GL112021199,Nivedha,B Tech ,24,Male,Bangalore,38,2014,Single,No,8,Manufacturing
+GL112021198,ASHOK SHAHSHANK VARUN,BE Mechanical,24,Male,Bangalore,39,2019,Married,Yes,2,IT
+GL022022310,VAIBHAV KAUSHIK,B Tech ,24,Female,Kolkata,30,2018,Married,Yes,4,Retail
+GL122021263,Soni Kumari,B.Sc,24,Male,Bangalore,24,2016,Single,Yes,6,Manufacturing
+GL022022333,Mohammad Sikkandhar,B.Sc,24,Male,Hyderabad,39,2012,Single,Yes,8,Finance
+GL122021262,Avanish Kumar,B Tech ,24,Male,Ahmedabad,30,2018,Married,No,5,Operations
+GL022022324,AADHYA GUPTA, MBA,24,Male,Chennai,41,2015,Married,No,7,Operations
+GL112021219,Nirajkumar Lalmohan Mistri,B.Sc,24,Male,Mumbai,27,2016,Married,Yes,6,Finance
+GL012022297,AMIT GAJANAN SHIRKE,B Com,25,Male,Chennai,39,2015,Married,Yes,7,Digital Marketing
+GL012022302,Prasanna V,BE Mechanical,25,Male,Ahmedabad,45,2014,Married,Yes,5,Healthcare
+GL022022311,prakash ranjan, MBA,25,Male,Bangalore,34,2013,Single,No,9,Logistics
+GL022022312,SURJIT MEETEI SALAM,B Tech ,25,Male,Chennai,27,2012,Single,Yes,8,HR
+GL022022314,SUBRAMANIAM KRISHNA VENI, MBA,25,Male,Ahmedabad,27,2012,Married,Yes,9,Sales
+GL022022334,Vishal Kumar Singh,B Tech ,25,Male,Chennai,41,2014,Single,Yes,5,HR
+GL082021100,MAHAK BHATI (Xitig sharma), MBA,25,Male,Chennai,31,2014,Married,No,7,Logistics
+GL022022339,AKULA NAGARJUNA,BE Mechanical,25,Male,Mumbai,34,2014,Married,No,7,Manufacturing
+GL022022341,Ferin George,B Tech ,25,Male,Delhi,28,2020,Married,Yes,3,Digital Marketing
+GL032022358,Karthik B Rao,BE Mechanical,25,Male,Bangalore,27,2018,Single,No,2,Logistics
+GL032022381,Prathik K /Pavan Kumar K,B Com,25,Male,Delhi,45,2011,Married,Yes,10,Healthcare
+GL122021251,KRISHNAKUMAR HARINARAYAN NAIR,B Com,25,Female,Delhi,24,2014,Single,No,7,Operations
+GL012022274,EDWIN RAVIKUMAR PRAJWAL KUMAR,B Com,25,Male,Bangalore,38,2015,Single,No,7,Digital Marketing
+GL022022332,Naveen wadwa, MBA,25,Male,Chennai,30,2021,Married,Yes,2,Manufacturing
+GL122021245,ASAI THAMBI MARUTHU PRASAD,BE Mechanical,25,Male,Hyderabad,31,2018,Married,No,2,Digital Marketing
+GL022022331,Kunal SEN,BE Mechanical,25,Male,Ahmedabad,41,2012,Single,Yes,7,IT
+GL052022561,Ifthiquar,B.Sc,25,Male,Mumbai,35,2014,Married,No,5,Logistics
+GL112021208,MAYANK SAINI,B Tech ,25,Male,Chennai,38,2013,Married,No,8,Finance
+GL022022343,Kumar Gourav,BE Mechanical,26,Male,Ahmedabad,40,2016,Single,No,5,Sales
+GL032022349,Ibrahim Sayyed,B Tech ,26,Male,Kolkata,28,2020,Married,No,2,Sales
+GL032022352,Bhavani Saravanan,B.Sc,26,Male,Hyderabad,41,2018,Single,No,4,Logistics
+GL032022354,Soumen Das, MBA,26,Female,Ahmedabad,33,2018,Married,Yes,4,Logistics
+NA,Avantika,B Com,26,Male,Chennai,34,2016,Married,Yes,5,Logistics
+GL032022363,Pathak Satyaprakash,B Tech ,26,Male,Ahmedabad,44,2015,Married,No,8,Operations
+GL012022293,JITENDER KUMAR, MBA,26,Male,Bangalore,45,2014,Married,Yes,8,Operations
+GL032022366,UTTAM KUMAR GUPTA,B.Sc,26,Male,Hyderabad,45,2017,Married,Yes,4,Manufacturing
+GL032022369,Sweta Singh,B Tech ,26,Male,Delhi,27,2017,Single,Yes,3,Logistics
+GL032022371,Amar Kumar Mishra,B.Sc,26,Male,Mumbai,45,2011,Married,No,9,Manufacturing
+GL032022378,Amit sinha,B Com,26,Male,Hyderabad,35,2013,Single,Yes,7,Manufacturing
+GL032022379,Shabeer Hussain, MBA,26,Male,Delhi,35,2012,Married,No,7,Retail
+NA,Jeevan V,BE Mechanical,26,Male,Hyderabad,31,2020,Married,No,2,Healthcare
+GL032022382,AJAY KUMAR CHALLAPALLI,B.Sc,26,Male,Kolkata,31,2012,Married,Yes,8,Operations
+GL032022383,Lovish Johri,BE Mechanical,26,Male,Chennai,25,2015,Single,No,7,Healthcare
+GL032022384,Pooja Pandey,BE Mechanical,26,Male,Bangalore,39,2017,Married,No,4,Digital Marketing
+GL032022389,Giridhar Ramakrishnan,B Com,26,Male,Hyderabad,45,2019,Single,Yes,3,Sales
+GL032022390,Sushant Dalvi,B.Sc,26,Male,Hyderabad,43,2019,Single,No,2,Finance
+GL032022391,Harish DB,B.Sc,26,Male,Ahmedabad,28,2015,Married,No,5,HR
+GL032022394,Jay Sawant,B Com,26,Male,Hyderabad,44,2014,Single,Yes,8,Manufacturing
+GL032022392,Sameer Dharve,BE Mechanical,26,Male,Bangalore,27,2019,Single,Yes,3,Manufacturing
+GL022022329,Ravi Dasari,B Tech ,26,Male,Mumbai,43,2015,Single,Yes,6,Sales
+GL032022404,Macvina Montero,BE Mechanical,26,Male,Bangalore,40,2015,Married,Yes,7,Logistics
+GL032022400,Krapendra,B Tech ,26,Male,Mumbai,27,2016,Married,Yes,4,Retail
+GL032022405,,B.Sc,26,Male,Bangalore,24,2015,Single,Yes,6,Healthcare
+GL032022403,Teena singh,BE Mechanical,26,Male,Mumbai,25,2019,Single,No,4,Retail
+GL032022408,Nikhil Urs,B Com,26,Male,Kolkata,26,2017,Single,Yes,5,Operations
+GL032022376,Ritesh Singh,BE Mechanical,26,Male,Bangalore,29,2021,Married,Yes,2,Digital Marketing
+GL032022407,Shalini anand,B Com,26,Male,Chennai,32,2018,Single,Yes,5,Logistics
+GL112021193,SADAVRATH CHITTA, MBA,26,Male,Ahmedabad,27,2018,Married,No,4,Logistics
+GL122021238,SPARSH VARSHNEY, MBA,26,Male,Delhi,28,2012,Single,No,9,Sales
+GL042022512,Chayan Chakrabarti,B.Sc,26,Male,Kolkata,26,2015,Single,Yes,8,Digital Marketing
+GL022022315,S.Gowtham,B.Sc,26,Male,Kolkata,25,2013,Married,No,9,Manufacturing
+GL112021181,CKPURA HANUMANTHARAYAPPA ARUN KUMAR,B Tech ,26,Male,Mumbai,33,2011,Married,No,8,Finance
+GL032022397,Mahesh Shinde,B Com,26,Male,Kolkata,26,2021,Single,Yes,2,Logistics
+GL0120211892,Sathwik,BE Mechanical,27,Female,Mumbai,44,2019,Single,Yes,4,Sales
+GL022022323,shubhankar deshpande,B Com,27,Male,Chennai,30,2017,Single,No,3,Finance
+GL022022330,Sunke Akhil,B Com,27,Male,Chennai,45,2013,Married,Yes,9,Finance
+GL022022330,Thadisetti sai jyoti,B.Sc,27,Male,Kolkata,30,2010,Married,No,10,Manufacturing
+GL022022347,Rohit Jagtap,B Com,27,Male,Hyderabad,24,2017,Married,Yes,3,Logistics
+GL022022348,Sri Veena Madhuri Kalevar,B.Sc,27,Male,Hyderabad,37,2016,Married,No,3,Finance
+GL032022350,D Rakesh,B Com,27,Male,Delhi,31,2015,Single,No,5,Finance
+GL102021157,MAHESHKUMAR ARASIKERE NANDAKUMAR,BE Mechanical,27,Male,Delhi,31,2015,Married,No,4,Manufacturing
+GL032022351,Girish Naik, MBA,27,Male,Chennai,31,2016,Single,No,6,Finance
+GL022022308,JAI SACHDEVA,B.Sc,27,Male,Ahmedabad,25,2010,Married,No,10,Manufacturing
+GL022022326,Abhishek Bansal,B.Sc,27,Male,Chennai,24,2014,Single,No,9,Logistics
+GL032022355,Prashant Rao Jagtap, MBA,27,Male,Mumbai,26,2013,Married,No,8,Healthcare
+GL012022288,APURAV DHRUV KUMAR SHARM,B Com,27,Female,Mumbai,35,2018,Single,Yes,2,HR
+GL022022319,RIJO GEORGEKUTTY VARGHESE,B.Sc,27,Female,Mumbai,30,2016,Single,No,5,Operations
+GL032022361,Sunil K Gowda,B.Sc,27,Male,Chennai,32,2018,Married,Yes,2,Retail
+GL102021161,VITTHAL MACHINDRA JAWALE,B Com,27,Male,Mumbai,42,2015,Married,No,8,Operations
+GL032022375,Manju R,B Tech ,27,Male,Bangalore,26,2013,Married,No,8,Healthcare
+GL032022377,Prashansa Shekar, MBA,27,Male,Kolkata,34,2015,Single,No,7,Sales
+GL032022385,Amit Khode,BE Mechanical,27,Male,Mumbai,39,2020,Married,No,2,Manufacturing
+GL032022386,Riya,B Com,27,Male,Delhi,31,2020,Married,Yes,2,Operations
+GL032022387,Avinash Mishra,BE Mechanical,27,Female,Hyderabad,43,2018,Married,Yes,3,Manufacturing
+GL032022388,Tushar Tambat,BE Mechanical,27,Male,Bangalore,42,2012,Single,No,9,Manufacturing
+GL032022398,Venkata Suman Kumar,BE Mechanical,27,Male,Kolkata,36,2014,Single,No,7,Operations
+GL032022399,Neha,BE Mechanical,27,Male,Delhi,43,2013,Single,No,6,HR
+GL032022401,Mr. Mohammed Riyas,BE Mechanical,27,Male,Bangalore,44,2010,Married,No,10,HR
+GL032022402,Pavan Waghmare,BE Mechanical,27,Male,Kolkata,43,2018,Single,No,2,Operations
+GL032022428,Srinivasa A B,B Com,27,Male,Ahmedabad,25,2018,Single,No,3,Retail
+GL012022309,KETAKI PITAMBAR BHARMBE,B Com,27,Male,Hyderabad,45,2015,Single,No,7,IT
+GL032022393,Vinod,B Tech ,27,Female,Mumbai,26,2021,Married,No,2,Operations
+GL032022420,SWATI KANSAL, MBA,27,Female,Mumbai,32,2014,Single,Yes,8,Sales
+GL112021214,Vijendra Singh,B Com,27,Female,Kolkata,44,2015,Single,Yes,7,HR
+GL032022406,Abhishek Panda,BE Mechanical,27,Female,Chennai,25,2012,Married,No,9,Logistics
+GL022022307,VINITA RAWAT,B Tech ,27,Female,Chennai,26,2015,Married,No,5,Manufacturing
+GL032022416,Abhishek Ghosh, MBA,28,Female,Kolkata,35,2010,Married,No,9,HR
+NA,Akansha Gunarkar, MBA,28,Male,Ahmedabad,30,2016,Single,No,3,IT
+GL032022421,Akshay Chauhan,B Tech ,28,Male,Mumbai,40,2013,Married,Yes,6,Sales
+GL032022432,Ankita Kumari,B Tech ,28,Female,Hyderabad,36,2019,Single,Yes,3,Healthcare
+GL042022544,ARPIT GUPTA,B Tech ,28,Male,Delhi,30,2013,Single,Yes,7,Logistics
+GL032022441,ARVIND CHANDRASEKARAN, MBA,28,Male,Bangalore,33,2018,Married,Yes,4,Sales
+GL042022466,Ashok Sharma,B.Sc,28,Male,Bangalore,45,2018,Married,No,2,Sales
+GL042022455,GAURAV SHARMA,B Com,28,Male,Mumbai,28,2014,Married,Yes,8,HR
+GL032022418,Heena Kowsar,BE Mechanical,28,Male,Chennai,32,2012,Married,No,9,Logistics
+GL032022435,JAYAKUMAR NAGARAJ,B Com,28,Female,Mumbai,29,2015,Single,No,7,Digital Marketing
+GL042022484,KIRAN VERMA,B Tech ,28,Male,Bangalore,37,2013,Married,No,8,Digital Marketing
+GL012022286,MADDUR PRAKASH KUMAR GOVIND,BE Mechanical,28,Male,Chennai,33,2019,Single,Yes,3,Manufacturing
+GL032022409,Manoj Khartad,B Tech ,28,Male,Delhi,42,2012,Married,No,10,Logistics
+GL042022481,Mayur Utekar,B Tech ,28,Male,Chennai,44,2010,Single,No,9,Retail
+GL032022374,Muzammil Basha,BE Mechanical,28,Male,Ahmedabad,28,2011,Single,No,10,Logistics
+GL032022422,NAZIM BABU SHAIK,B.Sc,28,Male,Bangalore,28,2019,Married,No,2,Operations
+GL032022417,Omkar Waghdhare, MBA,28,Male,Kolkata,25,2013,Single,Yes,9,Retail
+GL042022473,Pooja Kumari,B Tech ,28,Male,Mumbai,45,2013,Single,Yes,8,Finance
+GL042022487,PRACHI SARANG WAGHMARE, MBA,28,Male,Kolkata,36,2018,Married,Yes,5,Logistics
+GL042022491,Prabhu Tejas,BE Mechanical,28,Male,Kolkata,39,2020,Married,Yes,2,IT
+GL032022411,PRASAD SARANGDHAR YADAV, MBA,28,Female,Bangalore,41,2015,Single,Yes,6,Finance
+GL032022443,PRASHANT CHANDRAKANT SHINDE,B.Sc,28,Male,Ahmedabad,43,2017,Married,No,4,Retail
+GL042022462,RAMALINGAM RUBAN,B Tech ,28,Female,Bangalore,33,2015,Single,No,5,Digital Marketing
+GL042022446,Ratnakar, MBA,28,Male,Chennai,40,2011,Single,Yes,10,Healthcare
+GL042022485,Rohit,B Com,28,Male,Chennai,29,2013,Married,Yes,9,HR
+GL042022465,Sneha Mandar Pasalkar,B Com,28,Female,Hyderabad,40,2020,Married,Yes,3,Operations
+GL042022463,Sunil Wadikar, MBA,28,Male,Hyderabad,31,2010,Married,No,10,Manufacturing
+GL042022489,Vijay Jaganathan,B.Sc,28,Male,Kolkata,25,2014,Single,Yes,8,Healthcare
+GL042022477,VIKAS RANA, MBA,28,Male,Mumbai,26,2018,Single,Yes,2,Digital Marketing
+GL042022492,Yatin Kumar, MBA,28,Male,Hyderabad,30,2015,Single,No,6,Logistics
+GL082021104,MANOJ KHANDUJA,BE Mechanical,28,,Delhi,37,2013,Single,No,10,Retail
+GL032022362,Rupak Raj Singh,B Tech ,28,,Delhi,27,2016,Single,Yes,5,Manufacturing
+GL042022510,ADARSH SINGH, MBA,29,Male,Kolkata,35,2020,Single,No,2,Retail
+GL042022505,Kumar Anand,B Tech ,29,Male,Mumbai,31,2015,Married,No,5,Manufacturing
+GL032022426,Anurag Dhruwaraj singh, MBA,29,Male,Ahmedabad,30,2020,Married,Yes,3,IT
+GL042022471,ASIYA BEGUM PINJARI,BE Mechanical,29,Male,Delhi,36,2017,Married,No,4,Sales
+GL042022452,Azaan Shaikh, MBA,29,Male,Bangalore,38,2018,Married,No,3,Retail
+GL042022447,KUMAR BISWAJIT SWAIN,BE Mechanical,29,Male,Chennai,40,2013,Single,Yes,9,IT
+GL032022429,Darshan G,B.Sc,29,Male,Delhi,30,2019,Married,Yes,2,Digital Marketing
+GL042022459,Deepanjan Sen,B.Sc,29,Male,Chennai,43,2016,Married,Yes,7,Sales
+GL032022436,Derrick Vincent Braganza,BE Mechanical,29,Male,Hyderabad,44,2018,Single,Yes,4,Manufacturing
+GL032022433,Ghausiya farheen,B.Sc,29,Male,Kolkata,41,2014,Married,No,5,Logistics
+GL032022440,Joyson Christo A,B Com,29,Male,Bangalore,30,2015,Single,Yes,7,Manufacturing
+GL042022464,Karthikeyan krishnamurthy seetharaman, MBA,29,Male,Delhi,28,2012,Single,Yes,9,Healthcare
+GL032022437,ANANDHA RAJ KOWSALYADEVI, MBA,29,Male,Kolkata,42,2014,Single,Yes,6,Operations
+GL042022460,KRISHNA MANJREKAR, MBA,29,Male,Kolkata,27,2021,Married,No,2,Logistics
+GL032022415,KULDEEP GUPTA,BE Mechanical,29,Male,Delhi,30,2013,Single,Yes,7,Healthcare
+GL042022461,Mahil arvind sanklecha, MBA,29,Male,Delhi,42,2013,Single,Yes,9,Healthcare
+GL032022439,Manish monga,BE Mechanical,29,Male,Kolkata,39,2013,Married,Yes,8,Sales
+GL042022483,LAKSHMIKANTHA MANOJ, MBA,29,Male,Delhi,34,2014,Married,No,6,Sales
+GL042022475,Padmashree S,B Com,29,Male,Bangalore,37,2015,Married,Yes,4,IT
+GL042022448,PANKAJ WAMANRAO TAYWADE,BE Mechanical,29,Male,Hyderabad,29,2019,Married,Yes,3,Logistics
+GL032022431,PRABHAKAR BHARTI,B Com,29,Male,Kolkata,30,2012,Single,Yes,8,Digital Marketing
+GL042022445,PRIYANKA KULLAGOWDER BHARATHAN,B Tech ,29,Male,Delhi,45,2020,Married,Yes,2,Sales
+GL042022445,RAJKAMAL KARUNANITHI,BE Mechanical,29,Female,Kolkata,31,2015,Single,No,5,Retail
+GL042022445,RAJIV KUMAR,B.Sc,29,Male,Bangalore,28,2016,Married,Yes,5,Digital Marketing
+GL032022372,RAMU BABU MUPPADI,B Tech ,29,Male,Kolkata,40,2018,Married,Yes,3,Retail
+GL042022482,Rashmi,B Com,29,Male,Delhi,45,2009,Single,Yes,10,Sales
+NA,Richa Mirav Patel, MBA,29,Male,Delhi,34,2012,Single,No,10,Digital Marketing
+GL122021266,SANDIP RAMESH TEKWANI, MBA,29,Female,Bangalore,31,2018,Married,Yes,4,Retail
+GL042022454,Srinivas goli,B Tech ,29,Male,Chennai,39,2012,Single,No,10,IT
+GL042022457,Sushma B R,B.Sc,29,,Kolkata,25,2020,Married,Yes,3,Healthcare
+GL042022467,VENKAT KUMAR ALLUDI,B Com,29,,Mumbai,27,2014,Married,Yes,8,Logistics
+GL032022442,VENKATESHAM BHUKYA,BE Mechanical,29,Male,Hyderabad,38,2014,Single,No,8,Manufacturing
+GL042022444,Venugopal Reddy,B Tech ,29,Male,Ahmedabad,40,2014,Single,No,9,IT
+GL022022322,Vinod kumar,B Com,29,Male,Mumbai,39,2018,Single,Yes,4,IT
+GL022022306,Deepak Datterwal,B Tech ,29,Male,Hyderabad,38,2014,Single,No,8,Sales
+GL032022359,Gaurav Ramesh more,B Tech ,29,Male,Hyderabad,32,2017,Single,Yes,5,Healthcare
+GL122021250,RUCHI SACHIN VAISHNAV,B Tech ,29,,Chennai,38,2014,Single,Yes,5,Manufacturing
+GL042022518,Kiran shirke,B Com,30,Female,Ahmedabad,24,2013,Married,Yes,9,Finance
+GL042022501,ANANT RAMESH MESHRAM,B Com,30,Male,Kolkata,37,2021,Single,Yes,2,Manufacturing
+GL042022496,Ajinkya Muthal,B Com,30,Male,Chennai,42,2018,Single,No,2,Logistics
+GL042022497,Sarvesh kumar verma,B Tech ,30,,Kolkata,39,2013,Single,Yes,7,IT
+GL032022395,Vikram Singh Thakur,B.Sc,30,,Hyderabad,28,2017,Single,Yes,5,Finance
+GL032022438,NILAYKUMAR MANUBHAI PARMAR,B.Sc,30,,Delhi,43,2014,Single,Yes,5,Logistics
+GL042022490,Aman singh rajput,B Tech ,30,Male,Ahmedabad,36,2016,Single,No,4,HR
+GL122021232,AMBROSE LOUIS PRAKASH KUMAR,B.Sc,30,,Delhi,26,2020,Married,No,2,Logistics
+GL032022357,Shivangi Sankalp Ingle,BE Mechanical,30,,Delhi,39,2016,Married,Yes,6,Finance
+GL032022370,Chebrolu Saisumanth,B Tech ,30,Female,Chennai,24,2015,Single,Yes,6,Finance
+GL042022469,CHAKRAVARTY SUNDARARAJ,B Tech ,30,Male,Delhi,25,2017,Single,No,5,Finance
+GL042022474,Nithin P,B Tech ,30,,Hyderabad,36,2017,Single,Yes,4,Healthcare
+GL042022479,Ankit rai, MBA,30,,Ahmedabad,26,2020,Single,No,2,IT
+GL042022478,ROHIT RAGHUNATH GURAV,B Tech ,30,,Mumbai,34,2014,Single,No,5,HR
+GL022022327,PRADEEP RADHESHYAM GUPTA, MBA,30,Male,Hyderabad,39,2014,Married,Yes,5,Sales
+GL0120211891,DILIP KUMAR SHREYAS,BE Mechanical,30,,Ahmedabad,45,2013,Married,No,7,Logistics
+GL032022419,IRFAN ARIF DAYATAR,BE Mechanical,30,,Ahmedabad,38,2016,Single,No,5,Finance
+GL032022413,Chaitra Thota,B Com,31,Female,Chennai,25,2019,Married,No,2,Retail
+NA,PRADUMNA DUBEY,B Com,31,,Kolkata,31,2010,Married,No,10,HR
+GL042022494,Prathik Subash Chaudhari,B.Sc,31,,Bangalore,37,2016,Single,Yes,7,Digital Marketing
+GL042022502,SAGAR SUDHAKAR WALZADE,B Com,31,Female,Ahmedabad,33,2018,Married,Yes,4,IT
+GL042022503,VIKAS KUMAR,BE Mechanical,31,Male,Kolkata,27,2013,Single,No,6,Logistics
+GL042022507,Sidhant Sharma,B Com,31,,Hyderabad,38,2016,Married,Yes,4,Retail
+GL042022513,Manoj Kumar,B.Sc,31,Male,Bangalore,26,2018,Married,No,2,Healthcare
+GL042022514,Swareena Kushwaha,B Tech ,31,,Bangalore,34,2012,Married,Yes,8,Healthcare
+GL042022524,RAVI MALLIKARJUN PATTANSHETTI, MBA,31,,Hyderabad,32,2017,Married,Yes,6,Sales
+GL042022525,Nilesh Suresh Nimbale,B Com,31,,Mumbai,24,2020,Married,Yes,3,Manufacturing
+GL042022527,Subhash,B Com,31,Male,Kolkata,37,2020,Married,No,3,Sales
+GL042022526,Sachin,BE Mechanical,31,Female,Bangalore,32,2017,Single,No,4,Digital Marketing
+GL042022528,AKHILESH SINGH,B Tech ,31,Male,Ahmedabad,27,2010,Married,No,10,Sales
+GL042022537,Saleha Banu,B.Sc,31,,Ahmedabad,29,2017,Single,No,5,Retail
+GL042022539,RAHUL MARUTI WALE,BE Mechanical,31,,Chennai,32,2017,Married,Yes,3,Healthcare
+GL042022541,Rohit Ramesh Supal,B Tech ,31,,Hyderabad,27,2016,Single,Yes,6,IT
+GL042022540,Pavan Kumar,B Tech ,31,Male,Hyderabad,28,2019,Single,Yes,2,Sales
+GL042022493,Baiju K V,BE Mechanical,31,Male,Kolkata,45,2014,Single,No,6,Finance
+GL042022542,Ravi Kumar,B Com,31,,Mumbai,30,2013,Single,Yes,8,IT
+GL042022543,POONAMCHAND GAUR, MBA,31,Male,Hyderabad,33,2013,Single,Yes,10,Operations
+GL042022546,Harshit Tiwari, MBA,31,Female,Bangalore,26,2012,Married,No,7,Digital Marketing
+GL052022547,KAMAL BHARAT BHUSHAN,B Tech ,31,Male,Hyderabad,44,2017,Married,Yes,2,HR
+GL052022548,Purushottam Agarwal,BE Mechanical,31,Male,Ahmedabad,35,2012,Married,No,9,Manufacturing
+GL052022554,SNEHA SULTAN SINGH,B.Sc,31,Male,Bangalore,30,2019,Married,Yes,2,Sales
+GL052022559,BHARGAVA SATYA CHAITANYA MOTURU, MBA,31,Male,Bangalore,39,2011,Married,Yes,9,Operations
+GL052022560,Malik Khan,BE Mechanical,31,Male,Ahmedabad,43,2018,Single,Yes,3,Logistics
+GL052022565,Chandra Shekhar Somboji,B Tech ,31,,Hyderabad,30,2012,Married,No,10,Healthcare
+GL052022567,Nadimpally Rajashivaananda Reddy,B.Sc,31,Male,Chennai,35,2018,Married,Yes,3,Logistics
+GL052022577,Srinivas,B.Sc,31,Male,Bangalore,27,2015,Married,No,6,Manufacturing
+GL052022574,shivam agarwal,B Tech ,31,Female,Chennai,41,2015,Single,No,7,Healthcare
+GL042022499,Amandeep Kaur,B Tech ,31,Male,Mumbai,43,2015,Single,Yes,5,Manufacturing
+GL022022338,Madhuri Nanda (Vivek Vikas),B Tech ,31,Male,Bangalore,30,2015,Married,Yes,6,Digital Marketing
+GL102021153,PRITAM SUNIL METHA,BE Mechanical,31,Female,Kolkata,32,2018,Married,No,2,Sales
+GL082021111,ROOPESH ANGE VEETTIL,BE Mechanical,31,Female,Ahmedabad,33,2020,Married,No,2,Logistics
+GL032022396,M. Sreedhar,B Tech ,31,Male,Ahmedabad,37,2010,Single,Yes,9,Finance
+GL042022480,KARTHIK RENGARAJ, MBA,32,Male,Bangalore,25,2018,Married,Yes,4,Healthcare
+GL042022495,Aniket Vinkar,B Com,32,Male,Mumbai,24,2017,Single,No,6,Healthcare
+GL042022506,Prakash Rao Shinde,B Tech ,32,Male,Hyderabad,31,2014,Married,No,9,Operations
+GL042022509,Sumit Kumar Kesheri, MBA,32,Male,Delhi,26,2011,Married,No,10,IT
+GL042022512,Chayan Chakrabarti,B Tech ,32,Male,Delhi,42,2013,Single,Yes,8,Operations
+GL042022520,Shamita,B Tech ,32,Female,Ahmedabad,42,2019,Single,No,3,IT
+GL042022522,MOHAMMEDZUBER MOHAMMEDSHAFI AJMERWALA,B Com,32,Male,Chennai,33,2019,Single,Yes,2,HR
+GL042022523,Hanuman Acharya,B.Sc,32,Female,Bangalore,30,2016,Single,No,6,Retail
+GL042022533,DHARANI KUMAR SOORA,B Tech ,32,Male,Hyderabad,37,2018,Single,No,4,Manufacturing
+GL042022534,NARENDER KUMAR RANA, MBA,32,Male,Kolkata,40,2016,Married,Yes,4,Retail
+GL042022535,SUDIPTA PAITANDI,B Com,32,Male,Chennai,32,2012,Married,No,8,Logistics
+GL042022538,PIYUSHA SACHIN MANE,B.Sc,32,Male,Delhi,29,2018,Single,Yes,2,Manufacturing
+GL042022536,Sandip Burman,B.Sc,32,Male,Delhi,27,2016,Married,Yes,4,Sales
+GL042022545,YASH SINGH SUNIL KUMAR SINGH PARIHAR,B Com,32,Male,Delhi,41,2009,Married,Yes,10,Digital Marketing
+GL052022549,Jitendra Manasingh,B.Sc,32,Male,Ahmedabad,34,2015,Single,No,8,HR
+GL052022550,IMRAN RASHEED,B Com,32,,Bangalore,24,2013,Single,Yes,7,Finance
+GL052022551,satyender,B.Sc,32,Male,Delhi,41,2016,Married,No,3,Sales
+GL052022553,Marie françois anand rassou,B Com,32,Male,Kolkata,33,2019,Single,Yes,2,Operations
+GL052022556,Rakesh kumar Nanda,BE Mechanical,32,Male,Kolkata,32,2018,Married,No,3,Healthcare
+GL052022557,Rahul kumar nanakram pahela mani,B Com,32,Male,Mumbai,26,2017,Married,No,4,Logistics
+GL052022563,Keerthi Kumar,B Com,32,Male,Kolkata,37,2012,Married,Yes,10,Operations
+GL052022568,G Kishore Kumar,B Tech ,32,Female,Hyderabad,28,2017,Married,No,3,Manufacturing
+GL042022472,Prathyusha, MBA,32,Male,Hyderabad,31,2015,Single,Yes,5,Finance
+GL032022423,Amol Vijay Kotkar, MBA,32,Female,Hyderabad,30,2019,Married,No,3,Finance
+GL052022569,Chaitnya,B Com,32,Male,Kolkata,43,2018,Single,No,4,Finance
+GL042022529,Priyadarshi Shah,B Com,32,Female,Ahmedabad,45,2019,Married,Yes,3,Retail
+GL042022530,Praveen Kalal,BE Mechanical,32,Male,Chennai,45,2016,Married,Yes,5,Digital Marketing
+GL052022576,MAYUR SHINDE,B Tech ,32,Male,Mumbai,43,2018,Single,No,3,HR
+GL052022586,KALAVATHI JAYA KSHITIJ,B Tech ,32,Female,Ahmedabad,30,2013,Married,Yes,7,Manufacturing
+GL052022587,MAHESH PRAKASH KAWARKHE,BE Mechanical,32,Male,Hyderabad,24,2020,Single,No,3,Finance
+GL052022602,Anurag Chhoker, MBA,32,Male,Mumbai,41,2016,Single,No,3,Digital Marketing
+GL052022606,Saumitra Shit,B Com,32,Male,Ahmedabad,36,2017,Single,No,4,Operations
+NA,PALLAVI VINAYAKRAO RANGARI, MBA,32,Male,Hyderabad,28,2013,Married,Yes,9,Finance
+NA,Bhushan Charandas Gawai,BE Mechanical,32,Male,Ahmedabad,38,2014,Married,No,6,IT
+GL052022637,ANAND KUMAR,B Tech ,32,Male,Bangalore,44,2016,Single,No,7,Operations
+GL052022654,Nilesh Gandhi, MBA,32,Female,Mumbai,31,2012,Single,Yes,9,Digital Marketing
+GL052022585,Shashank S Pandey,BE Mechanical,32,Male,Kolkata,28,2014,Single,Yes,7,Retail
+GL032022414,SRINIVAS NARESH DUSSA,B.Sc,32,Male,Hyderabad,24,2011,Married,No,9,Sales
+GL032022353,Anirudh Sheoran,B.Sc,32,Male,Ahmedabad,31,2014,Single,Yes,6,Logistics
+GL052022605,Avinash Eknath Chavan,B.Sc,32,Male,Ahmedabad,38,2014,Single,No,9,Healthcare
+NA,Sagar S,B.Sc,32,Male,Hyderabad,34,2019,Single,Yes,4,Logistics
+GL042022504,SHEETAL DAS,B Tech ,32,Male,Mumbai,27,2017,Married,No,4,IT
+GL062022695,Aditya kumar,BE Mechanical,32,Male,Bangalore,31,2017,Married,Yes,3,Retail
+GL042022458,Jayant Singh Rajput,B.Sc,33,Male,Chennai,42,2020,Single,No,2,Manufacturing
+GL042022458,H S SAMPATH KUMAR, MBA,33,Male,Chennai,37,2014,Single,No,9,Logistics
+GL052022562,USHA KUMARI,BE Mechanical,33,Male,Bangalore,26,2014,Married,Yes,7,IT
+GL052022566,Rahini,B Tech ,33,Male,Mumbai,34,2019,Single,No,2,HR
+GL052022580,Ravi Vellanki,B Com,33,Male,Delhi,36,2019,Married,No,3,HR
+GL052022583,Kotturesha, MBA,33,Male,Mumbai,38,2013,Single,No,8,HR
+GL052022590,PRASHANT SHARMA, MBA,33,Male,Hyderabad,29,2016,Single,Yes,6,Healthcare
+NA,Swetha Poorna Chandrika,B.Sc,33,Male,Bangalore,30,2012,Single,No,10,IT
+GL052022607,NIKHIL BANKA,B Tech ,33,Male,Kolkata,40,2014,Single,No,8,Operations
+GL052022610,Tharun Tripathi,B Tech ,33,Male,Hyderabad,40,2017,Married,No,5,Digital Marketing
+GL052022614,Sumit BISHT,B Tech ,33,Female,Chennai,25,2019,Married,No,3,IT
+GL052022617,SUMEET PRADEEPKUMAR PARMAR,B Tech ,33,Male,Kolkata,44,2013,Married,No,6,Manufacturing
+GL052022619,Suyog Hire, MBA,33,Male,Kolkata,25,2019,Single,Yes,4,Digital Marketing
+GL052022621,Hemanth Poojary,B Com,33,Female,Mumbai,33,2020,Single,No,2,IT
+GL052022630,SAJITKHAN SABBIRAHMED MALEK,B Com,33,Female,Ahmedabad,26,2010,Single,Yes,9,Logistics
+GL052022623,Thokchum Tombi Singh,B.Sc,33,Male,Ahmedabad,33,2014,Married,Yes,7,Manufacturing
+GL052022634,VISHAKHA JAIN, MBA,33,Male,Mumbai,24,2017,Married,Yes,6,Finance
+GL052022643,Shashank,B Com,33,Male,Kolkata,43,2014,Single,Yes,9,Retail
+GL052022648,NARENDRA KUMAR,B Tech ,33,Male,Mumbai,27,2016,Married,No,4,Healthcare
+GL052022650,JAYAGOPAL MARUTHU PANDIAN,B Tech ,33,Male,Chennai,32,2015,Married,Yes,6,Digital Marketing
+GL052022653,PREETI ADTANI,B Com,33,Female,Chennai,38,2017,Married,Yes,5,Healthcare
+GL052022655,KOVVURU KHADER HUSSAIN, MBA,33,Female,Chennai,32,2011,Single,No,8,Manufacturing
+GL052022636,Arun,B.Sc,33,Male,Hyderabad,38,2016,Single,Yes,7,Retail
+GL052022657,TAHA NAKEDAR,B Com,33,Male,Hyderabad,30,2020,Married,No,2,Sales
+GL052022658,Priyanka Saini,B Tech ,33,Female,Mumbai,44,2016,Married,Yes,7,Sales
+GL052022661,YAMUNA DEVI,B Tech ,33,Female,Chennai,37,2017,Married,No,6,Healthcare
+GL042021036,Gurukiran PS,B Com,33,Male,Hyderabad,37,2015,Married,Yes,6,Finance
+GL042022521,Jayashree Saha,B Tech ,33,Male,Mumbai,39,2018,Single,Yes,3,Finance
+GL042022470,NEHA CHANDRAKANT PETKAR, MBA,33,Male,Delhi,34,2014,Married,No,5,Logistics
+GL032022434,RAHUL VERMA,B Com,33,Male,Delhi,41,2015,Single,No,4,Digital Marketing
+GL042022517,Ritesh Raju Shende,BE Mechanical,33,Female,Hyderabad,33,2013,Married,Yes,8,Logistics
+GL032022356,Viraj Sagbhor,B.Sc,33,Male,Mumbai,30,2016,Married,No,4,Operations
+GL042022516,Alpa Balubhai kamani,B Com,33,Male,Hyderabad,26,2016,Single,Yes,6,IT
+GL052022631,NITYANAND RATHOD,BE Mechanical,33,Male,Ahmedabad,39,2013,Single,Yes,9,Digital Marketing
+GL062022725,Bidisha Haque,B Tech ,33,Male,Bangalore,35,2016,Single,No,6,Healthcare
+GL072022800,MRINMOY ACHARYA,B.Sc,33,Male,Delhi,41,2013,Single,Yes,7,Finance
+GL052022571,Purna Chandra Sahu,BE Mechanical,34,Male,Mumbai,30,2011,Single,Yes,9,Healthcare
+GL052022573,PRAMOD DATTATRAY SHINDE,B Tech ,34,Male,Hyderabad,40,2018,Married,Yes,2,Healthcare
+NA,GOVIND RAJ NATARAJ,B.Sc,34,Male,Mumbai,36,2013,Married,No,7,Operations
+GL042022532,vedant Tripathi,B Com,34,Male,Kolkata,33,2015,Single,No,5,Finance
+GL052022578,UMANG BANSAL,B.Sc,34,Male,Hyderabad,36,2010,Single,No,10,IT
+GL052022579,Priyanka T, MBA,34,Male,Delhi,27,2017,Married,Yes,4,Logistics
+GL052022601,Sagar Prabhakar Potdar,B Com,34,Male,Hyderabad,34,2011,Married,No,9,Finance
+GL052022588,Abhishek Kumar,B Tech ,34,Male,Kolkata,38,2013,Married,No,10,Digital Marketing
+GL052022589,Surender Kumar,B Tech ,34,Male,Kolkata,43,2013,Single,Yes,7,Finance
+GL122021225,Shweta Tyagi, MBA,34,Male,Ahmedabad,29,2010,Single,Yes,9,Digital Marketing
+GL052022591,MOHAMMED JAVEED AHMED,B Tech ,34,Male,Mumbai,33,2016,Married,Yes,4,Retail
+GL052022595,Shivali Kulshrestha, MBA,34,Male,Kolkata,34,2019,Married,Yes,4,Digital Marketing
+GL052022598,SAURABH DATTATRAY DARPELLI,BE Mechanical,34,Male,Hyderabad,41,2015,Married,Yes,4,Digital Marketing
+GL052022599,SUKRUT MURALIDHAR DESHPANDE, MBA,34,Male,Chennai,26,2012,Single,Yes,9,Retail
+GL052022596,RAJAN KUMAR,B.Sc,34,Male,Mumbai,43,2012,Married,Yes,10,IT
+GL052022603,Pratyush Kamal,B Tech ,34,Female,Delhi,29,2020,Married,No,3,HR
+GL052022604,SHASHANK SINGH,BE Mechanical,34,Male,Bangalore,33,2015,Married,No,4,Finance
+GL052022609,TALAGIBAIL NAGAPPA NANDAN,BE Mechanical,34,Female,Kolkata,37,2012,Married,Yes,10,Healthcare
+GL052022552,Dinesh N,BE Mechanical,34,Male,Bangalore,39,2017,Married,Yes,4,IT
+GL052022611,Nikhil BhupendraKumar Padhiyar, MBA,34,Male,Hyderabad,31,2015,Married,Yes,7,Operations
+GL052022613,SATWAJIRAO SUPREETH,BE Mechanical,34,Female,Ahmedabad,35,2019,Single,No,2,Healthcare
+GL052022615,Anket Dutta,B Tech ,34,Male,Delhi,28,2012,Single,No,8,HR
+GL052022618,Sudhina Dabhade,B Com,34,Male,Chennai,24,2019,Married,No,4,Retail
+GL052022593,PARASA CHANDRA SEKHAR,BE Mechanical,34,Male,Ahmedabad,44,2013,Single,Yes,8,Healthcare
+NA,Pradeep Kumar,B.Sc,34,Male,Ahmedabad,25,2014,Married,Yes,8,Finance
+GL052022622,CHEBOLU V ANANTH KUMAR,B.Sc,34,Male,Chennai,28,2011,Single,No,9,Healthcare
+GL052022624,NandaKishore sahoo,B.Sc,34,Male,Delhi,29,2015,Single,Yes,5,Retail
+GL052022627,ASHISH ANILRAO DESHMUKH,B.Sc,34,Male,Ahmedabad,36,2016,Married,Yes,5,Sales
+GL052022626,Yogesh J Paste,B Tech ,34,Male,Hyderabad,43,2012,Single,No,7,Healthcare
+GL052022625,Zeeshan khan, MBA,34,Male,Delhi,30,2012,Single,Yes,8,Healthcare
+GL052022628,Ayan Chatterjee,BE Mechanical,34,Male,Chennai,31,2013,Single,Yes,7,Retail
+GL052022629,YOGESH VIJAY PAKHALE,BE Mechanical,34,Male,Ahmedabad,28,2015,Married,Yes,4,Sales
+GL052022632,RAVI SREENIVASULU,B Com,34,Male,Delhi,32,2020,Married,No,2,Manufacturing
+GL052022633,TUSHAR PATHAK,B Com,34,Male,Bangalore,39,2014,Single,Yes,8,Logistics
+GL052022638,Indu Manjunath, MBA,34,Male,Hyderabad,31,2012,Married,No,9,Operations
+GL052022641,BAPUSAHEB JAYWANT DHAGE,B.Sc,34,,Hyderabad,42,2017,Single,No,3,Sales
+GL052022642,JAI SINGH,B.Sc,34,,Bangalore,38,2016,Single,Yes,6,Retail
+GL052022645,Jitendra Prasad,B Com,34,,Delhi,42,2015,Single,Yes,5,HR
+GL052022647,ISHTIAQ AHMED RAICHURI,B Tech ,34,,Chennai,43,2018,Married,No,5,Healthcare
+GL052022649,MARIMUTHU RAJESHKUMAR,B.Sc,34,,Bangalore,37,2021,Single,Yes,2,HR
+GL052022646,Dipak Deshmukh,BE Mechanical,34,,Bangalore,24,2011,Married,No,8,Finance
+GL052022644,Ashok Ramteke, MBA,34,,Bangalore,40,2016,Married,No,6,Sales
+GL052022651,PUSHKAR MISHRA,B.Sc,34,,Kolkata,30,2019,Married,No,3,Finance
+GL052022652,KALYANI HARIDAS,B.Sc,34,,Bangalore,34,2016,Single,No,7,Healthcare
+GL052022656,M. Rahimal Beevi, MBA,34,Female,Hyderabad,43,2018,Married,Yes,5,Retail
+GL052022660,Mukund R Wavadane,B Tech ,34,Female,Hyderabad,45,2010,Single,No,10,Finance
+GL052022594,PREETI GURUNATH KALBURGI,B Tech ,34,,Chennai,24,2011,Single,No,10,Finance
+NA,Supritha M R, MBA,34,Male,Delhi,31,2015,Married,Yes,7,Sales
+GL052022570,Ranjith A S,B.Sc,34,,Mumbai,33,2011,Single,Yes,9,Logistics
+GL032021021,YOGESH MARUTI PANDRI,B Tech ,34,Male,Ahmedabad,44,2014,Married,Yes,5,Operations
+GL052022564,Dhananjay Kumar Singh,BE Mechanical,34,,Ahmedabad,40,2014,Single,No,7,Sales
+GL122021241,SUBHASH KUMAR MISHRA,B Tech ,34,,Kolkata,44,2019,Married,Yes,2,IT
+GL032022410,Mithra Kasagani,B.Sc,34,,Mumbai,31,2014,Single,No,7,HR
+GL052022662,SANTOSH SHANMUKHAPPA BADAMI,B Tech ,35,,Chennai,26,2014,Single,Yes,6,Digital Marketing
+GL062022667,SANJAY SINGH, MBA,35,,Delhi,36,2019,Married,No,3,HR
+GL062022670,Krishnamurthy SV,B Com,35,,Ahmedabad,24,2010,Single,Yes,10,Manufacturing
+GL062022669,CHANDRA DEEPA,BE Mechanical,35,,Kolkata,26,2014,Single,No,8,IT
+GL062022675,MANIKANTA BANKA, MBA,35,,Hyderabad,42,2017,Married,Yes,4,Manufacturing
+GL062022677,DEBOJYOTI DUYARI,BE Mechanical,35,,Delhi,24,2020,Married,No,2,IT
+GL062022678,PRIYANKA RAVINDRA SHEWALE,B Com,35,,Kolkata,41,2018,Single,Yes,4,Logistics
+GL062022679,SHREE ARUN BAGUL,B.Sc,35,,Delhi,28,2013,Married,Yes,8,Manufacturing
+GL062022683,Ravi katare,B Com,35,,Bangalore,43,2017,Single,No,5,Operations
+GL062022684,RAMESH THOTA,B.Sc,35,,Ahmedabad,45,2012,Married,No,8,Healthcare
+GL062022688,SHIVANNA ARUN KUMAR,B Tech ,35,,Kolkata,42,2018,Married,No,3,Manufacturing
+GL062022691,Ritesh Ramesh Sakhare,B.Sc,35,,Hyderabad,39,2012,Single,No,10,Finance
+GL062022692,DEEPAK SINGH,B Tech ,35,,Hyderabad,42,2013,Married,Yes,8,IT
+GL062022693,Lohitha S,B Tech ,35,,Ahmedabad,33,2016,Married,No,3,Sales
+GL062022697,AMITABH PHULWANI,B Tech ,35,,Kolkata,45,2017,Married,No,5,Logistics
+GL062022702,Dev shah,BE Mechanical,35,,Kolkata,28,2017,Married,Yes,5,Digital Marketing
+GL062022703,Kranthi Ghanta,BE Mechanical,35,,Chennai,31,2012,Single,No,8,Logistics
+GL062022706,Tanya Kejriwal,B Com,35,,Bangalore,31,2016,Single,No,5,Logistics
+GL062022707,Pratibha Yallappagoudar,B.Sc,35,,Hyderabad,40,2018,Single,No,4,Sales
+GL062022708,Aswan Kumar M,B.Sc,35,Male,Bangalore,33,2016,Married,Yes,4,IT
+GL062022714,NEHA GUPTA,B.Sc,35,,Ahmedabad,25,2018,Single,No,2,Digital Marketing
+GL062022717,SANTOSH BIRADER, MBA,35,,Hyderabad,33,2020,Single,No,3,Healthcare
+GL062022721,MADAN LAL ROSHAN,B.Sc,35,Male,Ahmedabad,33,2016,Married,Yes,4,Retail
+GL062022723,Sana,BE Mechanical,35,Male,Bangalore,44,2016,Married,Yes,6,Sales
+GL062022728,RAGHAVA KOLISETTY, MBA,35,,Hyderabad,36,2017,Single,Yes,4,Retail
+GL062022729,SOLOMON RONALDAPREMSANDESH,BE Mechanical,35,,Mumbai,36,2017,Married,No,3,Sales
+GL062022731,Nithil Kumar M, MBA,35,,Hyderabad,40,2012,Single,No,7,Operations
+GL062022733,JOSEPH THANGARAJ,B.Sc,35,,Ahmedabad,44,2011,Single,Yes,9,IT
+GL062022736,AMIT DIPAK SAWARKAR,B Tech ,35,,Chennai,40,2011,Married,Yes,8,Finance
+GL062022738,Bhumit Verma,BE Mechanical,35,,Mumbai,37,2012,Married,Yes,9,Operations
+GL042022508,Shriram,B Com,35,,Chennai,24,2011,Married,No,9,Sales
+GL062022744,Manjunath Prashanth,B Com,35,,Chennai,29,2013,Single,No,8,Digital Marketing
+GL062022746,Gnanendra,B Com,35,,Hyderabad,39,2019,Single,Yes,2,Logistics
+GL062022747,Shaik Azahar,B Com,35,,Chennai,37,2017,Married,Yes,4,HR
+GL062022756,Makrand Mohite,B.Sc,35,,Ahmedabad,36,2015,Married,No,5,Logistics
+GL062022768,Sukhmeet,B Tech ,35,,Delhi,35,2017,Single,No,4,Operations
+GL052022555,Deepa, MBA,35,,Mumbai,25,2018,Single,No,4,HR
+GL062022745,Ravi Kumar,B.Sc,35,,Mumbai,31,2015,Single,No,6,HR
+GL102021163,VISHAL KUMAR,B Tech ,35,,Bangalore,34,2012,Married,Yes,10,Finance
+GL062022665,NIRAKAR BEHERA,BE Mechanical,36,,Delhi,36,2018,Single,No,4,HR
+GL062022666,MAHESH MADHAVRAO PATIL,BE Mechanical,36,,Bangalore,28,2012,Married,No,8,HR
+GL062022676,SHAILESH VISHWAS PATIL, MBA,36,,Bangalore,29,2012,Single,No,10,IT
+GL062022671,PRADEEP KUMAR,B Com,36,,Bangalore,31,2012,Married,No,9,Manufacturing
+GL062022672,KAMRAN MOIN,B.Sc,36,,Hyderabad,27,2014,Married,No,6,Digital Marketing
+NA,Rahul Raj,B Tech ,36,,Bangalore,44,2018,Single,Yes,5,Healthcare
+GL062022681,Vishal,B Tech ,36,,Chennai,28,2015,Single,No,5,Healthcare
+NA,Sachin,B.Sc,36,,Hyderabad,33,2015,Single,Yes,5,HR
+GL062022685,PRACHI VIJAY UKEY,B Tech ,36,,Bangalore,28,2017,Married,No,5,Logistics
+GL062022686,Divya Jyoti Dev,B.Sc,36,,Hyderabad,40,2014,Married,No,8,Retail
+GL062022689,Kamireddy Venkateshwarlu,B.Sc,36,,Hyderabad,37,2012,Single,No,9,IT
+GL062022690,Mahesh,B Com,36,,Ahmedabad,34,2017,Married,Yes,2,Finance
+GL062022694,Saivarshith Venkatesh, MBA,36,,Delhi,38,2018,Single,No,4,Manufacturing
+GL062022698,G balaji, MBA,36,,Chennai,45,2019,Married,No,3,Healthcare
+GL062022701,Nishkal G vellal,B Tech ,36,,Mumbai,40,2015,Single,Yes,5,IT
+GL062022704,Anirban Roy Choudhury,B.Sc,36,,Delhi,34,2014,Single,No,7,Retail
+GL062022715,Chethan HM,B Com,36,,Mumbai,32,2020,Married,Yes,3,IT
+GL062022713,Vittal Rathod, MBA,36,,Chennai,40,2009,Single,Yes,10,Retail
+GL062022716,Shailesh Shrikhande, MBA,36,,Kolkata,34,2014,Single,Yes,8,Retail
+GL062022718,NOORULLAH NASYAM MOHAMMED,B Tech ,36,,Ahmedabad,40,2016,Single,No,5,Manufacturing
+GL062022719,Gopu Ravi kiran,B Com,36,,Chennai,44,2015,Single,Yes,6,Retail
+GL062022720,MURUGAN VENKATESAN,B.Sc,36,,Mumbai,42,2019,Single,Yes,4,IT
+GL062022722,Divya,B Com,36,,Bangalore,24,2018,Single,No,3,HR
+GL062022724,MAHABALASWARAPPARAJESH,B Com,36,,Bangalore,28,2013,Single,No,8,Finance
+GL062022726,Akshay V J,B Tech ,36,,Bangalore,43,2011,Single,Yes,10,Digital Marketing
+GL062022732,Saksham Dewan,B.Sc,36,,Chennai,44,2016,Married,No,5,HR
+GL062022735,AMOL SAHEBRAO MANKAR,BE Mechanical,36,,Bangalore,27,2014,Single,No,8,HR
+GL062022741,Subash,B Tech ,36,,Hyderabad,27,2015,Single,Yes,7,Sales
+GL062022742,JAYDEEP PANDA,B Tech ,36,,Delhi,35,2015,Married,Yes,5,Logistics
+GL062022748,NARAGONDA SIDDU, MBA,36,,Hyderabad,26,2015,Married,Yes,8,Manufacturing
+GL052022640,SOMAK BANDYOPADHYAY,B Com,36,,Delhi,26,2016,Married,Yes,4,Logistics
+GL062022674,SUDHANSHU MAHESH KUMAR TIWARY, MBA,36,,Ahmedabad,40,2015,Married,Yes,6,Operations
+GL062022739,GIRIDHAR MOGILI,B Tech ,36,,Ahmedabad,26,2016,Married,Yes,4,Logistics
+GL052022608,SWARNALI DAS,B Tech ,36,,Chennai,43,2014,Married,Yes,7,Finance
+GL052022600,PRITHIRAJ KARMAKAR,BE Mechanical,36,,Mumbai,30,2017,Single,Yes,2,Digital Marketing
+GL062022700,Prashant Kumar Singh,B Com,36,,Mumbai,30,2009,Single,Yes,10,Digital Marketing
+GL062022727,BIJAY KUMAR MOHANTY,B Com,37,,Bangalore,42,2018,Married,No,3,Digital Marketing
+GL062022711,Basab Dutta,B Tech ,37,,Mumbai,37,2017,Single,No,3,Manufacturing
+GL122021239,REVATHI SHEKAR,B Tech ,37,,Ahmedabad,28,2013,Single,No,9,Healthcare
+GL062022751,RAMARAJAN PERUMAL,B.Sc,37,,Bangalore,27,2013,Single,Yes,8,Finance
+GL062022752,VUTUKURI SANTOSH KUMAR,BE Mechanical,37,,Delhi,31,2010,Married,Yes,10,IT
+GL062022753,ANUPAMA RAI, MBA,37,,Hyderabad,44,2017,Married,No,4,Retail
+GL062022757,SHAILESH DEVADIGA,B.Sc,37,,Ahmedabad,29,2018,Married,Yes,5,Logistics
+NA,Soniya GN, MBA,37,,Mumbai,26,2017,Single,Yes,5,Manufacturing
+GL062022759,Gayatri Paritosh Bansod,B Com,37,,Delhi,44,2019,Married,Yes,3,Operations
+GL062022763,Bhushan Devram Sahane, MBA,37,,Chennai,33,2015,Single,Yes,7,Manufacturing
+GL062022770,Jisha M J,B Com,37,,Kolkata,45,2014,Married,No,8,HR
+GL062022772,KANCHAN GARG,BE Mechanical,37,,Delhi,26,2017,Single,No,3,IT
+GL062022775,Rajesh Das, MBA,37,,Chennai,27,2021,Single,No,2,Digital Marketing
+GL062022782,Hima Bindu Venigandla,B Com,37,,Ahmedabad,34,2011,Single,Yes,10,Digital Marketing
+NA,Vani Garag,B Tech ,37,,Mumbai,37,2012,Married,Yes,9,Logistics
+NA,Vishal Garag, MBA,37,,Bangalore,37,2015,Married,No,7,Digital Marketing
+GL062022786,SANTOSHKUMAR SUMAN,B Com,37,,Hyderabad,28,2014,Married,No,7,Finance
+GL062022789,Yogendra Kumar Gupta,B Com,37,,Delhi,24,2016,Married,No,5,Logistics
+GL072022791,Naimisha,B.Sc,37,,Kolkata,37,2018,Single,No,2,Logistics
+GL072022794,Ashutosh Srivastava,B.Sc,37,,Hyderabad,34,2016,Single,No,7,Operations
+GL072022795,JAYRAM KISAN CHAVAN,BE Mechanical,37,,Kolkata,40,2012,Married,Yes,10,Retail
+GL062022705,Anmol Goyal,B.Sc,37,,Ahmedabad,34,2012,Married,No,9,Sales
+GL072022796,MOHAMMED NADIM VASIM KHAN, MBA,37,,Hyderabad,42,2019,Married,No,3,HR
+GL072022798,Sahoo Jaykishan,B Com,37,,Bangalore,40,2013,Married,No,9,HR
+GL072022805,Anupreet Kaur,BE Mechanical,37,,Hyderabad,32,2018,Single,No,2,Healthcare
+GL072022806,Dinesh Gawde,BE Mechanical,37,,Hyderabad,31,2017,Single,No,4,HR
+GL042022500,Anusha Patnam,B Tech ,37,,Kolkata,28,2017,Single,No,4,Sales
+GL062022699,Sahil Arora,BE Mechanical,37,,Ahmedabad,45,2017,Single,Yes,2,Sales
+GL062022743,Pulkit Prashanth,B Com,37,,Chennai,28,2018,Single,No,2,Finance
+GL052022639,KANDURI AMARNATH,B Com,37,,Bangalore,32,2015,Single,Yes,6,Logistics
+GL052022583,Kotturesha(sowmya g),B Tech ,37,,Mumbai,24,2019,Married,Yes,2,Sales
+GL052022612,NISHANT KUMAR SRIVASTAVA,B Com,37,,Bangalore,26,2013,Single,Yes,9,Healthcare
+GL052022572,Mohammad Talib Divan,B.Sc,37,,Bangalore,37,2014,Single,No,7,Retail
+GL062022765,POOJA GHOTKULE,B Tech ,37,,Kolkata,26,2018,Single,Yes,2,Retail
+G122021218,Gaurav, MBA,37,,Delhi,25,2017,Married,No,4,Finance
+GL052022582,HEMANT KUMAR BHARGAVA,B.Sc,37,,Hyderabad,30,2015,Single,Yes,8,Logistics
+GL042022515,Abhinav Varma,BE Mechanical,37,,Bangalore,27,2015,Single,Yes,5,Logistics
+GL042022468,Punith Kumar K, MBA,37,Male,Chennai,39,2012,Married,Yes,10,HR
+GL042022451,Varun Reddy. k, MBA,37,,Hyderabad,24,2016,Single,Yes,6,Finance
+GL122021235,Mohan Yatam, MBA,37,,Mumbai,25,2015,Married,No,6,Digital Marketing
+GL042022516,Alpa Balubhai kamani, MBA,37,,Bangalore,40,2011,Married,No,9,Manufacturing
+GL062022790,DINNE HARISH KUMAR,B Tech ,37,,Mumbai,31,2015,Single,Yes,6,Digital Marketing
+GL072022801,Akhilesh Soni,BE Mechanical,38,,Delhi,43,2014,Single,No,5,Operations
+GL072022802,DEEPAK KUMAR PANDEY,BE Mechanical,38,,Hyderabad,41,2011,Single,Yes,9,IT
+GL072022797,Dharaniraj Kannan,B Com,38,,Chennai,43,2011,Single,Yes,9,Sales
+GL072022792,HEMANT DEVIDASRAO JOSHI,BE Mechanical,38,,Delhi,29,2020,Single,No,3,Logistics
+GL062022781,Himanshu, MBA,38,,Bangalore,35,2018,Single,Yes,3,HR
+GL062022785,KAJOL KATHURIA, MBA,38,,Mumbai,31,2015,Married,No,5,Manufacturing
+GL072022793,KUNAL CHATTERJEE, MBA,38,,Bangalore,29,2011,Single,Yes,9,Logistics
+GL062022766,MAHESHWARI SHANKAR,B Tech ,38,,Delhi,29,2014,Married,No,8,Finance
+GL062022767,MD SAJID RAZA, MBA,38,,Ahmedabad,30,2020,Single,No,2,Retail
+GL072022813,Neha Bharthi,B Tech ,38,,Hyderabad,35,2012,Single,Yes,9,Healthcare
+GL072022802,Nitish Kumar,B Com,38,,Mumbai,25,2013,Single,No,8,Retail
+GL062022762,PRADEEP KUMAR BIKKUMANDLA,BE Mechanical,38,,Chennai,24,2012,Married,Yes,8,Sales
+GL062022779,Prasad Kulkarni,B.Sc,38,,Delhi,45,2018,Married,Yes,2,HR
+GL072022804,PRAVEEN BOINI,B.Sc,38,,Ahmedabad,39,2015,Single,Yes,6,Digital Marketing
+GL072022836,Pushpalatha,B.Sc,38,,Bangalore,45,2017,Married,Yes,6,Healthcare
+GL032022430,Rahul Chavan,B Tech ,38,,Bangalore,39,2018,Single,Yes,4,IT
+GL062022771,RAJEEV RANJAN,B.Sc,38,,Ahmedabad,25,2018,Married,Yes,2,Operations
+GL062022778,RANGANATHAN AJAY,B Com,38,,Kolkata,28,2019,Married,Yes,2,Digital Marketing
+GL072022827,Rohit, MBA,38,,Kolkata,27,2013,Single,No,6,Operations
+GL062022737,SALUMURI KUSUMA KUMARI,B.Sc,38,,Mumbai,39,2018,Single,No,4,Logistics
+GL062022784,SANDEEP LOLAKAPURI,BE Mechanical,38,,Kolkata,37,2019,Married,No,2,HR
+GL062022764,Shubham Agarwal,B.Sc,38,,Mumbai,38,2013,Married,Yes,10,Digital Marketing
+GL072022815,SIDDHARTH NAGOTIA,B.Sc,38,,Chennai,30,2015,Married,Yes,8,HR
+GL062022774,Sudheer Amerishetty,BE Mechanical,38,,Kolkata,30,2016,Married,Yes,4,Retail
+GL072022809,SUNIL NAIK,B Com,38,,Delhi,43,2017,Married,No,4,HR
+GL062022750,Umesh Patil,B.Sc,38,,Mumbai,43,2012,Single,No,7,Sales
+GL062022754,VEDANSH SHARMA,BE Mechanical,38,,Delhi,44,2012,Married,No,9,Manufacturing
+GL072022812,Vinayak,B Com,38,,Chennai,40,2015,Single,Yes,8,Logistics
+GL062022788,VISHNU ARJUN CHAVAN, MBA,38,,Bangalore,24,2018,Single,Yes,4,Manufacturing
+GL062022769,Priyanshu Saxena,B Tech ,38,,Kolkata,43,2015,Single,No,6,HR
+GL072022808,Kaleecharan Balleda,BE Mechanical,38,,Bangalore,43,2011,Single,Yes,10,Logistics
+GL072022813,Ashwin,B Com,39,,Delhi,24,2013,Married,Yes,9,Manufacturing
+GL072022816,Nitesh,B Tech ,39,,Mumbai,41,2018,Single,Yes,3,IT
+GL072022826,Jitendra Kumar,B Tech ,39,,Delhi,38,2016,Single,Yes,6,Finance
+GL072022831,Mothilal, MBA,39,,Delhi,24,2013,Single,No,9,Healthcare
+GL072022835,ANAMIKA YADAV,B.Sc,39,,Kolkata,43,2015,Married,Yes,7,Retail
+GL072022838,Bhan Verma,BE Mechanical,39,,Ahmedabad,31,2009,Married,No,10,Finance
+GL072022842,Vijay Jaiswal,B Tech ,39,,Delhi,26,2013,Single,Yes,7,Sales
+GL072022851,Madhu Krishna,BE Mechanical,39,,Mumbai,40,2016,Single,No,6,Operations
+GL072022859,Shruti Kharade,B Com,39,,Chennai,24,2014,Single,Yes,7,IT
+GL072022862,Pratiksha Chandrakant Ratanwar,BE Mechanical,39,,Hyderabad,27,2015,Married,No,8,IT
+GL072022865,NAGARAJ MYSORE SRINIVAS,B Com,39,,Delhi,32,2011,Married,No,10,IT
+GL072022883,Yogesh Digambar Mestri,B Tech ,39,,Delhi,27,2017,Single,No,3,Digital Marketing
+GL072022882,SHAIL SAHU,B Com,39,,Bangalore,33,2015,Single,Yes,6,HR
+NA,Manoj Gaud, MBA,39,,Bangalore,45,2020,Married,No,3,Healthcare
+GL072022921,Debabrata Chabdra,B Com,39,,Kolkata,28,2016,Single,Yes,4,Sales
+GL062022710,Shubham gyare,B Tech ,39,,Ahmedabad,27,2019,Married,No,2,Retail
+NA,RENU MALLESH ITNAL,B Tech ,39,,Chennai,37,2015,Single,Yes,7,IT
+GL072022872,Yeshwanth Shetty,B Tech ,39,,Delhi,28,2016,Married,Yes,4,Digital Marketing
+GL052022618,Sudhina Dhabhade,B Com,39,,Hyderabad,25,2014,Single,No,6,Finance
+GL052022595,Shivali Kulshrestha,B Tech ,39,,Delhi,33,2012,Married,No,10,Finance
+GL072022863,Manjunath D,B Com,39,,Delhi,45,2010,Single,No,9,IT
+GL052022558,Gaurav Parmanik,B Tech ,39,,Kolkata,36,2012,Married,No,10,Finance
+GL112021181,CKPURA HANUMANTHARAYAPPA ARUN KUMAR, MBA,39,,Delhi,39,2016,Married,No,4,Digital Marketing
+GL072022811,NIKHILESH,B Com,40,,Delhi,25,2010,Single,No,9,Manufacturing
+GL072022814,Anant Patel,B.Sc,40,,Mumbai,35,2011,Single,Yes,9,Finance
+GL072022820,Abhinav Kumar, MBA,40,,Mumbai,38,2011,Married,No,9,Finance
+GL072022821,Ashwini Singh, MBA,40,,Hyderabad,28,2019,Single,No,2,Retail
+GL072022822,Aakash Ashnokbhai Surana,B.Sc,40,,Delhi,37,2011,Married,Yes,10,Manufacturing
+GL072022823,SAURAV CHAKRABARTY,B.Sc,40,,Mumbai,31,2015,Married,No,6,Healthcare
+GL072022830,Prashant Bhagat,B Com,40,,Bangalore,31,2016,Married,Yes,3,Digital Marketing
+NA,Abhik Bhattacharya,B Com,40,,Delhi,40,2015,Married,No,6,Manufacturing
+GL072022833,Swapnil Puri,B.Sc,40,,Mumbai,44,2010,Married,Yes,10,HR
+GL072022841,Santhosh Bezawada,BE Mechanical,40,,Hyderabad,41,2016,Married,No,5,Operations
+GL072022843,Dike Parag Subhash,B Tech ,40,,Bangalore,25,2015,Married,Yes,7,Finance
+GL072022845,Dev Dutt,BE Mechanical,40,,Hyderabad,31,2014,Married,Yes,6,HR
+GL072022849,Yathish,B Com,40,,Ahmedabad,25,2017,Married,No,3,Finance
+GL072022839,Aravind Murugan,B Com,40,,Delhi,24,2011,Married,Yes,10,Finance
+GL072022846,Athil bin abbas, MBA,40,,Chennai,35,2013,Married,No,8,Digital Marketing
+GL072022853,Rahul Tripathi,B Com,40,,Kolkata,37,2017,Single,Yes,3,HR
+GL072022852,SOUVIK MAITI,B Com,40,,Bangalore,44,2018,Married,No,4,Retail
+GL072022856,Dharmesh Saxena, MBA,40,,Ahmedabad,26,2012,Single,No,9,Digital Marketing
+GL072022857,Pragya Mishra,B Tech ,40,,Chennai,40,2018,Married,No,3,Sales
+GL072022860,Mukesh kumar Chauhan,B Tech ,40,,Mumbai,26,2017,Single,No,3,Healthcare
+GL082022938,Abhishek Banerjee,BE Mechanical,40,,Delhi,43,2013,Single,No,9,IT
+GL032022397,Mahesh Shinde,BE Mechanical,40,,Chennai,26,2014,Married,No,8,Sales
+GL032022361,Sunil K,B.Sc,40,,Bangalore,44,2014,Married,Yes,7,HR
+GL062022749,Sudarshan,B Tech ,40,,Ahmedabad,24,2012,Married,No,8,Digital Marketing
+GL052022617,Sumeet Pradeep Parmar, MBA,40,,Kolkata,28,2013,Single,No,7,Finance
+GL072022803,Yogita,B.Sc,40,,Delhi,44,2019,Single,Yes,3,Healthcare
+GL062022712,Sanil Wadakar,B.Sc,40,,Hyderabad,26,2019,Married,No,4,IT
+GL072022892,SHASHANT SHEWANI,B Tech ,40,,Chennai,26,2011,Married,Yes,8,Manufacturing
+NA,Murugavalavan, MBA,40,,Hyderabad,39,2017,Single,No,6,Retail
+GL072022876,Lakshmi Narayana, MBA,40,,Mumbai,44,2011,Single,No,9,Operations
+GL072022850,Chetan Bilichod,B Com,41,,Ahmedabad,28,2016,Single,No,6,Finance
+GL072022866,Dinesh V,B Tech ,41,,Hyderabad,40,2013,Married,No,9,Healthcare
+GL0120211995,Ajay C, MBA,41,,Kolkata,29,2013,Single,No,8,Logistics
+GL072022871,UTSAV KUMAR PARASHAR, MBA,41,,Hyderabad,37,2012,Single,Yes,10,Healthcare
+GL072022873,Udayan Dey Sarkar,B Tech ,41,,Ahmedabad,38,2014,Married,No,7,Digital Marketing
+GL072022874,KUSHAL THAKARE,B Com,41,,Bangalore,38,2015,Married,No,7,HR
+GL072022875,Ashwin Kumar Kulpagiri,B.Sc,41,,Mumbai,36,2016,Married,Yes,7,Operations
+GL072022881,Piyush kumar,B Com,41,,Chennai,37,2017,Single,No,4,Operations
+GL072022880,Adarsha S P,BE Mechanical,41,,Bangalore,39,2017,Married,No,6,HR
+GL072022885,Shushant Raghav,BE Mechanical,41,,Hyderabad,39,2017,Married,No,6,Digital Marketing
+GL072022886,MANAB DAS,B Com,41,,Kolkata,26,2012,Single,Yes,7,IT
+GL072022887,Sashi kumar,B Com,41,,Kolkata,43,2011,Single,No,9,Logistics
+GL072022888,Virendra Singh Meena,B.Sc,41,,Chennai,37,2011,Married,Yes,10,Digital Marketing
+GL072022893,Satyanarayanan sahu,BE Mechanical,41,,Hyderabad,34,2015,Single,Yes,5,Finance
+GL072022902,RIMJHIM DHAGAT,B Tech ,41,,Bangalore,33,2016,Single,Yes,6,Manufacturing
+GL072022907,Gaurav Ramesh Dukare,BE Mechanical,41,,Ahmedabad,32,2012,Single,No,7,HR
+NA,Ankita,B Com,41,,Hyderabad,42,2013,Single,Yes,9,Retail
+GL072022911,SHAIK BAJANI, MBA,41,,Ahmedabad,25,2016,Single,No,5,Retail
+GL072022918,RUPESH,B.Sc,41,,Hyderabad,44,2021,Single,Yes,2,Digital Marketing
+GL072022920,Nikhil Titare,B.Sc,41,,Bangalore,29,2013,Married,No,10,Manufacturing
+GL072022878,Anshuman,BE Mechanical,41,,Hyderabad,29,2013,Married,Yes,6,Logistics
+NA,Onkar Hatture,BE Mechanical,41,,Chennai,45,2017,Single,No,5,HR
+GL082022941,Musa Feroz Khan,B Tech ,41,,Kolkata,27,2016,Single,Yes,3,Sales
+GL082022942,THAMMARAJU BHARATH,BE Mechanical,41,,Kolkata,28,2015,Married,Yes,6,Operations
+GL042022455,GAURAV SHARMA, MBA,41,,Ahmedabad,25,2010,Single,No,10,Digital Marketing
+GL062022777,MOULI SAI SAKATI,BE Mechanical,41,,Ahmedabad,31,2015,Single,Yes,6,Manufacturing
+GL072022819,Kushagra Vind Sharma,B Tech ,41,,Delhi,32,2016,Married,Yes,5,Manufacturing
+GL1020221412,Santhana Ganesh Rajendra,B.Sc,41,,Delhi,43,2014,Married,Yes,6,IT
+NA,Madhumitha,B Tech ,41,,Chennai,29,2015,Married,Yes,7,Healthcare
+GL072022889,Shio Shankar Jha,B Com,42,,Kolkata,35,2013,Single,Yes,8,IT
+GL0120211996,RASHMI VIPIN DORLIKAR,B.Sc,42,,Mumbai,36,2011,Single,Yes,9,HR
+GL072022915,Yamuna N,B.Sc,42,,Chennai,30,2015,Single,Yes,6,Logistics
+GL072022926,Sweatha Koti, MBA,42,,Delhi,26,2015,Single,Yes,5,IT
+GL072022929,Nayan kumar,BE Mechanical,42,,Mumbai,33,2017,Married,No,4,Healthcare
+GL072022931,GAURAV BAGHEL,B Com,42,,Delhi,38,2016,Married,Yes,5,Retail
+GL072022854,Koushal Singh,BE Mechanical,42,,Hyderabad,37,2015,Single,Yes,7,Digital Marketing
+GL082022939,ROHIT RAJ DWIVEDI, MBA,42,,Chennai,32,2012,Single,Yes,9,HR
+GL082022945,Saratchandra Chaganti,B.Sc,42,,Chennai,37,2013,Married,Yes,10,Retail
+GL082022950,Chiranjeevi Chittela, MBA,42,,Kolkata,33,2013,Married,No,9,Finance
+GL082022952,GAUTAM KUMAR,BE Mechanical,42,,Bangalore,33,2012,Married,Yes,7,Sales
+GL082022948,Raju Kumar,B.Sc,42,,Bangalore,26,2019,Single,No,3,HR
+GL082022949,Rakhi Prasad,B.Sc,42,,Delhi,43,2017,Married,No,5,Logistics
+GL082022953,Nabin Kumar Mazumder,BE Mechanical,42,,Ahmedabad,29,2015,Single,No,6,Logistics
+GL082022957,Anjani Kumar,B Com,42,,Kolkata,32,2017,Married,No,3,Finance
+GL082022958,SHYAM MOHAN AZAD,BE Mechanical,42,,Mumbai,27,2012,Married,Yes,9,Manufacturing
+GL082022960,ASHUTOSH SHARMA,B.Sc,42,,Ahmedabad,37,2014,Single,Yes,6,Healthcare
+GL082022963,Amit Kumar,BE Mechanical,42,,Chennai,37,2014,Single,Yes,6,Retail
+GL082022961,Shahbaz Alam,B Tech ,42,,Chennai,32,2016,Married,No,4,IT
+GL082022965,Manish sharma,B.Sc,42,,Chennai,31,2014,Married,No,5,Finance
+GL052022622,CHEBOLU V ANANTH KUMAR,B Com,42,,Delhi,39,2013,Single,No,9,Sales
+GL042022475,Padmashree S,B.Sc,42,,Kolkata,40,2019,Single,No,2,IT
+GL052022563,Keerthi Kumar,B Tech ,42,,Hyderabad,31,2016,Married,Yes,4,Digital Marketing
+GL062022746,Gnanendra,B Com,42,,Bangalore,34,2013,Married,Yes,7,HR
+GL082022970,Deepak Kumar,B.Sc,42,,Kolkata,32,2016,Married,Yes,4,HR
+GL072022825,Vikas Yadav,B Com,42,,Delhi,35,2018,Single,No,2,Manufacturing
+GL072022817,Rehana,B Tech ,42,,Kolkata,26,2013,Single,No,8,Sales
+GL072022858,Manoj kumar,B Com,42,,Chennai,27,2013,Single,Yes,9,Healthcare
+GL112021217,Aslam Dafedar,B Com,42,,Hyderabad,39,2017,Single,No,4,Logistics
+GL032022374,Muzammil Basha,B Com,42,,Ahmedabad,28,2018,Married,No,4,Digital Marketing
+GL062022698,G balaji,B Com,42,,Hyderabad,39,2021,Married,Yes,2,Finance
+GL072022891,Venkata Sai, MBA,43,,Ahmedabad,45,2013,Single,Yes,8,IT
+GL072022824,Sundar R, MBA,43,,Ahmedabad,32,2020,Married,Yes,2,Digital Marketing
+GL072022844,Jayanth H V,BE Mechanical,43,,Bangalore,42,2012,Married,Yes,7,Sales
+NA,Pintu Punitkumar,B Com,43,,Kolkata,42,2020,Married,Yes,2,Healthcare
+NA,VAIBHAV TIKKU/Preeti,B.Sc,43,,Ahmedabad,41,2015,Single,Yes,4,Sales
+GL072022896,Sayeri Dutta, MBA,43,,Bangalore,44,2018,Married,Yes,2,Healthcare
+GL072022895,Jeemoni Saikia,B Com,43,,Kolkata,45,2015,Married,No,5,Healthcare
+GL072022897,Anant bhardwaj,B.Sc,43,,Ahmedabad,24,2013,Married,Yes,10,Sales
+NA,Chinthana Prakash,B.Sc,43,,Kolkata,34,2014,Married,No,8,Manufacturing
+GL072022900,Deepak Shukla,BE Mechanical,43,,Ahmedabad,45,2014,Single,No,5,Operations
+NA,Nathala Deleep Kumar, MBA,43,,Delhi,39,2010,Single,Yes,10,IT
+GL072022879,MOHAMMEDPARVEZ,BE Mechanical,43,,Mumbai,41,2013,Married,Yes,7,HR
+GL072022906,Sandeep,B Tech ,43,,Bangalore,35,2012,Single,No,8,IT
+GL072022909,shivankar,BE Mechanical,43,,Hyderabad,25,2017,Married,No,4,Healthcare
+GL072022913,Kishore Chavan, MBA,43,,Delhi,37,2013,Single,Yes,9,Sales
+GL072022916,Avit Salutigikar, MBA,43,,Bangalore,30,2015,Married,No,6,Operations
+GL072022917,Mayank Gupta,B Tech ,43,,Delhi,37,2010,Single,No,10,HR
+GL072022919,Ranjit Pavane,B Com,43,,Bangalore,29,2019,Single,Yes,3,Digital Marketing
+GL072022922,Ranjith Yalagandula, MBA,43,,Mumbai,41,2013,Single,No,7,Logistics
+GL072022923,Ashish Singh,B.Sc,43,,Delhi,28,2019,Married,Yes,3,Logistics
+GL072022924,SUSHMITA JAWARIA,B Tech ,43,,Hyderabad,26,2017,Single,No,3,Operations
+GL072022925,Harish,B Tech ,43,,Kolkata,28,2014,Single,Yes,6,Finance
+GL072022903,Siri Chandana Paritala,B Tech ,43,,Kolkata,37,2012,Married,No,10,Logistics
+GL072022927,Kiran Ramesh Shirsath,B Tech ,43,,Bangalore,29,2020,Married,No,3,Digital Marketing
+GL072022928,Sangram Aiwale,B Tech ,43,,Chennai,31,2018,Married,Yes,3,Healthcare
+NA,Ashish Shukla (BABLI),B Com,43,,Kolkata,32,2017,Single,Yes,4,Finance
+GL072022932,Rakesh Pathak,B Com,43,,Delhi,45,2015,Single,Yes,7,IT
+GL072022933,Shashikant Dipakkumar Thakor, MBA,43,,Bangalore,44,2009,Married,Yes,10,Sales
+GL082022940,Rajesh Sharma,B Tech ,43,,Kolkata,34,2015,Married,No,8,Finance
+GL072022935,Sanjiv Kamat,BE Mechanical,43,,Ahmedabad,41,2012,Married,No,9,Manufacturing
+GL082022944,SATHYANARAYANA RAJA KANDIVALASA,B Com,43,,Kolkata,34,2019,Married,No,3,Sales
+GL082022946,Rakhi.bhardwaj,BE Mechanical,43,,Hyderabad,24,2017,Single,No,4,Digital Marketing
+GL072022898,Abhijeet Deokar,BE Mechanical,43,,Hyderabad,38,2016,Single,No,5,HR
+GL072022834,Kalyani Swapnil Purigosavi,B Tech ,43,,Bangalore,25,2016,Married,Yes,7,Digital Marketing
+GL082022971,Samrat dutta roy,B Com,43,,Kolkata,39,2014,Married,Yes,9,IT
+GL062022755,PRITAM MOHAN SANGLE,BE Mechanical,43,,Bangalore,43,2018,Married,No,4,Logistics
+GL082021091,Pradeep Chopra,B Tech ,43,,Mumbai,39,2012,Married,No,10,Sales
+GL122021252,Adarsh Kumbar,B Com,43,,Ahmedabad,24,2010,Married,No,10,Digital Marketing
+GL052022597,Mohd Juniad Shaikh,B.Sc,43,,Bangalore,32,2011,Married,No,10,Retail
+GL082022968,Vivek Anand, MBA,43,,Hyderabad,40,2018,Single,No,5,Digital Marketing
+GL082022937,PRAKASH BABU SAIPAVAN,B.Sc,43,,Hyderabad,29,2014,Single,Yes,7,Retail
+GL072022810,Neha Bharthi,B Com,43,,Mumbai,42,2012,Single,Yes,8,Manufacturing
+GL062022730,Deepraj, MBA,43,,Chennai,39,2019,Single,Yes,2,HR
+GL062022755,PRITAM MOHAN SANGLE,B Com,43,,Ahmedabad,33,2015,Married,No,6,HR
+GL082022947,Mohammed Sayeeduddin Ahmed,B Tech ,44,,Hyderabad,28,2018,Married,No,5,Healthcare
+GL082022966,Ankush Kumar,B Tech ,44,,Bangalore,24,2010,Married,No,10,Manufacturing
+NA,Sandip Chauhan,B Tech ,44,,Bangalore,33,2015,Single,Yes,8,Healthcare
+GL0920221173,Divya Gajbhiye,BE Mechanical,44,,Kolkata,45,2020,Married,Yes,2,Manufacturing
+GL072022868,Krunal Prabhakar Lokhand, MBA,44,,Delhi,41,2013,Married,Yes,6,Sales
+GL082022979,Sarathchandra,B.Sc,44,,Bangalore,25,2014,Married,No,6,Manufacturing
+GL082022985,GAURAV,B Com,44,,Kolkata,30,2014,Married,No,5,Retail
+GL082022987,Rushab,BE Mechanical,44,,Kolkata,42,2018,Single,Yes,4,HR
+GL082022988,Kartik Mohan,BE Mechanical,44,,Mumbai,30,2018,Single,Yes,2,Retail
+GL082022989,Naveen Kumar, MBA,44,,Ahmedabad,30,2012,Single,No,9,Finance
+GL082022990,K MOUNIKA,BE Mechanical,44,,Hyderabad,26,2017,Married,Yes,5,Sales
+GL082022954,Samir kumar,B Tech ,44,,Bangalore,45,2016,Married,Yes,5,Sales
+GL082022997,Shivakumar,B Tech ,44,,Chennai,44,2019,Single,Yes,3,Sales
+GL082022995,Abhiman Jois,B Tech ,44,,Kolkata,40,2021,Married,No,2,Finance
+GL0820221001,Vinay pal,B Tech ,44,,Bangalore,36,2019,Single,Yes,2,Retail
+GL0820221004,Shreya Upwanshi,B.Sc,44,,Kolkata,43,2011,Single,Yes,9,Manufacturing
+GL0820221006,Prakhar Sharma,B.Sc,44,,Delhi,26,2012,Single,No,9,HR
+GL0820221010,Kamalesh,B Com,44,,Kolkata,28,2012,Married,Yes,9,Manufacturing
+GL0820221007,Pon Nirmal Rajan P J, MBA,44,,Kolkata,35,2019,Single,No,3,Sales
+GL0820221015,AMIT PRAMANIK,B Com,44,,Mumbai,31,2014,Married,Yes,7,Finance
+GL0820221019,Chaithanya Kumar,B Tech ,44,,Kolkata,30,2016,Single,No,5,Sales
+GL0820221021,SHUBHAM JITENDRAKUMAR BAROT, MBA,44,,Delhi,25,2017,Married,Yes,2,Healthcare
+GL0820221098,SWARUP MAJI,B Tech ,44,,Hyderabad,28,2016,Single,Yes,5,Healthcare
+GL0820221114,Priya,B Tech ,44,,Mumbai,40,2012,Married,Yes,8,Manufacturing
+GL0820221112,Akash Hedaoo,B Com,44,,Kolkata,38,2016,Single,No,4,Logistics
+NA,Rahul Singh,B Com,44,,Hyderabad,41,2010,Single,No,10,Sales
+GL0820221023,Aftab Alam Mohmmad Azimullah,B Tech ,45,,Ahmedabad,37,2014,Married,Yes,7,IT
+GL0820221027,SOUMYA YADAV,B Tech ,45,,Chennai,33,2019,Married,No,2,Retail
+NA,YAKHILESH KUMAR SAHU, MBA,45,,Ahmedabad,42,2011,Single,No,8,Logistics
+GL0820221038,Abhijeet S Nadgir,B Com,45,,Bangalore,27,2009,Married,Yes,10,Sales
+GL0820221043,Sachin GR,B.Sc,45,,Chennai,42,2015,Single,Yes,8,Retail
+NA,Aman Suresh Condra,BE Mechanical,45,,Kolkata,45,2017,Single,No,3,Finance
+GL0820221051,RADHESHYAM SUDHIRBHAI RAY,B.Sc,45,,Delhi,39,2017,Married,Yes,3,Digital Marketing
+GL0820221053,MOHAMAD ASHFAQUE ANSARI,B.Sc,45,,Kolkata,38,2018,Married,Yes,5,Logistics
+GL0820221055,Rahul Mishra, MBA,45,,Chennai,39,2017,Single,Yes,4,Retail
+GL0820221056,SHUBHAM CHATTERJEE, MBA,45,,Mumbai,33,2015,Married,No,5,Digital Marketing
+GL0820221062,Rama Krishna mukthi,B Com,45,,Bangalore,37,2011,Married,No,10,Finance
+GL0820221044,Venkatesh Ramachary,B Com,45,,Kolkata,43,2018,Single,No,4,Digital Marketing
+GL0820221071,Likith.P,B Tech ,45,,Bangalore,30,2016,Married,No,6,Finance
+GL0820221072,SRINIVASA RAO AMBATI,BE Mechanical,45,,Delhi,25,2010,Married,Yes,10,Operations
+GL0820221075,Bipin Roy,B.Sc,45,,Chennai,26,2014,Married,No,8,Healthcare
+GL0820221077,KAUSTUBH GHANASHYAM PANDIT,BE Mechanical,45,,Chennai,24,2019,Single,Yes,3,Retail
+GL0820221082,Muthu Lingam, MBA,45,,Chennai,29,2017,Single,No,4,Finance
+GL0820221087,JATINKUMAR DASHARATHBHAI PATEL,B Tech ,45,,Bangalore,30,2018,Single,No,3,Retail
+GL0820221088,Nagabhushana,BE Mechanical,45,,Chennai,33,2015,Married,No,6,Healthcare
+GL0820221091,NITIN KAR, MBA,45,,Mumbai,42,2016,Single,No,6,IT
+GL0820221079,Pankaj,B Tech ,45,,Delhi,29,2016,Married,No,7,Retail
+GL0820221092,Rajesh Mishra,B.Sc,45,,Hyderabad,29,2019,Single,Yes,2,Retail
+GL0820221090,SHRADDHA PRASHANT PATIL,B Tech ,45,,Hyderabad,39,2014,Married,No,6,IT
+GL0820221093,Kousthuba M,B Com,45,,Mumbai,42,2009,Married,No,10,Retail
+GL0820221096,Ravi Singh,B.Sc,45,,Chennai,27,2015,Single,Yes,4,Healthcare
+NA,Sowmya, MBA,45,,Bangalore,43,2010,Married,No,10,Logistics
+GL0820221108,Nitin Shekapure,B.Sc,45,,Ahmedabad,34,2014,Single,No,8,Healthcare
+GL0820221109,Nadim Tamboli, MBA,45,,Kolkata,45,2018,Single,No,3,IT
+GL0820221102,ILIYAS LIYAKAT SAYYAD,BE Mechanical,45,,Chennai,32,2016,Single,Yes,4,Manufacturing
+GL0820221106,ABHINAV PANDEY,B Tech ,45,,Mumbai,32,2010,Single,Yes,10,Retail
+GL082022968,Vivek Anand,BE Mechanical,45,,Kolkata,33,2017,Single,Yes,6,Manufacturing
+GL0820221120,Prabal Tripathi, MBA,45,,Delhi,26,2014,Married,No,8,Digital Marketing
+GL082022969,Umme Asma,B Com,45,,Ahmedabad,39,2014,Single,Yes,6,Healthcare
+GL082022936,KIRAN CHANDRASHEKAR,B.Sc,45,,Kolkata,42,2009,Single,No,10,Operations
+GL082022967,LAXMI NARAYAN,B Tech ,46,,Kolkata,34,2011,Married,Yes,9,Logistics
+GL082022972,Alok panda, MBA,46,,Kolkata,31,2011,Single,Yes,10,IT
+GL082022975,Ishika,B Com,46,,Kolkata,34,2010,Single,Yes,10,Manufacturing
+GL082022976,Ravi Chandra,B Tech ,46,,Mumbai,41,2012,Married,No,9,Retail
+GL082022978,Nilam Dighe, MBA,46,,Chennai,38,2018,Single,Yes,3,Operations
+GL082022977,Seema Milind Jathar, MBA,46,,Chennai,26,2013,Married,Yes,6,Logistics
+GL082022956,Prafull Bharambe,B Tech ,46,,Bangalore,24,2015,Single,Yes,6,Sales
+GL072022905,Ghanshyam Patil, MBA,46,,Delhi,38,2009,Single,Yes,10,IT
+GL082022981,Trunal J walke, MBA,46,,Chennai,33,2018,Married,No,5,HR
+GL082022980,Saurabh Ghodmare, MBA,46,,Hyderabad,26,2011,Married,No,10,Retail
+GL082022984,Nilam Nanaware,BE Mechanical,46,,Ahmedabad,34,2017,Married,Yes,5,Manufacturing
+GL082022983,Chitla Pavan,B Tech ,46,,Hyderabad,25,2018,Single,No,4,Finance
+GL082022986,GANESH PRAKASH BHOITE,B Tech ,46,,Kolkata,41,2019,Married,No,4,Sales
+GL082022991,Biswajit Manna,B Tech ,46,,Bangalore,24,2015,Single,Yes,8,Digital Marketing
+GL082022993,G.Paranthaman, MBA,46,,Bangalore,35,2015,Single,No,4,Retail
+GL082022994,Juber Sheikh,B.Sc,46,,Ahmedabad,29,2013,Single,No,6,Operations
+GL0820221003,Vinay Kumar V Hosakoti,B Tech ,46,,Ahmedabad,43,2015,Married,Yes,4,Logistics
+GL0820221005,Ashlay Thomas, MBA,46,,Mumbai,38,2012,Single,Yes,8,Sales
+GL0820221008,Nirmala nayudu, MBA,46,,Bangalore,35,2009,Married,Yes,10,Finance
+GL0820221009,Tejus Mule,B Tech ,46,,Kolkata,40,2015,Married,No,4,Manufacturing
+GL0820221011,Veerashetty,B Tech ,46,,Hyderabad,38,2016,Single,Yes,3,Retail
+GL0820221013,GOVINDAN,BE Mechanical,46,,Delhi,45,2014,Married,No,7,Manufacturing
+GL0820221020,Lokesh Singh, MBA,46,,Hyderabad,44,2016,Married,Yes,3,Logistics
+GL0820221018,VINNI SUPRIYA BATTU,B Tech ,46,,Chennai,43,2017,Married,Yes,6,Retail
+GL0820221016,S jestin,B.Sc,46,,Bangalore,25,2012,Single,Yes,9,Retail
+GL0820221024,Ansh Sharma,B Com,46,,Ahmedabad,31,2018,Single,Yes,4,HR
+GL0820221025,Sandeep Dhiya, MBA,46,,Hyderabad,35,2021,Married,No,2,Manufacturing
+GL0820221022,MOHSIN MAKBULMIYA SAIYAD,BE Mechanical,46,,Delhi,42,2017,Single,Yes,6,Finance
+GL0820221032,Vivek,BE Mechanical,46,,Kolkata,28,2013,Married,No,8,Logistics
+GL0820221028,SANATHKUMAR, MBA,46,,Hyderabad,41,2018,Married,Yes,5,Finance
+GL0820221033,Anushree,B Tech ,46,,Ahmedabad,33,2018,Single,No,4,Operations
+GL082022951,Dakshita Subhash Bhandari, MBA,46,,Bangalore,34,2010,Single,No,9,Logistics
+GL0820221035,Shubham Pandey, MBA,46,,Chennai,30,2010,Single,Yes,9,Operations
+GL0820221034,Avinash, MBA,46,,Chennai,43,2016,Married,Yes,4,Digital Marketing
+GL0820221026,Anand Patil, MBA,46,,Delhi,33,2015,Married,Yes,5,HR
+GL0820221036,ABHISHEK,B Tech ,46,,Ahmedabad,26,2019,Single,No,2,Healthcare
+GL0820221037,Amair Khan,B Com,46,,Chennai,42,2018,Married,No,4,Retail
+GL0820221030,PREM NIKIT KASI, MBA,46,,Ahmedabad,35,2013,Married,Yes,7,Retail
+GL0820221029,Pradeep Prajapati,B Com,46,,Ahmedabad,28,2017,Married,Yes,6,HR
+NA,Bhushan Charandas Gawai,B Tech ,46,,Hyderabad,27,2018,Married,Yes,2,Healthcare
+GL042022450,Pradeepta Kumar Sahoo,B Tech ,46,,Ahmedabad,38,2013,Single,Yes,8,Operations
+GL0820221065,NAHIDA NISAR CHOUGLE, MBA,46,,Delhi,42,2013,Single,Yes,7,Logistics
+GL072022877,NABIL ABDUL RAHIMAN MULLAJI,B.Sc,46,,Hyderabad,31,2014,Single,Yes,8,Digital Marketing
+GL062022680,NIKITA BAJIRAO DHAMDHERE,B Tech ,46,,Mumbai,31,2012,Married,No,10,Healthcare
+GL042022450,Pradeepta Sahoo,BE Mechanical,46,,Chennai,37,2019,Single,No,3,Manufacturing
+GL032022377,Prashansa,B.Sc,46,,Kolkata,39,2015,Single,Yes,7,Finance
+GL0820221039,Manoj S,B.Sc,47,,Kolkata,30,2018,Married,Yes,2,HR
+GL0820221048,AKASH SABHARWAL,B Com,47,,Bangalore,31,2012,Single,No,9,Operations
+GL0820221047,Amin Sharif,B Com,47,,Chennai,28,2012,Single,No,8,Manufacturing
+GL0820221050,Manju Pd,B Com,47,,Chennai,38,2016,Married,No,6,Digital Marketing
+GL0820221054,MALTESH DATTATRAYA NADGIR, MBA,47,,Hyderabad,45,2012,Single,Yes,7,Logistics
+GL042022508,Shriram Bhaskar Aher,B.Sc,47,,Chennai,24,2013,Single,Yes,8,Operations
+GL0820221042,Valmik Chaturvedi,B Tech ,47,,Chennai,30,2014,Single,No,5,HR
+GL0820221049,Kishor,B Tech ,47,,Chennai,29,2016,Married,No,7,Logistics
+GL0820221052,MANOJ,B Com,47,,Kolkata,43,2014,Single,Yes,9,HR
+NA,SACHIN B C,BE Mechanical,47,,Ahmedabad,40,2014,Single,No,7,Finance
+GL0820221045,Vasavi,BE Mechanical,47,,Kolkata,39,2014,Married,No,7,Operations
+GL0820221058,Milan Kumar Behera,BE Mechanical,47,,Delhi,28,2012,Single,Yes,10,HR
+GL0820221063,PRASHANT PRAKASH KESHRI,B Com,47,,Mumbai,36,2012,Single,No,8,Sales
+GL0820221040,Tejas kumar, MBA,47,,Ahmedabad,45,2009,Single,Yes,10,IT
+GL0820221070,Mahesh Kumar,BE Mechanical,47,,Ahmedabad,36,2019,Married,Yes,3,Retail
+GL0820221067,Pranav Krishna Parab,B.Sc,47,,Chennai,44,2014,Married,No,5,Finance
+GL0820221068,Satyawan, MBA,47,,Delhi,45,2010,Married,No,10,Operations
+GL0820221069,Krishna Reddy,BE Mechanical,47,,Delhi,36,2013,Single,Yes,10,Operations
+GL0820221073,NAGARAJ HANCHALA ROHITH, MBA,47,,Bangalore,32,2012,Single,No,10,Operations
+GL0820221076,GAUTAM KUMAR,BE Mechanical,47,,Delhi,45,2021,Single,Yes,2,Digital Marketing
+GL0820221081,SHUBHAM RANA,B.Sc,47,,Kolkata,29,2017,Married,No,5,Digital Marketing
+GL0820221083,Pritee Haribhau Raut,B.Sc,47,,Delhi,27,2016,Single,No,3,Healthcare
+GL0820221084,Sharanya, MBA,47,,Hyderabad,38,2011,Married,Yes,9,HR
+GL0820221085,Rakhi Sharma, MBA,47,,Hyderabad,26,2014,Single,Yes,8,HR
+GL0820221086,Santosh H Rajaak,B Com,47,,Hyderabad,25,2011,Single,Yes,9,Digital Marketing
+GL0820221089,Vangala Sai kiran Reddy,BE Mechanical,47,,Kolkata,37,2018,Married,No,2,HR
+GL0820221078,Bhagyashri,B Com,47,,Chennai,28,2015,Married,No,7,Sales
+GL0820221094,Manjunath,B Tech ,47,,Bangalore,38,2014,Single,No,7,Manufacturing
+GL0820221095,Amit Kumar Shukla,B Tech ,47,,Hyderabad,28,2018,Married,No,2,Retail
+GL0820221100,MD Nisar Mahdi,BE Mechanical,47,,Hyderabad,28,2019,Married,Yes,4,HR
+GL0820221099,Atish Vinodrao Petle,B Tech ,47,,Mumbai,35,2015,Married,No,7,Logistics
+GL0820221107,Sachin Shekapure,BE Mechanical,47,,Ahmedabad,25,2016,Married,Yes,3,Digital Marketing
+GL0820221103,RAHUL YADAV,B Tech ,47,,Hyderabad,31,2013,Single,Yes,7,Sales
+GL0820221105,Ranjeet Kumar Pathak,B Com,47,,Hyderabad,30,2016,Single,Yes,5,Finance
+GL0820221113,Tushar aggarwal,B Com,47,,Ahmedabad,26,2014,Married,Yes,8,IT
+GL0820221118,NAMALU DEEPIKA,BE Mechanical,47,,Chennai,27,2013,Single,No,7,Healthcare
+GL0820221119,Vishank Sharma,B.Sc,47,,Kolkata,45,2014,Single,No,8,Logistics
+GL082022999,RAJESH SUKUMAR, MBA,47,,Delhi,40,2016,Single,No,4,Healthcare
+GL062022740,PALLAVII WAGHMARE, MBA,47,,Ahmedabad,28,2016,Single,No,4,Digital Marketing
+GL072022864,MAHESH VERMA,B Tech ,47,,Hyderabad,43,2019,Married,Yes,4,Retail
+GL082022998,MANOJ BHAURIYAL, MBA,47,,Bangalore,32,2013,Married,No,9,Sales
+GL0820221017,Sharath Chandra,B Com,48,,Ahmedabad,39,2012,Married,Yes,10,Sales
+GL0820221064,Mahant,B Com,48,,Chennai,25,2011,Married,Yes,9,Retail
+GL0820221074,Krishna T,B Com,48,,Delhi,27,2014,Married,No,5,Digital Marketing
+GL0920221122,Arun kumar M,BE Mechanical,48,,Chennai,24,2015,Single,Yes,7,Logistics
+GL0920221125,Abhinav Sharma,BE Mechanical,48,,Kolkata,33,2013,Married,Yes,6,Healthcare
+GL0920221127,Bhagyashree ray,B Tech ,48,,Hyderabad,38,2015,Single,No,4,Operations
+GL0920221128,Jayant Warke,B.Sc,48,,Chennai,42,2015,Married,Yes,6,Logistics
+GL0920221130,Saida Shaik,B.Sc,48,,Chennai,39,2019,Married,Yes,2,Digital Marketing
+GL0920221136,Prashanth Askani,BE Mechanical,48,,Delhi,43,2018,Single,Yes,2,Logistics
+GL0920221137,ISHWARLAL SAROJ,B Com,48,,Bangalore,27,2014,Married,No,6,Finance
+GL0920221138,Palani, MBA,48,,Hyderabad,38,2012,Single,No,7,Finance
+GL0920221140,Pratik Kundur,B Tech ,48,,Delhi,27,2019,Single,Yes,2,Digital Marketing
+GL0920221144,Jaskaran Dhillon,B.Sc,48,,Hyderabad,39,2014,Single,Yes,9,HR
+GL0120211999,Swapnil,B Tech ,48,,Bangalore,36,2013,Single,Yes,9,Digital Marketing
+GL0920221148,Anish Ahmed Khan, MBA,48,,Ahmedabad,32,2019,Single,Yes,3,Healthcare
+GL0920221150,PRATIK MURALIDHAR CHACHARE, MBA,48,,Bangalore,31,2016,Married,No,6,Manufacturing
+GL0920221151,AJIT KUMAR,B.Sc,48,,Chennai,41,2012,Single,Yes,9,Retail
+GL0920221146,Shwetha vasudevgowda,B Com,48,,Mumbai,27,2017,Single,Yes,5,Digital Marketing
+GL0820221080,SWAPNIL VIJAY PATIL,B.Sc,48,,Hyderabad,25,2018,Married,No,3,Retail
+GL0920221154,Swadhin,B.Sc,48,,Chennai,42,2013,Single,No,7,HR
+GL0920221155,Anju singh gau,B.Sc,48,,Mumbai,30,2014,Married,Yes,6,Digital Marketing
+GL0920221159,NAVEEN KUMAR M R,B Com,48,,Kolkata,33,2017,Married,Yes,3,Healthcare
+GL0920221163,Abhilash,B Tech ,48,,Delhi,29,2018,Single,No,2,HR
+GL072022908,Omkar Kisan Shirke,B.Sc,48,,Mumbai,24,2015,Married,Yes,4,Finance
+GL0920221166,Rohit,B.Sc,48,,Delhi,31,2018,Married,Yes,3,Digital Marketing
+GL0920221169,NAUMAN AHMED,BE Mechanical,48,,Mumbai,44,2014,Married,No,6,Finance
+GL0920221174,Ameya Bhsale,B Tech ,48,,Mumbai,43,2015,Married,Yes,5,Operations
+GL0920221177,NITU DILIP SONAWANE,BE Mechanical,48,,Delhi,44,2017,Married,No,2,Healthcare
+GL0920221181,ANURAG SRIVASTAVA, MBA,48,,Chennai,36,2017,Married,No,2,Sales
+GL0920221187,Amrutham raviteja,B Com,48,,Chennai,34,2012,Single,No,8,Finance
+GL0920221182,CHITHANIPPULA SURESH,B Tech ,48,,Bangalore,27,2016,Married,No,4,Operations
+GL082022955,Sunil Kumar,B Tech ,48,,Hyderabad,31,2016,Single,Yes,6,Retail
+GL122021229,AMAN PATEL,B Com,48,,Mumbai,42,2013,Single,Yes,6,Logistics
+GL042022474,Nithin,B Com,48,,Ahmedabad,35,2014,Single,Yes,8,Manufacturing
+GL0920221202,Suvarnakumar R G,B.Sc,48,,Bangalore,38,2017,Single,No,5,Digital Marketing
+GL0920221204,Raghavendra H B,B.Sc,48,,Mumbai,25,2016,Single,Yes,4,Retail
+GL0920221208,Suyash,BE Mechanical,48,,Kolkata,33,2012,Single,No,8,Retail
+GL0920221209,Amit Yadav,B Tech ,48,,Ahmedabad,32,2016,Single,No,5,HR
+GL0920221213,SAMUEL PEDDIREDDY, MBA,48,,Bangalore,33,2017,Single,No,6,IT
+GL0920221214,DIWAKAR VIJAYSHANKAR MISHRA,B Tech ,48,,Bangalore,36,2015,Single,No,5,Digital Marketing
+GL0820221014,Shadab Sayyed,BE Mechanical,48,,Bangalore,35,2013,Single,No,6,Retail
+GL0820221012,Devender Shivakumar, MBA,48,,Ahmedabad,24,2014,Single,No,6,Finance
+GL0920221238,Sapna Shukla,BE Mechanical,48,,Kolkata,40,2013,Married,No,8,Logistics
+GL072022890,Shubham Paunikar,B Com,48,,Hyderabad,44,2016,Married,No,4,Finance
+GL0920221183,Gopal Yadav,B Tech ,48,,Delhi,41,2012,Single,Yes,9,Operations
+GL082022955,SUNIL KUMAR,B.Sc,48,,Chennai,33,2013,Single,No,8,Digital Marketing
+GL0820221066,Ankit Shankar Kocharekar,B Tech ,49,,Chennai,28,2015,Married,Yes,4,Operations
+GL0920221121,RAI AGNIVESH OMPRAKASH,BE Mechanical,49,,Ahmedabad,44,2019,Single,Yes,2,IT
+GL0920221129,Bharath Shetty,B.Sc,49,,Hyderabad,25,2019,Married,Yes,2,Retail
+GL0920221131,Yogeesha R,B.Sc,49,,Ahmedabad,40,2012,Married,No,7,Digital Marketing
+GL0920221133,Ardhendu Pradhan, MBA,49,,Delhi,37,2017,Married,Yes,6,Manufacturing
+GL0920221162,TUMESH KUMAR SAHU,BE Mechanical,49,,Mumbai,33,2018,Married,No,3,Digital Marketing
+GL0920221175,Ritu tiwari,B Tech ,49,,Ahmedabad,41,2014,Married,No,5,Logistics
+GL0920221188,Mutyala Swetha,B.Sc,49,,Kolkata,28,2014,Married,No,7,Logistics
+GL0920221190,AKSHAY PRALHAD MANDADE,B Com,49,,Delhi,30,2016,Married,No,5,Digital Marketing
+NA,Anupama Dwivedi,BE Mechanical,49,,Ahmedabad,38,2013,Married,Yes,8,Healthcare
+GL0920221197,Nilu Chintaman Shende,B Tech ,49,,Hyderabad,40,2013,Married,No,6,Digital Marketing
+GL0920221199,V kotteswaran,B.Sc,49,,Delhi,35,2017,Married,No,4,IT
+GL0920221203,DHANESH RAMAN NEWASKAR,B.Sc,49,,Kolkata,41,2014,Single,No,8,Logistics
+GL0920221207,Sarang Pawar,B Tech ,49,,Delhi,28,2015,Single,No,6,Healthcare
+GL0920221200,Omkar Khairmode,B Tech ,49,,Ahmedabad,33,2015,Single,Yes,7,IT
+GL0920221211,Komal Khurana,BE Mechanical,49,,Chennai,39,2017,Single,No,5,Logistics
+NA,Rahul Kumar,BE Mechanical,49,,Delhi,26,2009,Single,Yes,10,Logistics
+GL0920221139,Rahul Gupta, MBA,49,,Kolkata,37,2012,Married,No,8,Retail
+GL0820221114,ANSHUL SHUKLA/ Priya, MBA,49,,Hyderabad,43,2020,Single,Yes,3,Digital Marketing
+GL0820221111,Raj Kumar,B Com,50,,Chennai,34,2012,Single,No,9,Healthcare
+GL0920221124,Manoj K Varma,B Tech ,50,,Mumbai,29,2010,Single,No,9,HR
+GL0820221117,BABITHA G,B.Sc,50,,Ahmedabad,39,2013,Married,Yes,9,Healthcare
+GL0920221132,Abhishek Poddar,B Com,50,,Hyderabad,42,2017,Single,No,6,HR
+GL0920221135,VIKRAM VEERANNAPET,B Tech ,50,,Bangalore,41,2018,Single,Yes,3,Digital Marketing
+GL0920221134,NIKHIL BHATT,BE Mechanical,50,,Mumbai,24,2014,Single,Yes,7,Healthcare
+GL0920221153,AJAY SINGH VERMA, MBA,50,,Hyderabad,31,2010,Single,No,9,IT
+GL0920221156,Karunakar Reddy Gunreddy, MBA,50,,Kolkata,25,2010,Married,No,10,Manufacturing
+GL0920221157,Gaurav Chahar,BE Mechanical,50,,Hyderabad,29,2015,Single,No,7,Finance
+GL0920221158,NIRMAL KUMAR VERMA,B.Sc,50,,Mumbai,44,2017,Married,No,5,Retail
+GL0920221164,Sushma M,B Com,50,,Ahmedabad,24,2017,Married,Yes,5,Healthcare
+GL0920221171,Amol, MBA,50,,Delhi,38,2012,Single,No,10,Sales
+GL0920221172,Choppari Madhu Kiran,BE Mechanical,50,,Hyderabad,37,2016,Single,Yes,3,Retail
+GL0920221168,GURULING DAGDU NILANGEKAR,BE Mechanical,50,,Chennai,24,2013,Single,Yes,10,Digital Marketing
+GL0920221176,AMIT KUMAR MISHRA,BE Mechanical,50,,Mumbai,28,2016,Single,No,4,Sales
+GL0920221178,Ayushi,B Tech ,50,,Delhi,28,2010,Single,Yes,10,Logistics
+GL0920221179,GEETA GAUTAM,B Com,50,,Mumbai,40,2015,Married,No,6,Sales
+GL0920221180,SANKET SAKHARAM SHIRSAT,B.Sc,50,,Delhi,25,2016,Married,No,6,Manufacturing
+GL0920221184,Karuna Karan,BE Mechanical,50,,Bangalore,31,2010,Married,Yes,10,Operations
+GL0920221185,SUBRAMANI UMASHANKAR,BE Mechanical,50,,Delhi,33,2013,Married,No,8,Finance
+GL0920221186,SANKAR RAJA RAKESH BABU, MBA,50,,Bangalore,26,2017,Married,No,4,Retail
+GL0920221191,Bhawna Dhuria,B Com,50,,Delhi,35,2013,Single,Yes,9,Operations
+GL0920221193,Arunkumar,B.Sc,50,,Hyderabad,29,2012,Single,No,10,Logistics
+GL0920221194,Abhijit Pawar,B Tech ,50,,Kolkata,39,2019,Single,No,3,Sales
+GL0920221198,RESHMA RESHMA,B.Sc,50,,Hyderabad,24,2011,Single,No,8,Digital Marketing
+GL0920221201,Padmanabha R,B Tech ,50,,Hyderabad,37,2018,Single,Yes,2,Digital Marketing
+GL0920221210,Ankit Sharma,B Com,50,,Kolkata,35,2011,Single,No,8,Digital Marketing
+GL0920221206,Ashish Kumar,B.Sc,50,,Delhi,42,2020,Married,Yes,2,Operations
+GL0920221215,Himanshu Shekhar,B Tech ,50,,Bangalore,34,2014,Married,Yes,5,Logistics
+GL0920221189,Ankit Gondaliya,B Tech ,50,,Hyderabad,35,2018,Single,No,4,Finance
+GL052022597,Junaid,B Tech ,50,,Kolkata,25,2014,Married,Yes,5,Retail
+GL0920221142,Avkash Sharma, MBA,51,,Hyderabad,37,2015,Married,Yes,5,Manufacturing
+GL0920221216,Santosh Shriwas, MBA,51,,Delhi,27,2013,Married,Yes,7,Digital Marketing
+GL0920221217,VIBHU KESHAV,B.Sc,51,,Chennai,27,2016,Single,Yes,6,HR
+GL0920221218,Suresh, MBA,51,,Chennai,34,2016,Married,No,5,IT
+GL0920221219,YASHDEEP PANDEY,B.Sc,51,,Chennai,26,2011,Single,Yes,9,Manufacturing
+GL0920221221,VIVEK RATESWAR/ Puja sen,B Com,51,,Chennai,29,2012,Single,Yes,8,Logistics
+GL0920221225,Anas Kamboj,B Com,51,,Delhi,43,2013,Single,No,9,Sales
+GL0920221227,ANKIT MISHRA, MBA,51,,Mumbai,41,2020,Single,Yes,2,HR
+GL0920221228,Neethu, MBA,51,,Hyderabad,44,2013,Single,No,9,Sales
+GL0920221231,Aiman Shaikh,B Tech ,51,,Chennai,42,2017,Married,No,6,Healthcare
+GL0920221234,Sharanya Geetesh Mehta,BE Mechanical,51,,Ahmedabad,38,2018,Married,Yes,5,Operations
+GL0920221236,RAVISH RAMSUBHAG MISHRA,B Tech ,51,,Kolkata,37,2016,Single,Yes,5,Retail
+GL0920221243,PRABHAT SAXENA, MBA,51,,Chennai,33,2012,Single,No,8,Operations
+GL0920221245,Vishwas Sharma,B.Sc,51,,Mumbai,41,2013,Married,Yes,9,Operations
+GL0920221247,Sribal Sridharan,B Com,51,,Hyderabad,28,2012,Single,Yes,8,Digital Marketing
+GL0920221250,Pratik Sahane,BE Mechanical,51,,Hyderabad,25,2014,Single,No,8,Operations
+GL0920221252,Dheeraj Sonawane, MBA,51,,Hyderabad,30,2020,Single,Yes,3,Digital Marketing
+GL0920221253,Manvanter Dattatraya Shingaram, MBA,51,,Bangalore,41,2021,Married,Yes,2,HR
+GL0920221257,KARAN APOORVA,B Tech ,51,,Chennai,28,2013,Married,No,9,Retail
+GL0920221259,CHOWDAM VENKATASUBBAIAH,BE Mechanical,51,,Hyderabad,35,2018,Married,Yes,3,Manufacturing
+GL0920221261,ANOUSHK PRASHANT MANE, MBA,51,,Chennai,33,2014,Single,No,6,Sales
+GL0920221266,SURYA NARAYANA KALA,BE Mechanical,51,,Ahmedabad,39,2016,Single,No,4,Sales
+GL0920221270,NAGA ADITYA,BE Mechanical,51,,Hyderabad,33,2019,Single,Yes,2,Sales
+GL0920221271,SIDDHARTH UPADHYAY,B Com,51,,Ahmedabad,30,2018,Single,Yes,3,Retail
+GL0920221274,Rama Krishna G,B.Sc,51,,Hyderabad,45,2014,Single,No,7,Logistics
+GL0920221278,Leena Subhashsingh Pardeshi,B Tech ,51,,Bangalore,28,2018,Single,Yes,2,Logistics
+GL0920221279,Amol Kalepatil,BE Mechanical,51,,Kolkata,30,2021,Single,Yes,2,Operations
+GL0920221284,DASHRAT BABU,B.Sc,51,,Ahmedabad,35,2019,Married,Yes,2,HR
+NA,Meghendra Pratap Singh,B Com,51,,Chennai,39,2017,Single,No,2,Finance
+GL0920221291,Pendota Dilip Kumar,BE Mechanical,51,,Ahmedabad,30,2015,Single,Yes,8,IT
+GL0920221297,Gurjeet Singh,B Tech ,51,,Ahmedabad,25,2011,Single,Yes,8,Sales
+GL0920221296,Sohail Ali Khan,B Com,51,,Ahmedabad,37,2017,Single,Yes,5,Digital Marketing
+GL052022585,Shashank S Pandey,B Tech ,51,,Kolkata,24,2019,Single,No,2,Manufacturing
+GL1020221307,PALLAVI GUJARE,B.Sc,51,,Kolkata,36,2018,Single,Yes,2,Finance
+GL1020221310,SAURAJ NATH RAI,B Com,51,,Mumbai,44,2013,Married,Yes,9,Logistics
+GL1020221311,LOKESH SURESH BERDE,B Com,51,,Mumbai,32,2010,Married,No,10,Retail
+GL1020221312,PUSHKARAJ SATYANARAYAN DHOOT,B Tech ,51,,Kolkata,41,2015,Married,No,6,IT
+GL0920221172,Choppari Madhu Kiran,BE Mechanical,51,,Delhi,35,2017,Single,No,3,IT
+GL082022969,Umme Asma, MBA,51,,Ahmedabad,32,2018,Single,No,4,Digital Marketing
+GL0920221290,Gaurav Gupta,B.Sc,51,,Delhi,30,2016,Single,No,5,IT
+GL052022585,Shashank S Pandey,BE Mechanical,51,,Ahmedabad,40,2018,Married,No,2,Finance
+GL0920221167,Manikandan Muthu,B.Sc,52,,Delhi,32,2014,Married,Yes,8,IT
+GL0920221212,Tanmay Shaw,BE Mechanical,52,,Hyderabad,24,2011,Single,No,10,Manufacturing
+GL0920221205,Praveenkumar Bolinjadka,B Tech ,52,,Bangalore,37,2017,Married,Yes,3,Logistics
+GL0920221220,BALACHANDRAN SURYA,B Tech ,52,,Ahmedabad,26,2015,Married,No,6,Healthcare
+GL0920221222,Sonali Mohite,B Tech ,52,,Hyderabad,31,2014,Single,No,8,Digital Marketing
+GL0920221224,Girish K,BE Mechanical,52,,Hyderabad,33,2012,Single,No,10,HR
+GL0920221226,Roshan,B.Sc,52,,Delhi,35,2016,Single,Yes,4,Operations
+GL0920221229,kamireddi Prudhvi Reddy,B Tech ,52,,Chennai,28,2016,Married,No,6,IT
+GL0920221232,Kruthika Kavin,B Com,52,,Ahmedabad,30,2016,Married,Yes,6,IT
+GL0920221233,Kumar Satyam,B.Sc,52,,Mumbai,33,2016,Single,Yes,3,Healthcare
+GL0920221235,AshwiniVijaykumar,B Com,52,,Bangalore,45,2011,Married,No,9,Manufacturing
+GL0920221230,KUNAL GUPTA,B Tech ,52,,Bangalore,33,2017,Single,No,3,Finance
+GL0920221239,RAGHU JADAGANAHALLI LAKSHMANAGOWDA,B Tech ,52,,Kolkata,44,2019,Married,Yes,2,Digital Marketing
+GL0920221240,Raj Kumar,B Tech ,52,,Delhi,34,2015,Married,Yes,7,Manufacturing
+GL0920221241,ABHISHEK SHIVRATAN PAREEK,B.Sc,52,,Chennai,37,2014,Single,Yes,6,Digital Marketing
+GL0920221242,PARAS NEGI,BE Mechanical,52,,Mumbai,33,2019,Single,Yes,2,IT
+GL0920221244,Vishal Aghnihotri, MBA,52,,Ahmedabad,26,2013,Single,No,6,IT
+GL0920221251,RAJKUMAR RANGARAJ,B Tech ,52,,Bangalore,30,2015,Married,Yes,7,Manufacturing
+GL0920221254,BYATAPPA DIVYA,B.Sc,52,,Delhi,25,2011,Single,Yes,10,IT
+GL0920221255,BOJANAPU MAHESH KUMAR,BE Mechanical,52,,Hyderabad,42,2016,Married,Yes,6,Logistics
+GL0920221300,Harish,B.Sc,52,,Chennai,34,2017,Married,No,3,Retail
+GL0920221147,Manoj V Raju,B Com,52,,Chennai,26,2013,Single,Yes,6,Retail
+GL0920221161,Aditya Agarwal,B.Sc,52,,Hyderabad,39,2014,Married,No,8,Logistics
+GL1020221305,Ahmed Pasha,B.Sc,53,,Hyderabad,38,2016,Married,No,6,Logistics
+GL0920221282,Aniket Jain,B.Sc,53,,Hyderabad,39,2012,Single,No,10,Retail
+GL0920221295,ASHUTOSH SHRIVASTAVA,BE Mechanical,53,,Ahmedabad,45,2017,Single,No,4,Operations
+GL0920221289,ASISH KUMAR HIAL,B Tech ,53,,Bangalore,26,2013,Married,No,7,Sales
+GL0120211998,Chandru Purushothaman,B Tech ,53,,Hyderabad,31,2019,Single,Yes,3,Healthcare
+GL0920221265,Dilip Billore,B Tech ,53,,Chennai,43,2010,Married,Yes,10,IT
+GL0920221273,Dnyaneshwar Kokate, MBA,53,,Mumbai,36,2017,Single,No,5,Retail
+GL0920221264,Gaurav Singh Baghel, MBA,53,,Kolkata,44,2020,Single,Yes,3,IT
+GL0920221285,Gauraw, MBA,53,,Mumbai,37,2013,Single,Yes,6,IT
+GL0920221249,Gautam, MBA,53,,Hyderabad,45,2018,Single,Yes,5,Sales
+GL0920221144,Jaskaran Dhillon,B Com,53,,Bangalore,37,2020,Single,No,2,Finance
+GL0920221299,Meghnath,B Com,53,,Chennai,30,2020,Single,Yes,2,Logistics
+GL1020221301,MUZAMMIL IRFAN SHAIKH,B.Sc,53,,Ahmedabad,44,2013,Single,No,8,Manufacturing
+GL1020221304,NIKHIL PURUSHOTTAMRAO MOTEWAR,B Com,53,,Delhi,35,2018,Married,Yes,2,Retail
+GL0920221248,Om Prakash M, MBA,53,,Hyderabad,25,2013,Single,No,7,Manufacturing
+GL0920221281,PRADNYA NITIN SHANKPAL,B Tech ,53,,Chennai,28,2013,Married,No,8,HR
+GL0920221272,PRAKASH KUMAR NAYAK,B Com,53,,Kolkata,24,2015,Married,No,6,IT
+GL0920221283,Pranab Nag,B.Sc,53,,Delhi,38,2011,Single,Yes,8,Sales
+GL0920221292,RAHEEM MOHAMMAD,B Tech ,53,,Ahmedabad,36,2018,Single,Yes,4,Logistics
+GL0920221294,Rahul Sathe,B Com,53,,Kolkata,44,2017,Single,Yes,6,Sales
+GL0920221275,SAID AMOL JIJABHAU,BE Mechanical,53,,Bangalore,39,2015,Single,Yes,4,Manufacturing
+GL0920221298,Sandeep Kumar Maurya, MBA,53,,Kolkata,24,2018,Married,Yes,5,Sales
+GL0920221280,SANJIT KUMAR GUPTA,B Com,53,,Hyderabad,42,2017,Married,No,4,Sales
+GL0920221293,Satish P. Wankhede,B Tech ,53,,Kolkata,31,2014,Single,Yes,8,Finance
+GL0920221267,SATYA PRAKASH PATEL,B.Sc,53,,Hyderabad,26,2021,Married,Yes,2,IT
+GL1020221303,Shubham Ramdayal Sharma, MBA,53,,Mumbai,41,2019,Married,Yes,2,Digital Marketing
+GL0920221286,SUJITH ACHARYA,B Com,53,,Mumbai,25,2019,Married,Yes,4,Logistics
+GL0920221262,Suraj Kumar Sahoo,B Tech ,53,,Hyderabad,39,2019,Married,No,2,Retail
+GL0920221263,Vaibhav Srivastava,B Com,53,,Mumbai,41,2019,Married,No,3,Logistics
+GL052022648,NARENDRA KUMAR,B Com,53,,Kolkata,39,2012,Single,No,10,Retail
+GL052022633,TUSHAR PATHAK,BE Mechanical,53,,Delhi,36,2016,Married,Yes,5,Healthcare
+GL1020221317,Shiv kumar,B Com,54,,Hyderabad,39,2014,Single,No,7,Sales
+GL1020221321,MILIND KUMAR SINGH,B Tech ,54,,Kolkata,35,2011,Single,Yes,10,Sales
+GL1020221322,Haseena Begum,B Tech ,54,,Delhi,40,2019,Married,Yes,3,Operations
+GL1020221326,Manveer Nakoti,B.Sc,54,,Delhi,27,2013,Single,Yes,6,HR
+GL1020221328,Harshit Tej, MBA,54,,Mumbai,39,2014,Married,Yes,9,Sales
+GL1020221330,Arockiasamy Kounder, MBA,54,,Delhi,30,2020,Single,Yes,3,HR
+GL1020221332,Rajath Nayak,BE Mechanical,54,,Kolkata,34,2019,Married,No,3,IT
+GL1020221331,Santhos Sharma,B.Sc,54,,Chennai,43,2018,Single,No,3,Manufacturing
+GL1020221338,Sreekanth Sathyan,B.Sc,54,,Chennai,31,2018,Married,No,2,Healthcare
+GL1020221340,Anas Saifi,B.Sc,54,,Mumbai,36,2018,Married,No,5,Logistics
+GL1020221339,Pankaj kumar, MBA,54,,Chennai,43,2014,Married,Yes,6,Logistics
+GL1020221345,Yashwanth KN,B Tech ,54,,Hyderabad,39,2012,Single,No,10,HR
+GL1020221347,RASHMI RATHI SINHA,B.Sc,54,,Chennai,41,2014,Single,Yes,6,Manufacturing
+GL1020221350,Nitish Sharma,BE Mechanical,54,,Hyderabad,34,2015,Married,No,7,Logistics
+GL1020221351,Vikas Singh,BE Mechanical,54,,Hyderabad,40,2016,Single,No,6,Finance
+GL1020221354,Pranjal,BE Mechanical,54,,Ahmedabad,28,2018,Single,Yes,3,Retail
+GL1020221363,Nazrul Khan,B Com,54,,Chennai,28,2016,Single,No,6,IT
+GL1020221366,ABHIJEET SIDDHARTH GAWALI,BE Mechanical,54,,Delhi,28,2011,Single,Yes,8,Digital Marketing
+GL1020221367,AMIT KUMAR,B Com,54,,Ahmedabad,35,2018,Single,Yes,4,Operations
+GL1020221368,Naresh V, MBA,54,,Delhi,25,2014,Married,No,5,Healthcare
+GL1020221376,Chethan Chaithra,B.Sc,54,,Chennai,38,2011,Single,No,9,Healthcare
+GL1020221334,Srinchan Raj,B.Sc,54,,Ahmedabad,44,2015,Single,No,7,HR
+GL1020221379,PRATHAMESH POWAR,B.Sc,54,,Bangalore,24,2014,Single,No,9,Finance
+GL1020221384,LOKESH REDDY,B.Sc,54,,Delhi,28,2019,Single,Yes,2,HR
+GL1020221386,Amal Chacko,BE Mechanical,54,,Bangalore,42,2014,Single,No,5,IT
+GL1020221387,Abhishek Anand, MBA,54,,Kolkata,45,2013,Single,Yes,9,Finance
+GL1020221392,MANSOOR AHMED SHAIK,B Tech ,54,,Bangalore,33,2017,Single,Yes,5,Sales
+GL0920221143,Santosh Sharma,BE Mechanical,54,,Bangalore,28,2012,Married,No,10,Retail
+GL1020221400,Shaik tippu sultan,B Com,54,,Bangalore,30,2014,Single,Yes,8,Digital Marketing
+GL1020221404,Laxmikanth,B Com,54,,Chennai,26,2019,Single,No,3,Operations
+GL1020221405,SOUVIK SEN, MBA,54,,Ahmedabad,41,2014,Single,Yes,8,Retail
+GL1020221396,Dharmanshu,B.Sc,54,,Bangalore,32,2018,Married,Yes,4,Sales
+GL062022776,Kannan Suganya,B Tech ,54,,Kolkata,34,2016,Single,No,3,Logistics
+GL1020221309,Venkata Naga Sai Sasank,B.Sc,54,,Hyderabad,30,2018,Married,Yes,3,Retail
+GL0920221277,Hetal Pandya, MBA,54,,Chennai,33,2013,Married,Yes,7,Logistics
+GL0920221231,Aiman Shaik,B Com,54,,Delhi,29,2016,Married,No,5,Healthcare
+GL1020221342,Vivek Radheshyam Nishad,BE Mechanical,55,,Delhi,41,2012,Single,No,10,Healthcare
+GL0920221258,Kumari Pallavi suman,B Com,55,,Hyderabad,34,2014,Single,No,8,Finance
+NA,SIDDAIAH PK,B Com,55,,Mumbai,42,2019,Single,Yes,3,HR
+GL1020221364,Janmejay Singh Bharadwaj,BE Mechanical,55,,Mumbai,33,2017,Married,Yes,3,Manufacturing
+GL1020221371,MOHAMMAD NAVEED,B Tech ,55,,Kolkata,43,2015,Married,Yes,6,Retail
+GL1020221377,Vishnu Kulkarni, MBA,55,,Bangalore,25,2009,Single,No,10,IT
+GL1020221335,Yashaswini kc,B Tech ,55,,Bangalore,28,2018,Single,No,2,IT
+GL1020221391,Sandeep j,BE Mechanical,55,,Chennai,45,2019,Single,Yes,2,Retail
+GL1020221393,Kalla sai manikanta, MBA,55,,Bangalore,26,2019,Single,Yes,3,Manufacturing
+GL1020221402,Naveen Kumar Y,B Com,55,,Mumbai,39,2012,Married,No,10,Logistics
+GL0820221116,Niranjan K,B Tech ,55,,Kolkata,32,2015,Single,Yes,5,Retail
+GL0820221115,MAITHADKA HEMANATHA BHAVISHITHKUMAR, MBA,55,,Kolkata,32,2019,Married,No,4,Finance
+GL1020221324,Vaibhav Thapliyal, MBA,55,,Delhi,38,2015,Married,No,6,Healthcare
+GL1020221443,RANJAN KUMAR SAHU,B.Sc,55,,Delhi,42,2015,Single,Yes,8,IT
+GL1020221313,Pavan Bhasme, MBA,56,,Hyderabad,26,2018,Single,Yes,2,Digital Marketing
+GL1020221314,MANU C V,B Tech ,56,,Kolkata,38,2017,Single,No,2,IT
+GL1020221306,Bimal,B.Sc,56,,Kolkata,36,2012,Married,Yes,9,Logistics
+GL1020221316,Siddharth Saxena,B Com,56,,Mumbai,27,2015,Single,No,7,Sales
+GL1020221320,RAHUL KUMAR,BE Mechanical,56,,Chennai,40,2016,Married,Yes,5,Logistics
+GL1020221319,Manasi Pandey,BE Mechanical,56,,Mumbai,34,2015,Married,No,4,Operations
+GL1020221323,MOHAN KRISHNA T,B.Sc,56,,Mumbai,35,2016,Married,Yes,6,Operations
+GL0920221196,JALLI BOJJAPPA,BE Mechanical,56,,Ahmedabad,43,2012,Married,Yes,8,Retail
+GL1020221325,HARA PRASAD MISHRA,BE Mechanical,56,,Bangalore,32,2015,Single,Yes,7,Operations
+GL1020221327,N Priyadharshini,B Tech ,56,,Chennai,36,2015,Single,Yes,7,Operations
+GL1020221329,DURYODHAN MANOHAR NARANJE,B Tech ,56,,Bangalore,26,2013,Married,Yes,8,Digital Marketing
+GL1020221336,Devendra Mahadeo, MBA,56,,Chennai,25,2016,Single,Yes,5,Operations
+GL1020221337,Saunik Kumar Singh,BE Mechanical,56,,Kolkata,28,2010,Married,No,10,HR
+GL1020221341,Abhishek kumar Shrivastva,B Com,56,,Chennai,41,2012,Single,Yes,10,Finance
+GL1020221343,Varsha,BE Mechanical,56,,Mumbai,36,2014,Married,Yes,5,Sales
+GL1020221346,Priyanka Paniyar,B.Sc,56,,Chennai,41,2017,Married,No,4,Retail
+GL1020221348,Sambit Mishra,BE Mechanical,56,,Hyderabad,33,2016,Single,No,5,Logistics
+-,MAYURI ARUN LANJEWAR,B Tech ,56,,Hyderabad,40,2015,Married,No,5,Healthcare
+GL1020221352,MANOJ R,B.Sc,56,,Mumbai,35,2013,Single,No,7,Digital Marketing
+GL1020221356,Vishal,B Com,56,,Delhi,35,2014,Single,Yes,8,IT
+GL1020221358,Venu B A,B Com,56,,Mumbai,43,2012,Married,Yes,8,Logistics
+GL1020221359,Sheryl Mandonsa, MBA,56,,Hyderabad,37,2015,Married,Yes,6,Logistics
+GL1020221362,Rushikesh Sukase Patil,B Com,56,,Bangalore,29,2012,Married,No,8,Healthcare
+GL1020221361,Salman bagwan,BE Mechanical,56,,Mumbai,25,2013,Married,Yes,10,Finance
+GL0920221192,Bali Ram Singh,B.Sc,56,,Delhi,32,2015,Single,Yes,6,IT
+GL1020221369,ANKUR SHARMA,B Com,56,,Delhi,36,2014,Married,Yes,7,Healthcare
+GL1020221370,Balachander K, MBA,56,,Hyderabad,31,2016,Single,Yes,5,Manufacturing
+GL1020221374,Upendra Atukuri,B Tech ,56,,Chennai,44,2018,Single,Yes,4,IT
+GL1020221375,Srikanth varma,B Tech ,56,,Kolkata,36,2018,Single,No,3,HR
+GL1020221353,Niranjan,BE Mechanical,56,,Kolkata,34,2014,Single,Yes,5,Finance
+GL1020221378,VIJAY KUMAR BATHULA, MBA,56,,Mumbai,38,2018,Single,No,2,IT
+GL1020221380,DHANANJAY APPASAHEB TUPE,BE Mechanical,56,,Ahmedabad,39,2017,Married,Yes,3,Sales
+GL1020221382,Pankaj Kumar,B Tech ,56,,Ahmedabad,44,2012,Married,No,8,Logistics
+GL032022412,Richa Patel,B.Sc,56,,Chennai,24,2015,Married,Yes,8,Sales
+GL1020221381,Syed Faizul Abbas, MBA,56,,Hyderabad,30,2015,Single,Yes,6,Manufacturing
+GL1020221383,Jeevan Kumar,B Tech ,56,,Chennai,26,2016,Single,No,7,Digital Marketing
+GL1020221385,Sribalaji D,BE Mechanical,56,,Chennai,24,2017,Married,No,4,Digital Marketing
+GL1020221388,Nutan Shinde, MBA,56,,Hyderabad,33,2017,Married,No,4,Operations
+GL1020221389,Bhal Chandra Raju patil,BE Mechanical,56,,Chennai,34,2013,Single,Yes,9,Digital Marketing
+GL1020221390,Pathan Mastan Vali, MBA,56,,Kolkata,28,2015,Married,No,7,Digital Marketing
+GL1020221394,YUGA PRASANTH V G, MBA,56,,Ahmedabad,32,2013,Married,Yes,7,IT
+GL1020221395,Shivam Gupta, MBA,56,,Bangalore,34,2019,Married,No,4,Logistics
+GL1020221397,RAJ MISHRA,B Com,56,,Bangalore,31,2014,Single,No,8,Healthcare
+GL1020221398,Prasad Pawar,B Tech ,56,,Ahmedabad,29,2013,Single,Yes,8,Healthcare
+GL1020221406,Parameshwari, MBA,56,,Ahmedabad,29,2017,Single,Yes,5,Operations
+GL1020221407,Harsha Abhijit Pednekar,B Tech ,56,,Ahmedabad,36,2012,Married,Yes,9,Manufacturing
+GL062022780,PREETI,B.Sc,56,,Mumbai,39,2013,Single,Yes,9,HR
+GL1020221393,Kalla sai manikanta, MBA,56,,Hyderabad,37,2014,Married,No,7,Operations
+GL072022787,VIKRAM SINGH SAHU,BE Mechanical,56,,Delhi,25,2014,Married,Yes,8,Retail
+GL1020221454,ANSHUL MEHRA,B Com,57,,Kolkata,35,2014,Married,Yes,7,Finance
+GL1020221426,Arifa,B Tech ,57,,Hyderabad,28,2012,Married,No,9,Healthcare
+GL072022846,Athil bin Abas,BE Mechanical,57,,Hyderabad,24,2009,Single,No,10,HR
+GL1020221469,ELI DHARMA TEJA,B.Sc,57,,Mumbai,45,2014,Single,No,5,Sales
+GL1020221411,Mario Shane Kojima, MBA,57,,Kolkata,44,2019,Single,No,3,Sales
+GL1020221440,Mohammed Aftab Hussain,B Com,57,,Kolkata,32,2010,Married,Yes,9,HR
+GL1020221467,MONISH GEORGE MOHAN,B Tech ,57,,Delhi,31,2015,Single,No,6,Manufacturing
+GL1020221441,Neeraj Sharma,B Tech ,57,,Chennai,24,2020,Married,No,3,Operations
+GL1020221436,Pramodh B G Acharya,B Tech ,57,,Chennai,24,2013,Single,No,6,HR
+GL1020221466,Priyanka Singh Sikarwar,BE Mechanical,57,,Delhi,31,2015,Single,No,6,Finance
+GL1020221438,Raju Mahadevappa Ghate,B.Sc,57,,Mumbai,26,2017,Married,Yes,5,HR
+GL062022673,Roopashree,B Tech ,57,,Mumbai,42,2013,Married,Yes,8,Logistics
+GL1020221464,Sai Vasuki Madiraju,B.Sc,57,,Mumbai,32,2015,Married,Yes,7,Logistics
+GL1020221463,SAURABH SHIVAJI HARAL,BE Mechanical,57,,Hyderabad,31,2019,Married,No,2,Retail
+GL1020221433,SHARMA GAURAV TARADATTA, MBA,57,,Mumbai,30,2013,Single,Yes,10,Retail
+GL1020221472,Shreya Sudhir Echake, MBA,57,,Delhi,28,2013,Married,Yes,8,Healthcare
+GL1020221410,Shubham Vijayrao Dhole, MBA,57,,Delhi,26,2011,Single,Yes,10,Manufacturing
+GL1020221496,Sneha Thapliyal,B.Sc,57,,Mumbai,43,2015,Single,No,7,HR
+GL062022774,Sudheer Ameri Shetty, MBA,57,,Delhi,42,2014,Married,No,9,Operations
+GL1020221399,UDIPTA KUMAR SAHA, MBA,57,,Bangalore,24,2017,Married,No,5,Retail
+GL112021214,Vijendra Singh,B.Sc,57,,Hyderabad,35,2015,Single,Yes,6,HR
+GL1020221351,Vikas Kumar singh,B Tech ,57,,Mumbai,34,2015,Married,No,5,Digital Marketing
+GL1020221430,Vivek Choudhary,BE Mechanical,57,,Bangalore,42,2013,Married,No,9,Sales
+GL1020221360,Prajwal Prakash Chauhan, MBA,57,,Bangalore,39,2009,Married,No,10,Digital Marketing
+GL1020221424,Ankit Negi, MBA,58,,Ahmedabad,45,2014,Single,No,6,Logistics
+GL1020221509,Arun jain,B Com,58,,Ahmedabad,27,2018,Single,Yes,2,IT
+GL1020221419,Chintan Sanghvi,B Tech ,58,,Ahmedabad,25,2010,Single,Yes,10,HR
+GL1020221468,Jhashaketh,B Com,58,,Mumbai,41,2011,Married,Yes,9,IT
+GL1020221432,Mallika N,B Com,58,,Ahmedabad,27,2013,Single,Yes,8,Finance
+GL1020221483,P Jeeva, MBA,58,,Delhi,34,2019,Single,Yes,3,Healthcare
+GL1120221525,Pintukumari Bera,B Tech ,58,,Chennai,32,2019,Married,Yes,3,Retail
+GL1020221458,Praveen Kumar,B.Sc,58,,Bangalore,41,2013,Single,Yes,9,Retail
+GL1020221495,Sajin,B Tech ,58,,Chennai,24,2020,Married,No,2,Retail
+GL1020221448,Saloni Agarwal,BE Mechanical,58,,Kolkata,39,2019,Single,Yes,3,Finance
+GL1020221427,Sharat Reddy, MBA,58,,Mumbai,43,2016,Single,No,7,Finance
+GL1020221431,Shubham Mahale, MBA,58,,Chennai,43,2014,Married,Yes,7,Healthcare
+GL1020221489,Shwetank Anand,B.Sc,58,,Delhi,37,2019,Single,Yes,3,Digital Marketing
+GL1020221444,SRINIVAS REDDY KALLEM,BE Mechanical,58,,Bangalore,27,2017,Married,No,4,Operations
+GL1020221423,Srujanareddy,BE Mechanical,58,,Bangalore,27,2013,Married,Yes,9,Finance
+GL1020221429,Subham Dutta,B Tech ,58,,Ahmedabad,40,2014,Married,No,6,Manufacturing
+GL1020221344,Sunil Tukaram Telang,B.Sc,58,,Bangalore,40,2014,Single,No,6,Manufacturing
+GL1020221460,Venkat Karanam,B Tech ,58,,Bangalore,26,2018,Married,No,2,Digital Marketing
+GL1020221437,Vignesh,B Com,58,,Hyderabad,37,2014,Single,Yes,6,IT
+GL1020221428,Vipin Singh, MBA,58,,Ahmedabad,34,2015,Single,Yes,6,Finance
+GL1020221414,Shailesh,B Com,58,,Hyderabad,34,2013,Married,No,9,HR
+GL1020221453,Aby Joseph, MBA,58,,Ahmedabad,31,2017,Single,No,2,IT
+GL0920221295,ASHUTOSH SHRIVASTAVA,BE Mechanical,58,,Ahmedabad,41,2015,Married,Yes,6,Retail
+GL1020221421,Sherin Thomas,BE Mechanical,58,,Delhi,28,2018,Married,Yes,2,Digital Marketing
+GL1020221461,Samir Chaubal,B Tech ,58,,Hyderabad,33,2013,Married,No,9,Finance
+GL1020221488,Pradeep,B Com,58,,Bangalore,31,2010,Single,Yes,9,Digital Marketing
+GL1020221470,Siddartha H,BE Mechanical,58,,Hyderabad,24,2012,Married,No,9,Digital Marketing
+GL1020221474,Aman Verma,BE Mechanical,59,,Delhi,34,2013,Married,No,8,Sales
+GL1020221476,THOTA UDAY, MBA,59,,Hyderabad,36,2020,Single,No,3,HR
+GL1020221478,Sathyaraj,BE Mechanical,59,,Hyderabad,42,2011,Single,Yes,10,Logistics
+GL1020221479,Abhishek Arya,B Com,59,,Hyderabad,24,2012,Married,Yes,8,Sales
+GL1020221480,Lalit Chandra Bhatt,B Tech ,59,,Bangalore,28,2017,Married,No,5,Healthcare
+GL1020221491,Kiran Kumar.AS,B Tech ,59,,Kolkata,41,2014,Married,Yes,6,Retail
+GL1020221499,Aniket Borse, MBA,59,,Bangalore,37,2012,Single,No,9,Finance
+GL1020221502,Sanjay Halder, MBA,59,,Delhi,43,2020,Single,No,2,IT
+GL1020221498,AMIT KUMAR KARN,B Com,59,,Kolkata,32,2013,Married,No,10,Operations
+GL1020221503,JHA ANISH ANAND,B Com,59,,Ahmedabad,39,2012,Single,Yes,9,Operations
+GL1020221505,Siva Sankar Reddy,B.Sc,59,,Hyderabad,29,2015,Married,No,7,Healthcare
+GL1020221366,ABHIJEET SIDDHARTH GAWALI,B Com,59,,Ahmedabad,45,2016,Married,No,6,Logistics
+GL1020221462,Vishal Raj,B.Sc,59,,Mumbai,44,2017,Married,No,5,Healthcare
+GL1020221408,Samir Mishra,BE Mechanical,59,,Kolkata,45,2013,Single,No,9,IT
+GL1020221465,Rohit Umashankar Badule,B Com,59,,Bangalore,37,2009,Single,Yes,10,Retail
+GL1020221520,RAJINDER SINGH,B.Sc,59,,Bangalore,32,2016,Single,No,4,Healthcare
+GL1120221521,Shivansh Shukla,B Com,59,,Ahmedabad,44,2016,Single,No,7,Healthcare
+GL1020221387,Abhishek Anand,B Tech ,59,,Kolkata,28,2012,Single,Yes,10,Retail
+GL1120221530,SHIVANI,BE Mechanical,59,,Hyderabad,38,2017,Married,No,2,Finance
+GL1120221533,GAURAV GUPTA,B.Sc,59,,Ahmedabad,28,2014,Single,Yes,5,Digital Marketing
+GL1120221535,Gurjot Singh,B Com,59,,Chennai,25,2015,Married,No,4,Manufacturing
+GL1120221534,Ankit mishra,B Tech ,59,,Delhi,25,2012,Married,Yes,10,Healthcare
+GL1020221384,LOKESH REDDY,B Com,59,,Mumbai,25,2018,Single,No,3,Finance
+GL082022976,Ravi chandra,B.Sc,59,,Kolkata,38,2018,Married,Yes,3,Sales
+GL1020221396,Dharmanshu,BE Mechanical,59,,Mumbai,39,2017,Single,No,2,Operations
+GL1120221528,Laxman Tinku,B Com,59,,Mumbai,34,2012,Single,Yes,10,Logistics
+GL1020221417,Rishabh Srivastava,B Tech ,59,,Mumbai,43,2015,Single,Yes,7,HR
+GL0920221207,Sarang Pawar, MBA,59,,Hyderabad,40,2013,Single,No,8,Retail
+GL072022877,NABIL ABDUL RAHIMAN MULLAJI, MBA,59,,Bangalore,26,2019,Single,No,3,Digital Marketing
+GL1020221307,PALLAVI GUJARE, MBA,59,,Bangalore,29,2012,Single,Yes,9,Manufacturing
+GL1020221493,ABHILASH ANIL TAYDE,BE Mechanical,60,,Bangalore,37,2017,Married,No,3,Manufacturing
+GL1020221357,Ashok Suthar,B.Sc,60,,Bangalore,44,2017,Single,No,5,Healthcare
+GL1020221517,Chaitaniya chadda,B.Sc,60,,Chennai,29,2017,Married,Yes,4,IT
+GL1020221500,JAIPAL JANGAM,B Com,60,,Chennai,28,2015,Single,No,5,Healthcare
+GL1120221528,LAXMAN TINKU,B.Sc,60,,Chennai,30,2012,Married,No,8,Sales
+GL1020221483,P JEEVA,BE Mechanical,60,,Chennai,25,2019,Married,No,3,Sales
+GL1020221495,sajin k kunjumon,BE Mechanical,60,,Bangalore,41,2013,Single,No,9,IT
+GL1020221481,Shahul A,B Com,60,,Kolkata,36,2017,Single,Yes,4,Finance
+GL1020221489,SHWETANK ANAND,BE Mechanical,60,,Kolkata,43,2013,Single,Yes,8,Digital Marketing
+GL1020221512,Siva Ram Krishnan,B.Sc,60,,Kolkata,34,2017,Married,Yes,3,Healthcare
+GL1020221447,Kaina Mandal,B.Sc,60,,Delhi,34,2016,Married,No,5,Retail
+GL1020221413,Rahul Kumar,B.Sc,60,,Kolkata,28,2017,Married,Yes,4,Logistics
+GL1020221473,Nilesh Dhanraj,B Tech ,60,,Ahmedabad,34,2017,Single,Yes,6,IT
+GL1020221456,Swagata Dutta,B.Sc,60,,Mumbai,32,2019,Single,No,3,Finance
+GL1020221452,Vardhan,B Com,60,,Hyderabad,29,2013,Single,Yes,9,IT
+GL1020221451,JIGNESHBHAI SHASHIKANTBHAI SONI,B Tech ,60,,Kolkata,31,2016,Single,No,6,Sales
+GL1020221457,Atul Kumar,B Com,60,,Bangalore,33,2018,Single,Yes,2,IT
+GL1020221420,RAMYA RANJAN PATEL,BE Mechanical,60,,Bangalore,35,2018,Married,No,3,Operations
+GL1020221435,Mohd Zaki Ahmed,B Com,60,,Delhi,30,2011,Single,Yes,9,Retail
+GL1020221434,Chilkamolla Mahender Goud,B.Sc,60,,Mumbai,30,2018,Married,Yes,4,HR
+GL1120221553,BHARATH ANUMULA, MBA,60,,Hyderabad,33,2012,Single,Yes,8,HR
+GL0920221285,Gauraw,B Com,60,,Bangalore,30,2010,Single,No,9,Finance
+GL1020221497,Saurav S Menon, MBA,60,,Bangalore,25,2014,Married,Yes,6,Digital Marketing
+GL1020221517,chaitanya,BE Mechanical,61,,Kolkata,40,2016,Married,Yes,4,Digital Marketing
+GL1120221527,Sowmya Nandi,B Com,61,,Delhi,31,2013,Single,Yes,7,IT
+GL1020221514,magesh,B.Sc,61,,Chennai,36,2014,Single,No,8,Healthcare
+GL1020221510,Saurabh Rajaj,B Com,61,,Chennai,40,2017,Single,No,2,IT
+GL1120221529,Priydarshak Gawande, MBA,61,,Bangalore,37,2018,Married,No,3,Manufacturing
+GL1020221485,Rakesh Rout,B.Sc,61,,Mumbai,27,2014,Married,Yes,7,IT
+GL1020221486,Pooja atul pardeshi,B Com,61,,Bangalore,24,2015,Single,No,6,Digital Marketing
+GL1020221475,Mohammed Farzana Begum,B.Sc,61,,Chennai,41,2012,Married,No,9,Logistics
+GL0920221237,Rajat Verma,B.Sc,61,,Mumbai,45,2014,Single,No,6,Digital Marketing
+GL1020221519,Manish,B.Sc,61,,Kolkata,29,2013,Single,Yes,10,Logistics
+GL1120221523,Sumit sharma,B Tech ,61,,Hyderabad,34,2012,Single,No,10,HR
+GL1020221513,Aditya Bopanwar,B Com,61,,Bangalore,39,2018,Single,No,3,Logistics
+GL1120221526,Deepak Verma,BE Mechanical,61,,Bangalore,45,2020,Single,Yes,3,Healthcare
+GL1020221482,Sachin Sidharth Narwade,BE Mechanical,61,,Bangalore,45,2013,Married,Yes,10,Retail
+GL1020221477,AMIT KUMAR GUPTA,B Com,61,,Mumbai,43,2014,Married,Yes,5,Sales
+GL1020221494,Arunkanth Dala, MBA,61,,Ahmedabad,24,2017,Married,Yes,6,Sales
+GL1020221501,J Tilak raj,B Tech ,61,,Mumbai,44,2021,Married,No,2,Digital Marketing
+GL1020221487,Mithilesh Kumar Ranjan,B Com,61,,Mumbai,40,2015,Married,Yes,6,HR
+GL1120221537,Chandhan Harinath Gupta,B Com,61,,Ahmedabad,35,2015,Single,No,8,Operations
+GL072022855,Sameer Kadam, MBA,61,,Ahmedabad,30,2011,Single,No,10,Digital Marketing
+GL1020221511,Swarnika,B Tech ,61,,Ahmedabad,33,2015,Married,Yes,4,IT
+GL0920221189,Ankit gondaliya,B Com,61,,Delhi,37,2020,Single,Yes,2,Retail
+GL1020221490,Surya vamshi,B.Sc,61,,Kolkata,35,2015,Single,Yes,6,Sales
+GL1020221508,Krishan dixit, MBA,61,,Mumbai,29,2015,Married,Yes,5,Healthcare
+GL1020221409,Harshit Mathur,B.Sc,61,,Delhi,41,2012,Married,No,9,Digital Marketing
+GL1020221488,Pradeep,B Com,61,,Hyderabad,30,2017,Single,Yes,6,HR
+GL1020221422,Zakir, MBA,61,,Ahmedabad,44,2016,Single,No,3,Retail
+GL1020221415,MohammadSaheb Kaware,B.Sc,61,,Hyderabad,34,2013,Single,Yes,7,Operations
+GL1020221445,LOKESH,B Com,61,,Mumbai,29,2009,Single,Yes,10,Logistics
+GL1020221449,Prem shanker Tiwari, MBA,61,,Kolkata,30,2014,Single,No,8,Sales
+GL1020221401,Gauravkumar Lakshmikant Thakre,B.Sc,61,,Hyderabad,27,2018,Single,No,2,Manufacturing
+GL0920221288,Akash Gautam Barathe,B Com,61,,Mumbai,38,2017,Married,Yes,6,Sales
+GL1020221459,Patil Swapnil Bharat,B Tech ,61,,Mumbai,25,2014,Single,No,5,Finance
+GL1020221471,Naveen,BE Mechanical,61,,Kolkata,29,2017,Married,Yes,3,Healthcare
+GL1020221442,Hieronimus Francis Xavier,B.Sc,61,,Bangalore,33,2013,Single,Yes,7,Logistics
+GL052022597,Mohd Juniad Shaikh,B Com,61,,Hyderabad,38,2014,Single,Yes,9,Operations
+-,Vandana Mundotia, MBA,61,,Chennai,30,2014,Single,No,7,Digital Marketing
+GL1120221541,Shubham Dewalkar,B Com,62,,Delhi,31,2010,Single,Yes,9,Digital Marketing
+GL1120221546,Pradipta Kumar Datta,BE Mechanical,62,,Kolkata,32,2012,Single,Yes,9,Healthcare
+GL1120221547,Sonali Telang,BE Mechanical,62,,Kolkata,40,2016,Single,Yes,4,Digital Marketing
+GL1120221552,Ajay Kumar Sav,B Tech ,62,,Ahmedabad,30,2011,Married,Yes,10,Sales
+GL1020221504,K Ravi Teja,B Com,62,,Bangalore,45,2011,Married,Yes,8,IT
+GL1120221558,Sumit, MBA,62,,Ahmedabad,24,2015,Married,No,6,IT
+GL1120221559,Rajal Bhatt, MBA,62,,Ahmedabad,38,2012,Single,No,8,Sales
+GL1120221563,Nilanjan Chakrabarty, MBA,62,,Ahmedabad,37,2013,Single,Yes,8,Sales
+GL1120221570,Shashi Kumar,B Com,62,,Bangalore,37,2016,Single,Yes,3,Healthcare
+GL1120221572,R Mukundan,B Tech ,62,,Ahmedabad,27,2015,Married,Yes,6,Manufacturing
+GL1120221575,Pratik Jangada,BE Mechanical,62,,Delhi,43,2013,Married,Yes,8,HR
+GL1120221579,LAKSHMINARAYANA SANTHOSH KUMAR, MBA,62,,Mumbai,38,2017,Married,No,3,IT
+GL1120221573,PRATIK SONI,B Tech ,62,,Kolkata,26,2016,Single,Yes,4,Sales
+GL1120221582,Purvi Mridha,B Tech ,62,,Bangalore,27,2014,Single,No,6,Logistics
+GL1120221588,Sonali Govindrao Biradar,B Tech ,62,,Kolkata,40,2017,Married,Yes,3,Digital Marketing
+GL1120221589,Ashok Kumar misro,BE Mechanical,62,,Ahmedabad,39,2017,Married,No,5,Healthcare
+GL1120221597,Prasath Palanivel,B Tech ,62,,Hyderabad,34,2014,Married,No,6,Retail
+GL1220221800,Tosif Khan,B.Sc,62,,Chennai,37,2012,Single,No,8,Operations
+GL0920221268,Vipin Batham,B.Sc,62,,Ahmedabad,44,2017,Single,Yes,5,Manufacturing
+GL1120221602,Kiran kumar yeluru,B Tech ,62,,Bangalore,37,2010,Single,No,10,IT
+GL1120221603,SHASHANK GANESH NAIK,B Com,62,,Kolkata,44,2013,Single,Yes,7,IT
+GL1120221604,Prasan Jit Sahoo,BE Mechanical,62,,Mumbai,29,2017,Married,Yes,5,Digital Marketing
+GL1120221605,Vikram Patil,BE Mechanical,62,,Chennai,30,2017,Single,Yes,3,Logistics
+GL1120221610,Swapnil Shrivastava,B Com,62,,Mumbai,26,2016,Single,Yes,6,IT
+GL0820221120,Prabal Tripathi,BE Mechanical,62,,Delhi,32,2013,Married,Yes,8,Healthcare
+GL1120221614,SOUVIK MAHATA, MBA,62,,Hyderabad,36,2017,Single,No,5,Finance
+GL1120221612,Radhika Jullya,B.Sc,62,,Mumbai,30,2011,Single,Yes,10,IT
+GL1020221350,Nitish Sharma,BE Mechanical,62,,Bangalore,30,2013,Married,No,7,Operations
+GL1120221557,Rahul Shriwas, MBA,62,,Delhi,41,2019,Married,No,3,Manufacturing
+GL1120221584,VRISHALI SACHIN RANE,B Com,62,,Ahmedabad,30,2018,Single,Yes,2,Logistics
+GL032022434,RAHUL VERMA,B Com,62,,Chennai,43,2012,Single,No,10,IT
+GL1120221539,Shubham Gupta,BE Mechanical,63,,Delhi,25,2012,Married,No,9,Logistics
+GL1120221538,Abhishek nayak,B.Sc,63,,Chennai,30,2019,Single,Yes,2,Logistics
+GL1120221545,Soumya Kaushik, MBA,63,,Hyderabad,29,2011,Married,Yes,10,Sales
+GL1120221542,Shashikala meti,B Tech ,63,,Delhi,34,2012,Married,No,7,Logistics
+GL1120221543,Ganesh Kumar,BE Mechanical,63,,Bangalore,40,2012,Married,No,10,Digital Marketing
+GL1120221544,JASMINE ESTHER SAMUEL,BE Mechanical,63,,Kolkata,29,2020,Married,No,2,Retail
+GL1120221548,Meenakshi Goyal,BE Mechanical,63,,Chennai,45,2019,Single,Yes,2,HR
+GL1120221549,Sanjay Kumar,B Com,63,,Bangalore,42,2010,Married,Yes,9,Sales
+GL1120221532,Usha Shree NM,BE Mechanical,63,,Hyderabad,30,2015,Single,No,5,Healthcare
+GL1120221554,ANUSHA GANTYADA,B Tech ,63,,Delhi,32,2014,Single,Yes,6,Healthcare
+GL1120221555,Akshay Jadhav,B.Sc,63,,Chennai,26,2017,Single,No,4,Retail
+GL1120221560,Arun kumar, MBA,63,,Hyderabad,30,2016,Single,Yes,5,HR
+GL1120221561,Sujay Gejji, MBA,63,,Hyderabad,41,2015,Single,Yes,7,Retail
+GL1020221403,Ritika Shaw,B Tech ,63,,Chennai,32,2016,Single,No,3,Manufacturing
+GL1120221565,Pilappa girish,BE Mechanical,63,,Mumbai,33,2013,Married,Yes,10,Healthcare
+GL1120221564,Deppanshu Saini,B.Sc,63,,Mumbai,39,2012,Married,Yes,7,IT
+GL1120221567,MANISH KUMAR,B.Sc,63,,Mumbai,39,2012,Married,Yes,10,Healthcare
+GL1120221568,SHYAMALA MOHARANA,BE Mechanical,63,,Chennai,32,2016,Married,No,3,IT
+GL1020221516,HARJEET MEHRA,BE Mechanical,63,,Bangalore,37,2019,Single,No,2,IT
+GL1120221569,Pooja Mehta,BE Mechanical,63,,Chennai,43,2013,Single,No,7,Finance
+GL1120221571,PRIYA PANDEY,B Tech ,63,,Chennai,36,2012,Single,Yes,9,Retail
+GL1120221576,Balakrishnan Devan,BE Mechanical,63,,Hyderabad,38,2013,Single,No,9,Manufacturing
+GL1120221574,Sindhu Sunchu,B Tech ,63,,Mumbai,27,2014,Single,No,9,HR
+-,Shwetha,B Tech ,63,,Ahmedabad,30,2018,Single,No,2,Finance
+GL1120221522,Harsh Tiwari,BE Mechanical,63,,Ahmedabad,42,2014,Married,No,7,HR
+GL1020221425,V Saifulla Khan,B Com,64,,Hyderabad,45,2019,Single,Yes,4,Retail
+GL1120221577,Biswajit Paul, MBA,64,,Kolkata,40,2013,Married,Yes,6,HR
+GL1120221580,RAGHAVENDRA NATH MISHRA,B.Sc,64,,Mumbai,45,2011,Single,Yes,10,Digital Marketing
+GL1120221585,Shubham Lokhande,BE Mechanical,64,,Kolkata,44,2015,Married,No,7,Healthcare
+GL1120221587,DHANDABANI ARAVINDAKANNAN,B.Sc,64,,Mumbai,26,2010,Married,No,10,Sales
+GL1120221586,VIKRAM KUMAR,B Com,64,,Hyderabad,44,2017,Married,No,4,HR
+GL1120221590,Anamika Ghosh, MBA,64,,Kolkata,32,2016,Married,No,5,Operations
+GL1120221596,Bhawna Bhokare,B Com,64,,Delhi,34,2014,Married,No,6,Digital Marketing
+GL1120221592,Dipkanta Nandy,B Com,64,,Chennai,30,2010,Married,No,10,Finance
+GL1120221598,LALIT MOHAN SINGH,B Com,64,,Delhi,33,2018,Single,No,4,Digital Marketing
+GL1120221599,Shivani Praveen Bairagi,B Com,64,,Mumbai,32,2017,Single,No,3,IT
+GL1120221600,Rimjhim Kumari, MBA,64,,Hyderabad,41,2015,Single,No,4,HR
+GL1120221608,Chetan malagi,B.Sc,64,,Chennai,45,2019,Married,No,2,Retail
+GL1120221609,Vishnu Moha,B Com,64,,Ahmedabad,38,2009,Single,Yes,10,Finance
+GL1120221606,AAKANSHA SHUKLA,B.Sc,64,,Mumbai,33,2012,Single,No,10,Sales
+GL1020221446,Sharad. A. Pawar, MBA,64,,Delhi,42,2013,Married,No,6,Logistics
+GL1020221347,Rashmi Rathi Sinha, MBA,64,,Bangalore,36,2014,Married,Yes,7,Logistics
+GL052022633,Tushar pathak,BE Mechanical,64,,Mumbai,42,2013,Married,No,7,Retail
+GL052022648,Narendra Kumar, MBA,64,,Kolkata,40,2018,Married,Yes,3,HR
+GL1120221562,SAKET MUDGAL,BE Mechanical,64,,Ahmedabad,40,2016,Married,No,6,Operations
+GL1120221643,Sushil Kumar, MBA,64,,Bangalore,37,2013,Married,No,9,Sales
+GL122021267,SANKET SANTOSH NARVEKAR,B Com,64,,Kolkata,35,2013,Single,Yes,9,Logistics
+GL122021268,Amit kumar Ayodhyaprasad singh,B Com,64,,Delhi,31,2015,Single,No,6,Sales
+GL1120221591,shobha kshirsagar, MBA,65,,Chennai,41,2017,Single,Yes,5,Operations
+GL1120221611,Ritin Nair, MBA,65,,Delhi,39,2014,Married,Yes,8,Healthcare
+GL1120221613,Rajan Sharma,B.Sc,65,,Chennai,42,2017,Single,Yes,6,Healthcare
+GL1120221615,Macline Montero,B Com,65,,Kolkata,32,2011,Married,No,9,Manufacturing
+GL1120221617,JOHNY PASHA,B.Sc,65,,Chennai,32,2012,Married,Yes,10,HR
+GL1120221618,Akash agarwal,B Tech ,65,,Delhi,45,2016,Married,No,3,Finance
+GL1120221620,Mukundan V,B Com,65,,Chennai,39,2020,Married,Yes,2,Manufacturing
+GL1120221622,WANKHEDE MAYUR SANJAY,B Tech ,65,,Delhi,25,2015,Single,Yes,4,HR
+GL1120221624,VISHAL JOSHI,B Com,65,,Bangalore,45,2020,Single,Yes,2,Logistics
+GL1120221630,Tamil Selvan,B.Sc,65,,Kolkata,39,2014,Married,Yes,5,IT
+GL1120221631,Shubham Raai,B.Sc,65,,Mumbai,40,2012,Single,No,9,Retail
+GL1120221632,Jayant Kumar Sharma,B Com,65,,Delhi,38,2018,Married,No,2,Sales
+GL1120221637,Mehul Soni, MBA,65,,Delhi,36,2013,Single,No,10,Healthcare
+GL1120221638,Pranay Kumar,B Com,65,,Bangalore,43,2013,Single,No,7,Sales
+GL1120221641,FAROOQUI GHAZANFAR,B Tech ,65,,Ahmedabad,40,2011,Married,No,8,Manufacturing
+GL1120221642,Gulam, MBA,65,,Bangalore,36,2012,Single,Yes,9,Manufacturing
+GL1120221647,Namratha,B Com,65,,Chennai,29,2012,Married,Yes,8,Logistics
+GL1120221649,REYESH RAMAKRISHNAN,B.Sc,65,,Chennai,40,2015,Single,No,6,IT
+GL1120221651,Surya Prakash,B.Sc,65,,Mumbai,36,2017,Single,Yes,6,Healthcare
+GL1120221652,Rama Krishna,B Tech ,65,,Delhi,31,2011,Single,Yes,8,Logistics
+GL1020221302,ramesh,B Com,65,,Bangalore,41,2010,Married,Yes,9,Finance
+GL1120221653,Naresh Chadaram,B Tech ,65,,Kolkata,26,2016,Single,No,4,HR
+GL062022743,Pulkit Prashant,B Tech ,65,,Chennai,40,2018,Married,Yes,5,Retail
+GL1020221418,YATIKSHA SAINI,BE Mechanical,65,,Bangalore,45,2017,Married,No,5,Manufacturing
+GL0920221217,Vibhu Sharma,BE Mechanical,65,,Chennai,35,2013,Single,Yes,8,Sales
+GL1120221650,Devank Tyagi,B Com,65,,Bangalore,29,2014,Married,No,5,Manufacturing
+GL1120221657,Sattar shaik,B Tech ,65,,Kolkata,44,2016,Single,Yes,7,Sales
+GL1120221601,Sudarshan,B Tech ,65,,Chennai,34,2015,Married,No,5,Digital Marketing
+GL1120221661,Aditya Vinjarapu, MBA,65,,Bangalore,44,2014,Single,No,5,Operations
+GL1120221621,Aiswarya Sivagami,B Com,65,,Kolkata,42,2010,Married,Yes,9,Healthcare
+GL1120221595,Akshay Anil Kumar Lonsane,B Com,65,,Ahmedabad,37,2014,Married,Yes,7,Operations
+GL052022575,MAYUR SHINDE, MBA,65,,Delhi,39,2019,Single,Yes,2,Retail
+GL0920221300,Harish,B Com,65,,Ahmedabad,27,2013,Single,No,10,IT
+GL1120221550,Avishek Verma,B Tech ,65,,Delhi,27,2011,Married,Yes,8,Finance
+GL1120221551,Sujeet Kumar, MBA,65,,Kolkata,37,2015,Single,No,4,Manufacturing
+GL0920221231,Aiman Shaikh,B Com,65,,Delhi,45,2016,Married,No,6,HR
+GL1120221640,Sivashankar Mandala,BE Mechanical,65,,Delhi,25,2013,Married,Yes,9,Retail
+GL1020221315,Irfan,B Com,65,,Kolkata,28,2012,Married,Yes,10,Operations
+GL072022868,Krunal Prabhakar Lokhand,BE Mechanical,65,,Kolkata,25,2012,Married,Yes,8,Finance
+GL1020221492,Amith Singh,B Com,66,,Hyderabad,35,2013,Married,Yes,10,HR
+GL1120221616,VIKASH PANWAR, MBA,66,,Delhi,42,2017,Married,Yes,5,Finance
+GL1120221619,AMARJEET VISHWAKARMA,B Tech ,66,,Bangalore,45,2015,Married,Yes,7,Sales
+GL1120221623,JADURANJAN DEORI,B.Sc,66,,Delhi,33,2019,Married,No,2,Retail
+GL1120221627,Ganar Jhapata,BE Mechanical,66,,Ahmedabad,43,2016,Single,No,3,Retail
+GL1120221628,Vinay M,B.Sc,66,,Mumbai,32,2014,Single,Yes,7,HR
+GL1120221629,MD SOFI PASHA,B Tech ,66,,Bangalore,28,2012,Married,Yes,7,Healthcare
+GL1120221633,VISHAL VILAS KHAND,B.Sc,66,,Bangalore,45,2014,Married,No,5,Sales
+GL1120221636,Pankaj Chothe,B Tech ,66,,Ahmedabad,37,2018,Single,No,3,IT
+GL1120221634,MUHSIN JAMAL,BE Mechanical,66,,Bangalore,37,2014,Single,Yes,7,Digital Marketing
+GL1120221635,Ashwini Reddy,B.Sc,66,,Delhi,41,2016,Married,No,4,IT
+GL1120221644,MD Hamdan,B Tech ,66,,Ahmedabad,31,2012,Married,No,8,IT
+GL1120221648,Rushali rehpad, MBA,66,,Kolkata,45,2017,Married,Yes,4,Healthcare
+GL1120221659,Mujabbir Malek,B Tech ,66,,Chennai,39,2018,Single,Yes,2,Logistics
+GL042022450,Pradeepta Kumar Sahoo,B Com,66,,Mumbai,35,2011,Married,Yes,9,Manufacturing
+GL062022780,Preethi Kumari,B Tech ,66,,Delhi,31,2014,Married,No,7,Operations
+GL1120221662,Arvind Yadav, MBA,66,,Chennai,39,2013,Married,Yes,8,Finance
+GL052022595,Shivali kulshreshtha,B.Sc,66,,Kolkata,29,2014,Single,Yes,5,Finance
+GL042022546,Harshit Tiwari, MBA,66,,Delhi,34,2013,Married,Yes,6,Operations
+GL072022839,Aravind Murugan, MBA,66,,Hyderabad,42,2018,Married,Yes,3,Sales
+GL1120221655,Sanket Hanche,BE Mechanical,66,,Bangalore,44,2018,Single,No,4,Manufacturing
+GL1020221403,Ritika, MBA,66,,Chennai,38,2012,Married,Yes,9,Retail
+GL072022869,Sneha Krunal Lokhande,BE Mechanical,66,,Mumbai,27,2020,Single,No,3,Finance
+GL1120221663,Siraj Milad, MBA,67,,Kolkata,35,2018,Single,No,3,Manufacturing
+GL1120221665,Roopesh Gooty Kumar,B Com,67,,Hyderabad,38,2011,Married,Yes,10,Operations
+GL1220221667,NITIN,B.Sc,67,,Bangalore,38,2013,Married,No,9,Operations
+GL1220221668,ABHISHEK SINGH,B Tech ,67,,Bangalore,40,2016,Married,No,6,Sales
+GL1220221670,VISHAL SHARMA,B Com,67,,Delhi,32,2021,Married,Yes,2,HR
+GL1220221678,Akash Nitnaware, MBA,67,,Chennai,31,2014,Married,No,8,Logistics
+GL1220221677,UMA MAHESHWARI,B Com,67,,Chennai,35,2017,Single,Yes,2,Logistics
+GL1220221669,Rohit Parmar,B.Sc,67,,Hyderabad,31,2013,Single,Yes,9,IT
+GL1220221680,Kiran,B Tech ,67,,Delhi,44,2020,Single,Yes,2,Finance
+GL1220221681,Vishal Jaiswal,B.Sc,67,,Mumbai,36,2015,Single,Yes,6,Healthcare
+GL1220221688,Preeti Ranjan,B.Sc,67,,Ahmedabad,29,2011,Single,No,10,Finance
+GL1220221687,SURAJ GADE,BE Mechanical,67,,Chennai,43,2017,Single,No,5,Logistics
+GL1220221686,Rahul,BE Mechanical,67,,Mumbai,43,2019,Married,No,3,HR
+GL1220221698,Ajayant,B Tech ,67,,Mumbai,34,2015,Married,Yes,5,Finance
+GL1220221699,Dilip,B.Sc,67,,Hyderabad,38,2017,Married,No,5,Healthcare
+GL1220221696,Chittaranjan,BE Mechanical,67,,Mumbai,33,2018,Married,No,3,Digital Marketing
+GL1220221697,Manash Ranjan Nayak,B.Sc,67,,Kolkata,37,2016,Single,No,5,HR
+GL1220221700,Summit Kumar,B.Sc,67,,Mumbai,35,2012,Married,No,8,Operations
+GL1220221701,Gaurav Pendke,B Com,67,,Mumbai,28,2016,Married,No,3,Retail
+GL102021161,VITTHAL MACHINDRA JAWALE,B Tech ,67,,Hyderabad,42,2016,Married,Yes,6,Operations
+GL1220221703,Minal,B Com,67,,Chennai,28,2017,Single,Yes,4,Logistics
+GL1220221706,Mukul,BE Mechanical,67,,Delhi,29,2015,Single,Yes,5,Operations
+GL1220221707,Sushil Bayen,BE Mechanical,67,,Mumbai,37,2019,Married,Yes,4,IT
+GL1220221710,BINDU GOWDA,BE Mechanical,67,,Ahmedabad,43,2020,Married,Yes,2,Digital Marketing
+GL1220221711,Amit, MBA,67,,Mumbai,37,2016,Single,No,5,Finance
+GL1220221712,Shweta Shrivastava,B Com,67,,Bangalore,34,2014,Married,Yes,5,Finance
+GL1220221719,Mohd Bilal Uddin,BE Mechanical,67,,Bangalore,36,2011,Single,No,9,Retail
+GL1220221721,Vijay Chaudhari,B Com,67,,Ahmedabad,32,2011,Married,Yes,8,HR
+GL1220221723,Madhukar Sharma,B Tech ,67,,Chennai,31,2018,Married,Yes,4,Digital Marketing
+GL1220221724,Tressa Roy,B Com,67,,Chennai,25,2013,Single,Yes,6,Digital Marketing
+GL1220221726,SP Kavin,B.Sc,67,,Ahmedabad,34,2015,Single,Yes,8,Retail
+GL1220221728,Kapil Varshney,B Tech ,67,,Bangalore,36,2019,Married,Yes,2,Healthcare
+GL1120221575,Pratik Jangada,B.Sc,67,,Kolkata,45,2014,Married,No,5,Finance
+GL1220221731,Suchismita,B.Sc,67,,Chennai,27,2013,Married,No,8,Finance
+GL1120221661,Aditya Vimjarapu, MBA,67,,Chennai,24,2014,Single,No,6,IT
+GL012022269,Girja Sunil Palange,BE Mechanical,67,,Hyderabad,26,2009,Married,Yes,10,HR
+GL0920221236,Ravish Mishra,BE Mechanical,67,,Bangalore,40,2018,Married,Yes,2,HR
+GL042022468,Punith Kumar K,B Com,67,,Bangalore,38,2009,Single,No,10,Operations
+GL1120221664,Kasarla Nirmala Jyothi, MBA,68,,Chennai,40,2015,Single,Yes,7,Logistics
+GL1120221666,Naveen Maheshwari, MBA,68,,Bangalore,25,2013,Single,No,7,Digital Marketing
+GL1120221556,RADHA TIWARI,BE Mechanical,68,,Hyderabad,31,2015,Single,No,8,Retail
+GL1120221531,Animesh Mishra,BE Mechanical,68,,Ahmedabad,32,2018,Single,Yes,2,Finance
+GL1120221594,Ritika Dwivedi,B.Sc,68,,Ahmedabad,42,2013,Single,Yes,9,Logistics
+GL1220221671,Payel Sur Roy,B.Sc,68,,Hyderabad,40,2013,Single,Yes,8,Operations
+GL1120221658,Sharad Pawar,B.Sc,68,,Chennai,45,2015,Single,No,8,Sales
+GL1220221672,Prem singh Dammar Khatri, MBA,68,,Ahmedabad,35,2011,Single,No,9,Manufacturing
+GL1220221674,Sudhir Kanugo,B Com,68,,Chennai,41,2016,Single,Yes,6,IT
+GL1220221675,Kavya,B Com,68,,Chennai,30,2013,Married,Yes,10,Digital Marketing
+GL1220221676,Rashmi,B.Sc,68,,Ahmedabad,38,2013,Married,No,8,Logistics
+GL1220221679,Shivam Pandey,B.Sc,68,,Kolkata,29,2015,Married,No,5,Operations
+GL1220221682,Shaik Abdul Moin, MBA,68,,Bangalore,29,2016,Single,Yes,5,Healthcare
+GL1220221684,Manaswini chakra,B.Sc,68,,Mumbai,25,2019,Married,No,2,HR
+GL1220221690,Anand Kumar Jha,B.Sc,68,,Hyderabad,33,2013,Single,No,7,Operations
+GL1220221689,Veeresh,B Com,68,,Ahmedabad,25,2012,Single,Yes,8,Finance
+GL1220221685,Prakash Nayak,B.Sc,68,,Bangalore,37,2018,Single,Yes,2,Retail
+GL1220221692,krishnakumar Jaiswar,B Tech ,68,,Mumbai,40,2019,Single,Yes,3,HR
+GL1220221693,Pallavi Chowdhury,B Tech ,68,,Bangalore,28,2017,Single,No,2,Sales
+GL1220221694,Digvijay Pandey, MBA,68,,Delhi,24,2018,Single,No,4,Healthcare
+GL1220221695,Mrityunjay kumar Pandey,BE Mechanical,68,,Kolkata,40,2015,Married,Yes,8,Finance
+GL1020221493,Abhilash Tayade, MBA,68,,Kolkata,43,2011,Single,Yes,10,Logistics
+GL1120221646,Devidas Uttam Parahad,B.Sc,68,,Hyderabad,30,2013,Married,Yes,6,Logistics
+GL1220221691,Deepak Sharma,B Com,68,,Ahmedabad,37,2012,Married,No,10,Manufacturing
+GL1020221484,Abhishek Ashish,BE Mechanical,68,,Hyderabad,30,2014,Single,Yes,5,Digital Marketing
+GL1220221704,ROHIT BAGI,B Tech ,68,,Hyderabad,38,2015,Single,Yes,7,Digital Marketing
+GL1220221705,Devesh Tiwari,B.Sc,68,,Mumbai,42,2015,Married,Yes,5,Operations
+GL1220221702,Apeksha,B.Sc,68,,Hyderabad,26,2012,Single,Yes,8,Healthcare
+GL1220221713,Biswa Ranjan Samal,B Com,68,,Bangalore,36,2018,Married,No,3,Digital Marketing
+GL1220221714,Divya P,B Com,68,,Hyderabad,28,2013,Married,No,7,Manufacturing
+GL1220221715,PADMA SREE,BE Mechanical,68,,Hyderabad,38,2013,Married,No,6,Sales
+GL1220221718,Muhamad Gouse,B Tech ,68,,Hyderabad,41,2014,Single,Yes,8,Retail
+GL1220221716,Pankaj Narayan Utkhede,B.Sc,68,,Chennai,34,2011,Single,No,10,Retail
+GL1220221717,Naveen Kommula,BE Mechanical,68,,Kolkata,25,2016,Married,Yes,6,Healthcare
+GL1220221720,Deepak Sharma,BE Mechanical,68,,Kolkata,24,2016,Married,Yes,5,IT
+GL1220221722,Bhawani Shankar Jal, MBA,68,,Hyderabad,39,2010,Married,Yes,10,Digital Marketing
+GL1220221725,Maheshwaran,B Com,68,,Chennai,45,2018,Married,No,4,Manufacturing
+GL1220221727,Jai Chandran, MBA,68,,Bangalore,43,2014,Married,Yes,5,Retail
+GL1220221734,Princika Soni,B Com,68,,Hyderabad,34,2013,Single,No,8,Finance
+GL122021235,Mohan Yatam,B.Sc,68,,Hyderabad,31,2017,Single,Yes,5,Retail
+-,Rahul Negi,BE Mechanical,69,,Mumbai,24,2014,Single,No,7,Digital Marketing
+GL1220221683,Athira Asokan,B Com,69,,Bangalore,24,2011,Single,No,8,Digital Marketing
+GL1220221738,Harsh Dhankhar,B Tech ,69,,Delhi,31,2019,Married,Yes,3,HR
+GL1220221742,Fazal,B Com,69,,Bangalore,39,2017,Single,Yes,5,Sales
+GL1220221747,Sonit Tyagi,B.Sc,69,,Delhi,41,2014,Single,Yes,7,HR
+GL1220221748,Rutu,BE Mechanical,69,,Delhi,34,2013,Single,Yes,8,Digital Marketing
+GL1220221749,Kranthi,B Tech ,69,,Hyderabad,42,2011,Married,No,9,Sales
+GL1220221751,Sanjog Shrivastava, MBA,69,,Hyderabad,44,2009,Married,No,10,Digital Marketing
+GL1220221757,Goutham, MBA,69,,Bangalore,32,2011,Married,Yes,8,Retail
+GL1220221761,SANGAM K,B Com,69,,Chennai,30,2016,Single,Yes,5,Finance
+GL1220221768,Datta Waghmare,B.Sc,69,,Mumbai,35,2013,Single,No,7,Logistics
+GL1220221769,Sai Rahul Kumar,BE Mechanical,69,,Bangalore,34,2018,Married,No,3,Manufacturing
+GL1220221770,Vaibhav,B.Sc,69,,Kolkata,39,2015,Single,No,6,Retail
+GL1220221771,Darshini,B Com,69,,Chennai,32,2016,Married,Yes,7,IT
+-,Poonam Rana,B Com,69,,Mumbai,43,2015,Married,No,7,IT
+GL1220221777,Stency Rajan,B Com,69,,Ahmedabad,45,2016,Single,No,5,Logistics
+GL1220221787,Rishabh Shukla,B Com,69,,Kolkata,34,2012,Single,Yes,8,Digital Marketing
+GL1220221784,Jignesh khunt,B.Sc,69,,Ahmedabad,24,2019,Single,Yes,2,Logistics
+GL1220221789,Sawan Kumar,B.Sc,69,,Chennai,32,2021,Single,Yes,2,IT
+-,Anusha M, MBA,69,,Mumbai,29,2016,Married,No,4,Operations
+GL1220221793,Kuldeep Yadav,B Tech ,69,,Ahmedabad,24,2015,Married,No,7,Logistics
+GL1220221794,Jayesh More,BE Mechanical,69,,Kolkata,26,2021,Single,Yes,2,Logistics
+GL1220221797,Vijay pratap Singh,B Tech ,69,,Delhi,25,2012,Married,Yes,9,Finance
+GL1220221801,Anitha.s,BE Mechanical,69,,Delhi,34,2015,Married,Yes,6,Operations
+GL1220221803,Mohammad Faraz Sheikh,B.Sc,69,,Chennai,25,2012,Married,Yes,10,Finance
+GL1220221796,Mukesh,B Tech ,69,,Mumbai,33,2015,Single,Yes,6,IT
+GL1220221805,Pravin Srivastava,B Com,69,,Delhi,35,2018,Single,No,2,Sales
+GL1220221813,Suresh, MBA,69,,Delhi,30,2016,Single,No,4,Logistics
+GL1220221812,Manikanteswara,B.Sc,69,,Hyderabad,34,2011,Married,Yes,10,Healthcare
+GL1220221814,Mohsin,B.Sc,69,,Chennai,39,2019,Married,No,2,IT
+GL1220221815,Muhammad ALTAMASH,BE Mechanical,69,,Hyderabad,28,2013,Single,No,8,Operations
+GL1220221822,Ravivarma,B Tech ,69,,Delhi,42,2011,Single,Yes,10,Logistics
+GL1220221823,Sunit Mondal, MBA,69,,Hyderabad,31,2014,Single,No,6,Digital Marketing
+GL1220221824,Alok Aggarwal,B Com,69,,Ahmedabad,39,2017,Single,No,5,Manufacturing
+GL1020221507,Tausif Alam, MBA,69,,Ahmedabad,39,2015,Single,Yes,7,Digital Marketing
+GL1220221728,Kapil Varshney,BE Mechanical,69,,Hyderabad,37,2015,Married,Yes,7,Finance
+GL1220221832,Praveen Kumar,B Tech ,69,,Kolkata,33,2017,Married,Yes,6,Healthcare
+-,Nandini,B Tech ,69,,Delhi,35,2011,Married,Yes,8,Finance
+GL1220221745,Umesh Lokhande,B.Sc,69,,Kolkata,40,2014,Married,No,5,Digital Marketing
+GL1220221802,Sonia,B Tech ,69,,Bangalore,31,2020,Single,No,2,Digital Marketing
+GL1020221426,Arifa, MBA,69,,Ahmedabad,39,2016,Single,Yes,4,Healthcare
+GL032022374,Muzammil Basha,B Com,69,,Ahmedabad,33,2011,Married,Yes,10,Healthcare
+GL1220221732,Mohammad Aqib, MBA,69,,Hyderabad,44,2016,Single,Yes,6,Healthcare
+GL1020221315,Irfan,B.Sc,69,,Bangalore,36,2015,Single,Yes,8,Sales
+GL1220221773,Aman Shaikh,BE Mechanical,69,,Kolkata,31,2016,Married,No,7,Logistics
+-,Nandini,B Com,69,,Bangalore,33,2010,Single,No,9,HR
+GL1220221817,Shivam Sharma,B.Sc,69,,Ahmedabad,28,2018,Married,No,2,Healthcare
+GL1120221660,Sourav Mondal, MBA,70,,Ahmedabad,40,2014,Married,No,5,Finance
+-,Deepak Sharma,B Tech ,70,,Kolkata,34,2012,Married,No,10,HR
+GL1220221708,RANJEET SINGH,B.Sc,70,,Kolkata,44,2015,Single,No,5,IT
+GL1220221730,Jayanth,BE Mechanical,70,,Bangalore,40,2018,Married,Yes,3,Logistics
+GL1220221741,Pravin Kumar,B.Sc,70,,Kolkata,41,2012,Single,Yes,9,Logistics
+GL1220221744,Ravi Sekhar Devinen,BE Mechanical,70,,Hyderabad,43,2015,Single,No,6,Sales
+GL1220221746,Heena Chheda,B Tech ,70,,Bangalore,25,2013,Married,No,6,IT
+GL1220221750,Upendra Jain,BE Mechanical,70,,Delhi,27,2015,Married,No,7,Sales
+GL1220221752,Alaiwin Prabhu, MBA,70,,Ahmedabad,31,2015,Married,No,7,Manufacturing
+GL1220221756,GAURAB SAHA,B Com,70,,Mumbai,40,2010,Single,No,10,Finance
+GL1220221760,Aveek Barua,B Com,70,,Hyderabad,30,2012,Single,No,9,Manufacturing
+GL1220221754,Naveen Kumar S,B.Sc,70,,Ahmedabad,31,2014,Single,No,7,Finance
+GL1220221763,HarshaVardhan GN,B Tech ,70,,Ahmedabad,27,2011,Married,No,8,Digital Marketing
+GL1220221764,Deepak Morey,B Com,70,,Kolkata,25,2011,Single,No,10,Sales
+GL1220221766,Nischita Praveen Ullagadi,B Tech ,70,,Ahmedabad,26,2016,Married,Yes,6,Sales
+GL1220221772,Gaurav,BE Mechanical,70,,Ahmedabad,42,2016,Single,No,7,IT
+GL1220221774,Jitendra Kumar Sharma,B Com,70,,Ahmedabad,45,2014,Married,No,7,HR
+GL1220221779,Satpal Singh Shekhawat,B.Sc,70,,Kolkata,45,2020,Single,Yes,2,Finance
+GL1220221780,Jitendra Moharana, MBA,70,,Chennai,26,2013,Married,No,6,Finance
+GL1220221781,Manjula nistala,B.Sc,70,,Ahmedabad,26,2015,Single,No,7,HR
+GL1020221385,Sribalaji,B.Sc,70,,Chennai,35,2014,Single,Yes,8,Finance
+GL1220221782,Amit Kumar Yadav,B Com,70,,Mumbai,35,2012,Single,No,10,Retail
+GL1220221788,Prashant Boricha, MBA,70,,Chennai,29,2014,Married,Yes,6,HR
+GL1220221790,Akanksha sharma,BE Mechanical,70,,Mumbai,31,2009,Married,No,10,HR
+GL1220221799,Monika chauhan,B Com,70,,Bangalore,26,2015,Married,No,5,Operations
+GL1220221795,Samir Dhirubhai Mistry,B.Sc,70,,Bangalore,39,2012,Single,Yes,9,Healthcare
+GL1220221806,Mavani Bhavin Bipinbhai,BE Mechanical,70,,Mumbai,31,2020,Married,No,3,HR
+GL1220221807,SUDHAKAR,B Com,70,,Ahmedabad,29,2013,Married,No,7,HR
+GL1220221811,Radha K,B.Sc,70,,Ahmedabad,25,2016,Single,Yes,5,Manufacturing
+GL1220221818,Rajan Singh,BE Mechanical,70,,Delhi,33,2013,Single,Yes,7,Finance
+GL1220221825,Nikhil,B Com,70,,Bangalore,26,2015,Married,Yes,7,Digital Marketing
+GL1220221826,Sajid Ansari,B.Sc,70,,Ahmedabad,44,2017,Single,No,5,HR
+GL1220221827,Chandan T O,B Tech ,70,,Kolkata,43,2012,Single,Yes,9,Healthcare
+GL1220221829,Sayed Sueb Ali,BE Mechanical,70,,Bangalore,45,2014,Single,No,9,HR
+GL1120221581,D SUSHMITA SHAIL,B Tech ,70,,Hyderabad,38,2010,Married,Yes,9,Healthcare
+GL1220221753,Vinay Kumar, MBA,70,,Hyderabad,33,2013,Single,Yes,9,Retail
+GL1120221549,Sanjay Kumar,B.Sc,70,,Chennai,33,2013,Single,Yes,7,Digital Marketing
+GL1220221694,Digvijay Pandey,B Tech ,70,,Ahmedabad,29,2015,Single,No,8,HR
+GL1220221695,MRITYUNJAY KUMAR PANDEY,B.Sc,70,,Ahmedabad,43,2014,Married,Yes,6,Manufacturing
+GL1220221733,Shefan,B Tech ,70,,Delhi,24,2013,Single,Yes,8,HR
+GL1120221639,Prabhu,B Tech ,70,,Kolkata,24,2010,Married,Yes,10,Retail
+GL1220221729,Bhavin,B Com,70,,Bangalore,27,2013,Single,No,9,Digital Marketing
+GL1120221548,Meenakshi Goyal, MBA,70,,Mumbai,39,2019,Married,Yes,3,Retail
+GL1220221809,Anku,BE Mechanical,70,,Ahmedabad,45,2017,Married,Yes,6,Logistics
+GL1220221816,Sai Prasad,BE Mechanical,70,,Delhi,38,2012,Married,No,10,Digital Marketing
+GL1220221798,Tarun Diwaker, MBA,70,,Chennai,34,2014,Married,Yes,7,Sales
+GL1220221820,Shireen,BE Mechanical,70,,Chennai,27,2020,Single,No,3,Sales
+GL1220221828,Sunil Radheshyam Nishad,B Com,70,,Delhi,25,2019,Married,Yes,3,Manufacturing
+GL1220221778,Sakshi Patel,B.Sc,70,,Mumbai,39,2018,Single,Yes,3,HR
+GL1020221496,Sneha Thapliyal, MBA,70,,Kolkata,28,2015,Single,No,6,Operations
+GL1020221497,Deepak Sharma, MBA,70,,Ahmedabad,39,2020,Single,No,2,HR
