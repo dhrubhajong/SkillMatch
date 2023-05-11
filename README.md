@@ -28,5 +28,4 @@ By addressing these challenges and achieving the objectives, the SkillMatch proj
 
 
 
-
-![DB_entity_relation](https://user-images.githubusercontent.com/80103326/236989655-6956f0cf-848b-4c73-9a78-e529fc9569aa.png)
+![SkillMatch_Arch](https://github.com/dhrubhajong/SkillMatch/assets/80103326/438cde69-10c0-487c-8dfa-a8aa586a9b59)
