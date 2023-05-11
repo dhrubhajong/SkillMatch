@@ -27,5 +27,4 @@ The SkillMatch project aims to achieve the following objectives:
 By addressing these challenges and achieving the objectives, the SkillMatch project will empower the management team to make data-driven decisions, track student progress effectively, streamline operations, and support timely placements and scholarship disbursement.
 
 
-
-![SkillMatch_Arch](https://github.com/dhrubhajong/SkillMatch/assets/80103326/438cde69-10c0-487c-8dfa-a8aa586a9b59)
+![SkillMatch_Architecture_2](https://github.com/dhrubhajong/SkillMatch/assets/80103326/87cf5513-0865-4234-8114-99df9e2f26df)
